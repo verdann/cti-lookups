@@ -6,7 +6,7 @@ from datetime import date
 
 
 url_icloudegress = os.environ.get("url_icloudegress", "https://mask-api.icloud.com/egress-ip-ranges.csv")
-output_icloudegress = os.environ.get("output_icloudegress", "../../data/icloudegress")
+output_icloudegress = os.environ.get("output_icloudegress", "data/icloud-proxy")
 COLUMNS = ["cidr", "country", "region", "city", "blank"]
 
 
