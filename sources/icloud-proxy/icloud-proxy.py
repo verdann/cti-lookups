@@ -6,7 +6,7 @@ from datetime import date
 
 
 url_icloudegress = os.environ.get("url_icloudegress", "https://mask-api.icloud.com/egress-ip-ranges.csv")
-output_icloudegress = os.environ.get("output_icloudegress", ".")
+output_icloudegress = os.environ.get("output_icloudegress", "../../data/icloudegress")
 COLUMNS = ["cidr", "country", "region", "city", "blank"]
 
 
@@ -50,6 +50,7 @@ if __name__ == "__main__":
     rows = parse(raw)
 
     out = output_icloudegress.rstrip("/\\")
+    os.makedirs(out, exist_ok=True)
 
     write_csv(f"{out}/egress-ip-ranges{today}.csv", COLUMNS, rows)
 
