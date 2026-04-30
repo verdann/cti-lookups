@@ -9,7 +9,7 @@ permissions:
   contents: write # to put the csv into repo
 
 jobs:
-  run-and-commit:
+  icloud-proxy-data:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
