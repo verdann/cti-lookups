@@ -1,4 +1,5 @@
 import csv
+import ipaddress
 import json
 import os
 import urllib.error
@@ -45,6 +46,16 @@ def write_csv(path: str, rows: list[dict], fieldnames: list[str]):
     print(f"Saved {len(rows)} rows to {path}")
 
 
+def is_ipv4(cidr: str) -> bool:
+    return ":" not in cidr
+
+
+def collapse_cidrs(cidrs: list[str], version: int) -> list[dict]:
+    net_type = ipaddress.IPv4Network if version == 4 else ipaddress.IPv6Network
+    networks = [net_type(c, strict=False) for c in cidrs]
+    return [{"cidr": str(n)} for n in ipaddress.collapse_addresses(networks)]
+
+
 def parse_by_service(data: dict) -> dict[str, list[str]]:
     services: dict[str, list[str]] = {}
     for entry in data.get("values", []):
@@ -78,4 +89,13 @@ if __name__ == "__main__":
         for svc, cidrs in sorted(services.items())
         for cidr in cidrs
     ]
-    write_csv(f"{out}/azure-cidrs-by-service.csv", all_rows, ["systemService", "cidr"])
+    write_csv(f"{out}/azure-cidrs-servicetag{today}.csv", all_rows, ["systemService", "cidr"])
+
+    ipv4_rows = [r for r in all_rows if is_ipv4(r["cidr"])]
+    ipv6_rows = [r for r in all_rows if not is_ipv4(r["cidr"])]
+
+    write_csv(f"{out}/azure-ipv4-servicetag.csv", ipv4_rows, ["systemService", "cidr"])
+    write_csv(f"{out}/azure-ipv6-servicetag.csv", ipv6_rows, ["systemService", "cidr"])
+
+    write_csv(f"{out}/azurecloud-ipv4.csv", collapse_cidrs([r["cidr"] for r in ipv4_rows], 4), ["cidr"])
+    write_csv(f"{out}/azurecloud-ipv6.csv", collapse_cidrs([r["cidr"] for r in ipv6_rows], 6), ["cidr"])
