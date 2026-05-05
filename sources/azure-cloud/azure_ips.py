@@ -90,7 +90,7 @@ if __name__ == "__main__":
     print(f"Found: {json_url}")
 
     data = fetch_json(json_url)
-    save_json(f"{out}/ServiceTags_Public_{today}.json", data)
+    save_json(f"{out}/ServiceTags_Public_Current.json", data)
 
     services = parse_by_service(data)
 
