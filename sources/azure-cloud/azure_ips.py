@@ -56,6 +56,17 @@ def collapse_cidrs(cidrs: list[str], version: int) -> list[dict]:
     return [{"cidr": str(n)} for n in ipaddress.collapse_addresses(networks)]
 
 
+def collapse_by_service(rows: list[dict], version: int) -> list[dict]:
+    grouped: dict[str, list[str]] = {}
+    for r in rows:
+        grouped.setdefault(r["systemService"], []).append(r["cidr"])
+    result = []
+    for svc in sorted(grouped):
+        for entry in collapse_cidrs(grouped[svc], version):
+            result.append({"systemService": svc, "cidr": entry["cidr"]})
+    return result
+
+
 def parse_by_service(data: dict) -> dict[str, list[str]]:
     services: dict[str, list[str]] = {}
     for entry in data.get("values", []):
@@ -94,8 +105,8 @@ if __name__ == "__main__":
     ipv4_rows = [r for r in all_rows if is_ipv4(r["cidr"])]
     ipv6_rows = [r for r in all_rows if not is_ipv4(r["cidr"])]
 
-    write_csv(f"{out}/azure-ipv4-servicetag.csv", ipv4_rows, ["systemService", "cidr"])
-    write_csv(f"{out}/azure-ipv6-servicetag.csv", ipv6_rows, ["systemService", "cidr"])
+    write_csv(f"{out}/azure-ipv4-servicetag.csv", collapse_by_service(ipv4_rows, 4), ["systemService", "cidr"])
+    write_csv(f"{out}/azure-ipv6-servicetag.csv", collapse_by_service(ipv6_rows, 6), ["systemService", "cidr"])
 
     write_csv(f"{out}/azurecloud-ipv4.csv", collapse_cidrs([r["cidr"] for r in ipv4_rows], 4), ["cidr"])
     write_csv(f"{out}/azurecloud-ipv6.csv", collapse_cidrs([r["cidr"] for r in ipv6_rows], 6), ["cidr"])
