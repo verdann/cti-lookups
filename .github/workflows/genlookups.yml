@@ -1,4 +1,4 @@
-name: Generate Lookup Data
+name: Generate lookup data from scripts
 
 on:
   schedule:
@@ -33,6 +33,7 @@ jobs:
           git push
 
   azure-cloud-data:
+    needs: icloud-proxy-data
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
