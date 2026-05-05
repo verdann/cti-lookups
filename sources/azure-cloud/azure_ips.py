@@ -100,7 +100,7 @@ if __name__ == "__main__":
         for svc, cidrs in sorted(services.items())
         for cidr in cidrs
     ]
-    write_csv(f"{out}/azure-cidrs-servicetag{today}.csv", all_rows, ["systemService", "cidr"])
+    write_csv(f"{out}/azure-cidrs-servicetag-current.csv", all_rows, ["systemService", "cidr"])
 
     ipv4_rows = [r for r in all_rows if is_ipv4(r["cidr"])]
     ipv6_rows = [r for r in all_rows if not is_ipv4(r["cidr"])]
