@@ -52,7 +52,7 @@ if __name__ == "__main__":
     out = output_icloudegress.rstrip("/\\")
     os.makedirs(out, exist_ok=True)
 
-    write_csv(f"{out}/egress-ip-ranges{today}.csv", COLUMNS, rows)
+    write_csv(f"{out}/egress-ip-ranges-current.csv", COLUMNS, rows)
 
     ipv4_rows = [r for r in rows if is_ipv4(r["cidr"])]
     ipv6_rows = [r for r in rows if not is_ipv4(r["cidr"])]
