@@ -32,8 +32,32 @@ jobs:
           git commit -m "Automated iCloud Proxy Data update: $(date)" || echo "No iCloud Proxy changes to commit"
           git push
 
-  azure-cloud-data:
+  msft-office-data:
     needs: icloud-proxy-data
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.10'
+
+      - name: Run script
+        run: |
+          python sources/msft-office/msftoffice-ips.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/msft-office/
+          git commit -m "Automated Microsoft Office IP Data update: $(date)" || echo "No Microsoft Office changes to commit"
+          git push
+
+  azure-cloud-data:
+    needs: msft-office-data
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
