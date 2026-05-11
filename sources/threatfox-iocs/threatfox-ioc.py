@@ -30,9 +30,15 @@ def write_csv(path: str, rows: list[dict]):
 
 
 def parse(raw: str) -> tuple[list[dict], list[dict]]:
-    # Strip comment lines (start with #)
-    data_lines = [l for l in raw.splitlines() if not l.startswith("#")]
-    reader = csv.DictReader(io.StringIO("\n".join(data_lines)))
+    # Normalize line endings, then find header (comment line containing field names)
+    data_lines = []
+    for line in raw.splitlines():
+        line = line.rstrip("\r")
+        if line.startswith("# ") and "first_seen_utc" in line:
+            data_lines.append(line[2:])  # strip leading "# "
+        elif not line.startswith("#"):
+            data_lines.append(line)
+    reader = csv.DictReader(io.StringIO("\n".join(data_lines)), skipinitialspace=True)
 
     domains = []
     ips = []
