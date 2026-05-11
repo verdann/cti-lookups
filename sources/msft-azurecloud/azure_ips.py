@@ -6,7 +6,7 @@ import urllib.error
 import urllib.request
 from datetime import date, timedelta
 
-output_azure = os.environ.get("output_azure", "data/azure-cloud")
+output_azure = os.environ.get("output_azure", "data/msft-azurecloud")
 url_azurecloud_base = os.environ.get("url_azurecloud_base", "https://download.microsoft.com/download/7/1/D/71D86715-5596-4529-9B13-DA13A5DE5B63")
 agentheader_azurecloud = {"User-Agent": os.environ.get("agentheader_azurecloud", "Mozilla/5.0")}
 

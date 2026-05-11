@@ -46,12 +46,12 @@ jobs:
 
       - name: Run script
         run: |
-          python sources/azure-cloud/azure_ips.py
+          python sources/msft-azurecloud/azure_ips.py
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/azure-cloud/
+          git add data/msft-azurecloud/
           git commit -m "Automated Azure Cloud IP Data update: $(date)" || echo "No Azure Cloud changes to commit"
           git push
