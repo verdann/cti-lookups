@@ -79,3 +79,27 @@ jobs:
           git add data/msft-azurecloud/
           git commit -m "Automated Azure Cloud IP Data update: $(date)" || echo "No Azure Cloud changes to commit"
           git push
+
+  threatfox-ioc-data:
+    needs: azure-cloud-data
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.10'
+
+      - name: Run script
+        run: |
+          python sources/threatfox-iocs/threatfox-ioc.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/threatfox-iocs/
+          git commit -m "Automated ThreatFox IOC Data update: $(date)" || echo "No ThreatFox changes to commit"
+          git push
