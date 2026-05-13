@@ -29,7 +29,7 @@ def write_csv(path: str, rows: list[dict]):
     print(f"Saved {len(rows)} rows to {path}")
 
 
-def parse(raw: str) -> tuple[list[dict], list[dict]]:
+def parse(raw: str) -> tuple[list[dict], list[dict], list[dict]]:
     # Normalize line endings, then find header (comment line containing field names)
     data_lines = []
     for line in raw.splitlines():
@@ -42,6 +42,7 @@ def parse(raw: str) -> tuple[list[dict], list[dict]]:
 
     domains = []
     ips = []
+    urls = []
     for row in reader:
         ioc_type = row.get("ioc_type", "").strip()
         if ioc_type == "domain":
@@ -49,8 +50,10 @@ def parse(raw: str) -> tuple[list[dict], list[dict]]:
         elif ioc_type == "ip:port":
             row["ioc_value"] = row.get("ioc_value", "").rsplit(":", 1)[0]
             ips.append(row)
+        elif ioc_type == "url":
+            urls.append(row)
 
-    return domains, ips
+    return domains, ips, urls
 
 
 if __name__ == "__main__":
@@ -62,7 +65,8 @@ if __name__ == "__main__":
 
     save_raw(f"{out}/threatfox-iocs-current.csv", raw)
 
-    domains, ips = parse(raw)
+    domains, ips, urls = parse(raw)
 
     write_csv(f"{out}/threatfox-domains.csv", domains)
     write_csv(f"{out}/threatfox-ips.csv", ips)
+    write_csv(f"{out}/threatfox-urls.csv", urls)
