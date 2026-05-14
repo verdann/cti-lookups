@@ -1,4 +1,10 @@
 first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
+2026-05-14 02:15:03,1812038,https://bible.maweb.eu/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
+2026-05-13 22:15:03,1812010,https://ostatniaposlugarumia.pl/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
+2026-05-13 21:00:15,1811997,https://mme.dusapp.com.br/,botnet_cc,Vidar,vidar
+2026-05-13 21:00:12,1811993,https://mme.chriskendallvo.com/,botnet_cc,Vidar,vidar
+2026-05-13 19:00:13,1811929,https://sil.chriskendall.media/,botnet_cc,Vidar,vidar
+2026-05-13 19:00:13,1811931,https://sil.loniluekegerman.com/,botnet_cc,Vidar,vidar
 2026-05-13 07:00:14,1811738,https://pts.loniluekegerman.com/,botnet_cc,Vidar,vidar
 2026-05-13 07:00:13,1811735,https://pts.chriskendall.media/,botnet_cc,Vidar,vidar
 2026-05-13 01:55:42,1811686,https://diospfj.cyou,botnet_cc,Lumma Stealer,lumma
@@ -78,33 +84,3 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-05-12 06:59:31,1811281,https://wnm.chriskendall.media/,botnet_cc,Vidar,Vidar
 2026-05-12 06:59:31,1811282,https://ehj.chriskendall.media/,botnet_cc,Vidar,Vidar
 2026-05-12 06:59:31,1811283,https://mpd.chriskendall.media/,botnet_cc,Vidar,Vidar
-2026-05-12 01:30:12,1811267,https://dba.chriskendall.media/,botnet_cc,Vidar,vidar
-2026-05-11 23:30:12,1811193,https://dba.loniluekegerman.com/,botnet_cc,Vidar,vidar
-2026-05-11 23:00:13,1811190,https://brc.chriskendall.media/,botnet_cc,Vidar,vidar
-2026-05-11 23:00:12,1811188,https://mpd.pegasus-77.biz.id/,botnet_cc,Vidar,vidar
-2026-05-11 20:58:16,1811174,https://light-copying5ingle.digital/script.sh,payload_delivery,Unknown malware,macOS
-2026-05-11 20:57:28,1811172,https://baroquecam-up.digital/script.sh,payload_delivery,Unknown malware,macOS
-2026-05-11 20:56:45,1811170,https://vexon1al.digital/script.sh,payload_delivery,Unknown malware,macOS
-2026-05-11 20:55:49,1811167,https://tale-neurosurgery.digital/script.sh,payload_delivery,Unknown malware,macOS
-2026-05-11 20:54:29,1811165,https://greyhounds1uidor.digital/script.sh,payload_delivery,Unknown malware,macOS
-2026-05-11 20:53:35,1811163,https://bel1tower.digital/script.sh,payload_delivery,Unknown malware,macOS
-2026-05-11 20:51:22,1811161,https://riihard.top/c,payload_delivery,KongTuke,"ClickFix,Kongtuke"
-2026-05-11 20:50:41,1811160,https://riihard.top/g,payload_delivery,KongTuke,"ClickFix,KongTuke"
-2026-05-11 20:50:23,1811159,https://riihard.top/t,payload_delivery,KongTuke,"ClickFix,Kongtuke"
-2026-05-11 20:50:05,1811158,https://riihard.top/file.js,payload_delivery,KongTuke,"ClickFix,Kongtuke"
-2026-05-11 20:48:39,1811156,https://gautter.lol/c,payload_delivery,KongTuke,"ClickFix,KongTuke"
-2026-05-11 20:48:23,1811155,https://gautter.lol/g,payload_delivery,KongTuke,"ClickFix,KongTuke"
-2026-05-11 20:48:03,1811154,https://gautter.lol/t,payload_delivery,KongTuke,"ClickFix,KongTuke"
-2026-05-11 20:47:44,1811153,https://gautter.lol/file.js,payload_delivery,KongTuke,"ClickFix,KongTuke"
-2026-05-11 20:46:25,1811151,https://chauvet.club/c,payload_delivery,KongTuke,"ClickFix,KongTuke"
-2026-05-11 20:46:06,1811150,https://chauvet.club/g,payload_delivery,KongTuke,"ClickFix,Kongtuke"
-2026-05-11 20:45:48,1811149,https://chauvet.club/t,payload_delivery,KongTuke,"ClickFix,KongTuke"
-2026-05-11 20:45:30,1811148,https://chauvet.club/file.js,payload_delivery,KongTuke,"ClickFix,KongTuke"
-2026-05-11 20:44:03,1811146,https://olovier.lol/c,payload_delivery,KongTuke,"ClickFix,KongTuke"
-2026-05-11 20:43:39,1811142,https://olovier.lol/g,payload_delivery,KongTuke,"ClickFix,KongTuke"
-2026-05-11 20:43:12,1811141,https://olovier.lol/t,payload_delivery,KongTuke,"ClickFix,KongTuke"
-2026-05-11 20:42:45,1811140,https://olovier.lol/file.js,payload_delivery,KongTuke,"ClickFix,KongTuke"
-2026-05-11 20:33:29,1811138,https://dixel-pixxxl232.digital/ext.0db0461f0031.js,payload_delivery,Unknown malware,"ClickFix,EXT"
-2026-05-11 20:33:01,1811137,https://dixel-pixxxl232.digital/ext-b.998e3b1c1a4e.js,payload_delivery,Unknown malware,"ClickFix,EXT"
-2026-05-11 20:32:25,1811136,https://dixel-pixxxl232.digital/t.188cfd3975db.js,payload_delivery,Unknown malware,"ClickFix,EXT"
-2026-05-11 20:32:12,1811135,https://dixel-pixxxl232.digital/t.js,payload_delivery,Unknown malware,"ClickFix,EXT"
