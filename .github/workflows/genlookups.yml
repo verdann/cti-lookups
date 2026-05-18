@@ -20,7 +20,7 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Run script
+      - name: Pull iCloud Data
         run: |
           python sources/icloud-proxy/icloud-proxy.py
 
@@ -44,7 +44,7 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Run script
+      - name: Pull O365 Data
         run: |
           python sources/msft-office/msftoffice-ips.py
 
@@ -68,7 +68,7 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Run script
+      - name: Pull Azure Data
         run: |
           python sources/msft-azurecloud/azure_ips.py
 
@@ -92,7 +92,7 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Run script
+      - name: Pull Threatfox Data
         run: |
           python sources/threatfox-iocs/threatfox-ioc.py
 
