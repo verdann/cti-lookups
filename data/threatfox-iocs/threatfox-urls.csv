@@ -1,4 +1,25 @@
 first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
+2026-05-19 19:00:09,1816418,https://rpi.fazvende.com/,botnet_cc,Vidar,vidar
+2026-05-19 19:00:08,1816416,https://rpi.tristans-tea.com/,botnet_cc,Vidar,vidar
+2026-05-19 15:53:56,1816372,https://u3hqns4msrc4hei.top/1.php?s=580e250d-effb-401a-b981-fb7fd80635a2,payload_delivery,Unknown malware,"clickfix,loader,powershell"
+2026-05-19 14:36:44,1816355,https://human-confirmation.top/m,payload_delivery,Unknown malware,"clickfix,loader,powershell"
+2026-05-19 14:36:44,1816356,https://human-confirmation.top/o,payload_delivery,Unknown malware,"clickfix,loader,powershell"
+2026-05-19 13:59:54,1816327,https://aspf.com.br/,payload_delivery,Unknown malware,ClickFix
+2026-05-19 13:59:52,1816333,http://185.157.162.187:3176/pages/login.php,botnet_cc,Unknown malware,"AS42675,Obehosting AB,unam"
+2026-05-19 13:59:48,1816339,https://reynoldy.lol/file.js,payload_delivery,KongTuke,KongTuke
+2026-05-19 13:59:46,1816341,https://reynoldy.lol/api/v1/session,payload_delivery,KongTuke,KongTuke
+2026-05-19 13:59:46,1816342,https://reynoldy.lol/api/v1/verify,payload_delivery,KongTuke,KongTuke
+2026-05-19 13:59:45,1816343,https://reynoldy.lol/api/v1/status,payload_delivery,KongTuke,KongTuke
+2026-05-19 08:30:09,1816284,https://tri.fazvende.com/,botnet_cc,Vidar,vidar
+2026-05-19 08:30:08,1816282,https://tri.tristans-tea.com/,botnet_cc,Vidar,vidar
+2026-05-19 08:00:17,1816272,http://91.92.241.242/service,botnet_cc,GCleaner,GCleaner
+2026-05-19 08:00:17,1816273,http://91.92.241.242/update,botnet_cc,GCleaner,GCleaner
+2026-05-19 08:00:17,1816274,http://91.92.241.242/info,botnet_cc,GCleaner,GCleaner
+2026-05-19 08:00:17,1816275,http://91.92.241.242/dll,botnet_cc,GCleaner,GCleaner
+2026-05-19 08:00:16,1816270,http://91.92.241.242/success,botnet_cc,GCleaner,GCleaner
+2026-05-19 07:47:54,1816267,http://85.239.155.68:3001/internal/log,botnet_cc,Unknown malware,"c2,LucidStealer"
+2026-05-19 07:47:53,1816266,http://85.239.155.68:3001/upload,botnet_cc,Unknown malware,"c2,LucidStealer"
+2026-05-19 07:47:51,1816268,http://85.239.155.68:3001/ws,botnet_cc,Unknown malware,"c2,LucidStealer"
 2026-05-19 05:16:41,1816184,http://79.110.50.15:8089/borlndmm.dll,payload_delivery,Unknown malware,"borland-vcl,merlin,proxydll,themida"
 2026-05-19 05:15:39,1816116,https://abernaehy.lol/api/v1/status,payload_delivery,KongTuke,KongTuke
 2026-05-19 05:15:38,1816114,https://abernaehy.lol/api/v1/session,payload_delivery,KongTuke,KongTuke
@@ -58,18 +79,6 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-05-18 07:33:19,1815690,https://www.beltboutique.co.uk/,payload_delivery,Unknown malware,ClickFix
 2026-05-18 07:33:18,1815691,https://www.angelphonerepair.com/,payload_delivery,Unknown malware,ClickFix
 2026-05-18 07:06:04,1815824,https://activityof.com/datei,payload_delivery,Unknown Loader,"ClickFix,MSI,msiexec"
-2026-05-17 18:50:49,1815718,https://merkureEnv.net/tracker.js,botnet_cc,Unknown malware,None
-2026-05-17 18:50:49,1815719,https://sorrystartstat1.net/tracker.js,botnet_cc,Unknown malware,None
-2026-05-17 18:50:49,1815720,https://maxStatesUS.ORG/tracker.js,botnet_cc,Unknown malware,None
-2026-05-17 18:50:49,1815721,https://ostekStatmen.net/tracker.js,botnet_cc,Unknown malware,None
-2026-05-17 18:50:49,1815722,https://masterklass.net/tracker.js,botnet_cc,Unknown malware,None
-2026-05-17 18:50:48,1815713,https://infoworkerOne.com/tracker.js,botnet_cc,Unknown malware,None
-2026-05-17 18:50:48,1815714,https://infoworkerOne.org/tracker.js,botnet_cc,Unknown malware,None
-2026-05-17 18:50:48,1815715,https://jobworkNY.com/tracker.js,botnet_cc,Unknown malware,None
-2026-05-17 18:50:48,1815716,https://mstopsai.com/tracker.js,botnet_cc,Unknown malware,None
-2026-05-17 18:50:48,1815717,https://monstersStat.com/tracker.js,botnet_cc,Unknown malware,None
-2026-05-17 18:50:47,1815711,https://globalSstat.com/tracker.js,botnet_cc,Unknown malware,None
-2026-05-17 18:50:47,1815712,https://globalSstat.org/tracker.js,botnet_cc,Unknown malware,None
 2026-05-17 05:52:27,1815332,http://144.31.57.65/2a7400fe251b4b4687fe.php,botnet_cc,Stealc,"c2,loader,os,StealC,stealer"
 2026-05-17 05:50:39,1815191,http://31.76.251.172/0f1da281ab93408e9369.php,botnet_cc,Stealc,"c2,HASLO,loader,StealC,stealer"
 2026-05-14 12:31:45,1811596,https://trafficmanagerupdate.com/index.php,botnet_cc,Unknown malware,None
@@ -98,21 +107,9 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-04-23 04:45:34,1796426,http://196.251.107.248/kont2rt/index.php,botnet_cc,Amadey,Amadey
 2026-04-19 18:25:29,1794638,http://213.5.130.87,botnet_cc,Unknown malware,"c2,REMPROXY"
 2026-04-17 18:15:06,1793645,http://213.5.130.147,botnet_cc,Unknown malware,"c2,REMPROXY"
-2026-04-16 19:15:16,1792978,https://deriveratreeservice.com/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
-2026-04-15 04:15:06,1791367,https://metaa.co.mz/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
 2026-04-14 18:35:26,1790897,http://185.183.35.120,botnet_cc,Unknown malware,"c2,REMPROXY"
-2026-04-14 13:18:35,1790044,https://semperfimovers.com/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
-2026-04-14 13:16:23,1789632,https://divinni.com.br/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
-2026-04-14 12:16:50,1789018,https://artmadasenegal.com/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
-2026-04-14 11:40:28,1788609,https://aandjequipmentrental.com/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
-2026-04-14 11:37:07,1787889,https://gsmtax.com/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
-2026-04-14 11:34:43,1787385,https://boostpadel.se/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
-2026-04-14 11:34:15,1787290,https://foodturerebels.com/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
-2026-04-14 11:33:07,1787069,https://fotomedia.hr/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
 2026-04-14 11:32:51,1787027,https://cannabis-dna.com/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
 2026-04-14 10:39:52,1785656,https://mcttt.gov.fj/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
-2026-04-14 09:47:52,1786608,https://thegingamebroadway.com/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
-2026-04-14 09:47:27,1786534,https://istriamaestranza.cl/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
 2026-04-14 06:06:10,1785529,http://185.183.35.206,botnet_cc,Unknown malware,"c2,REMPROXY"
 2026-04-11 07:06:31,1783849,https://cdn.mensualgeneratr.com/,botnet_cc,SmokeLoader,"c2,SmokeLoader"
 2026-03-16 10:41:19,1767951,http://82.38.71.155/,botnet_cc,SmokeLoader,"c2,SmokeLoader"
