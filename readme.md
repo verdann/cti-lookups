@@ -6,10 +6,17 @@ This project pulls cyber threat intelligence (CTI) and reference data from vario
 
 Scripting for the data sources are all in /sources, each data source includes documentation for it's outputs which are generated and committed back into the repo in the /data directories. They include:
 
+## Cloud IP Resources
 - [iCloud Relay Proxy Egress IPs](sources/icloud-proxy/)  
 - [Azure Cloud Services IPs](sources/msft-azurecloud/)
 - [O365 Service IPs](sources/msft-office/)
+
+## Threat Intel IoC Feeds
 - [Threatfox (Abuse.ch) IOCs](sources/threatfox-iocs/)
+
+## Scanners and Other Things
+- [BinaryEdge Scanning Hosts](sources/binaryedge/)
+
 
 The [workflows](.github/workflows/) are setup to run github actions cronjobs daily 2am UTC to update the data files in [data](data/).
 
