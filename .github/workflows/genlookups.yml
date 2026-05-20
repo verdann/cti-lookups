@@ -9,7 +9,7 @@ permissions:
   contents: write # to put the csv into repo
 
 jobs:
-  icloud-proxy-data:
+  data-updates:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -24,106 +24,29 @@ jobs:
         run: |
           python sources/icloud-proxy/icloud-proxy.py
 
-      - name: Commit and Push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/icloud-proxy/
-          git commit -m "Automated iCloud Proxy Data update: $(date)" || echo "No iCloud Proxy changes to commit"
-          git pull --rebase && git push
-
-  msft-office-data:
-    needs: icloud-proxy-data
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v5
-
-      - name: Set up Python
-        uses: actions/setup-python@v6
-        with:
-          python-version: '3.10'
-
       - name: Pull O365 Data
         run: |
           python sources/msft-office/msftoffice-ips.py
-
-      - name: Commit and Push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/msft-office/
-          git commit -m "Automated Microsoft Office IP Data update: $(date)" || echo "No Microsoft Office changes to commit"
-          git push
-
-  azure-cloud-data:
-    needs: msft-office-data
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v5
-
-      - name: Set up Python
-        uses: actions/setup-python@v6
-        with:
-          python-version: '3.10'
-
+          
       - name: Pull Azure Data
         run: |
-          python sources/msft-azurecloud/azure_ips.py
-
-      - name: Commit and Push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/msft-azurecloud/
-          git commit -m "Automated Azure Cloud IP Data update: $(date)" || echo "No Azure Cloud changes to commit"
-          git push
-
-  threatfox-ioc-data:
-    needs: azure-cloud-data
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v5
-
-      - name: Set up Python
-        uses: actions/setup-python@v6
-        with:
-          python-version: '3.10'
+          python sources/msft-azurecloud/azure_ips.py          
 
       - name: Pull Threatfox Data
         run: |
           python sources/threatfox-iocs/threatfox-ioc.py
-
-      - name: Commit and Push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/threatfox-iocs/
-          git commit -m "Automated ThreatFox IOC Data update: $(date)" || echo "No ThreatFox changes to commit"
-          git pull --rebase && git push
-
-  binaryedge-data:
-    needs: threatfox-ioc-data
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v5
-
-      - name: Set up Python
-        uses: actions/setup-python@v6
-        with:
-          python-version: '3.10'
-
+          
       - name: Pull BinaryEdge Data
         run: |
-          python sources/binaryedge/binaryedge.py
+          python sources/binaryedge/binaryedge.py          
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/binaryedge/
-          git commit -m "Automated BinaryEdge Data update: $(date)" || echo "No BinaryEdge changes to commit"
+          git add data/
+          git commit -m "Automated Data update: $(date)" || echo "No iCloud Proxy changes to commit"
           git pull --rebase && git push
+
+ 
+ 
