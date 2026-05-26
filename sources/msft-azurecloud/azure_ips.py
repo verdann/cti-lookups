@@ -10,7 +10,7 @@ url_azurecloud_base = os.environ.get("url_azurecloud_base", "https://download.mi
 agentheader_azurecloud = {"User-Agent": os.environ.get("agentheader_azurecloud", "Mozilla/5.0")}
 
 
-def find_json_url(lookback_days: int = 14) -> str:
+def find_json_url(lookback_days: int = 30) -> str:
 #strict on bots going to their download page, so go check download.microsoft with known GUID and try dates
     today = date.today()
     for i in range(lookback_days):
