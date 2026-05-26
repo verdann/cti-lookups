@@ -2,8 +2,7 @@ import csv
 import ipaddress
 import json
 import os
-import urllib.error
-import urllib.request
+import requests
 from datetime import date, timedelta
 
 output_azure = os.environ.get("output_azure", "data/msft-azurecloud")
@@ -17,19 +16,16 @@ def find_json_url(lookback_days: int = 14) -> str:
     for i in range(lookback_days):
         candidate = today - timedelta(days=i)
         url = f"{url_azurecloud_base}/ServiceTags_Public_{candidate.strftime('%Y%m%d')}.json"
-        try:
-            req = urllib.request.Request(url, headers=agentheader_azurecloud, method="HEAD")
-            urllib.request.urlopen(req)
+        response = requests.head(url, headers=agentheader_azurecloud)
+        if response.status_code == 200:
             return url
-        except urllib.error.HTTPError:
-            continue
     raise ValueError(f"No ServiceTags_Public JSON found in the last {lookback_days} days")
 
 
 def fetch_json(url: str) -> dict:
-    req = urllib.request.Request(url, headers=agentheader_azurecloud)
-    with urllib.request.urlopen(req) as response:
-        return json.loads(response.read().decode("utf-8"))
+    response = requests.get(url, headers=agentheader_azurecloud)
+    response.raise_for_status()
+    return response.json()
 
 
 def save_json(path: str, data: dict):
