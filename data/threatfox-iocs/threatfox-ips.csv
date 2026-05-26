@@ -1,4 +1,26 @@
 first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
+2026-05-26 05:59:36,1818548,65.109.251.186,botnet_cc,Vidar,Vidar
+2026-05-26 05:49:46,1818547,217.60.241.39,botnet_cc,Tofsee,Tofsee
+2026-05-26 05:33:59,1818540,178.104.222.124,botnet_cc,SnappyClient,SnappyClient
+2026-05-26 05:22:23,1818525,193.29.58.188,botnet_cc,Cobalt Strike,cobaltstrike
+2026-05-26 05:01:05,1818527,190.255.90.152,botnet_cc,Unknown RAT,None
+2026-05-26 04:23:32,1818444,106.75.231.213,botnet_cc,VShell,vshell
+2026-05-26 04:23:31,1818445,216.36.112.213,botnet_cc,Unknown malware,viper
+2026-05-26 04:23:31,1818446,216.36.112.213,botnet_cc,Unknown malware,viper
+2026-05-26 04:23:31,1818447,216.36.112.213,botnet_cc,Unknown malware,viper
+2026-05-26 04:23:30,1818448,216.36.112.213,botnet_cc,Unknown malware,viper
+2026-05-26 04:23:27,1818473,179.43.139.58,payload_delivery,Unknown malware,"?,cowrie,honeypot-captured"
+2026-05-26 04:23:27,1818474,77.83.39.197,payload_delivery,Unknown malware,"?,honeypot-captured,webpot"
+2026-05-26 04:23:26,1818483,151.242.30.51,botnet_cc,Mirai,mirai
+2026-05-26 04:23:26,1818484,134.209.92.242,botnet_cc,Kimwolf,"c2,Kimwolf"
+2026-05-26 04:23:22,1818497,91.92.42.103,botnet_cc,AsyncRAT,"209630,asyncrat,c2,censys"
+2026-05-26 04:23:22,1818498,168.245.203.187,botnet_cc,Meterpreter,"58580,c2,censys,metasploit"
+2026-05-26 04:23:21,1818499,168.245.203.116,botnet_cc,Meterpreter,"58580,c2,censys,metasploit"
+2026-05-26 04:23:21,1818502,134.175.78.181,botnet_cc,Cobalt Strike,cobaltstrike
+2026-05-26 04:23:20,1818503,134.175.78.181,botnet_cc,Cobalt Strike,cobaltstrike
+2026-05-26 04:23:20,1818504,193.29.58.188,botnet_cc,Cobalt Strike,cobaltstrike
+2026-05-26 04:23:19,1818508,43.156.42.49,botnet_cc,Cobalt Strike,cobaltstrike
+2026-05-26 04:23:19,1818509,43.156.42.49,botnet_cc,Cobalt Strike,cobaltstrike
 2026-05-25 22:46:18,1818480,47.108.25.113,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-05-25 22:46:15,1818479,43.156.42.49,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-05-25 20:37:13,1818455,138.124.79.146,payload_delivery,FAKEUPDATES,SocGholish
