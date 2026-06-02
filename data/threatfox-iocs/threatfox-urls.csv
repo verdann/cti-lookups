@@ -1,4 +1,37 @@
 first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
+2026-06-02 00:00:32,1820771,https://kpa.bluewestgroup.com/,botnet_cc,Vidar,vidar
+2026-06-02 00:00:31,1820769,https://kpa.dism188.top/,botnet_cc,Vidar,vidar
+2026-06-01 20:49:32,1820689,http://34.181.210.37/meow,payload_delivery,Mirai,"botnet,c2c-agent,cpufreqd-disguise,DDoS,go-malware,new-family,x86_64"
+2026-06-01 20:49:30,1820690,http://34.181.210.37/meowarm64,payload_delivery,Mirai,"aarch64,ARM,botnet,c2c-agent,cpufreqd-disguise,DDoS,go-malware,new-family"
+2026-06-01 20:49:28,1820693,http://200.4.115.1/promocioni3.php,payload_delivery,XMRIG,"httpd-disguise,miner,perfctl-killer,postgres,XMRig"
+2026-06-01 20:49:28,1820694,https://s.littleshabby.net/payloads/indexi.png,payload_delivery,XMRIG,"cron-persistence,PNG-stego,redis,steganography,XMRig"
+2026-06-01 19:30:31,1820721,https://tts.dism188.top/,botnet_cc,Vidar,vidar
+2026-06-01 19:00:31,1820717,https://tts.bluewestgroup.com/,botnet_cc,Vidar,vidar
+2026-06-01 15:21:13,1820638,http://uycuyqarnyq16an.top/1.php,botnet_cc,KongTuke,KongTuke
+2026-06-01 15:15:03,1820636,https://orangeowl.marketing/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
+2026-06-01 15:11:45,1820607,https://marqueq.lol/api/v1/status,payload_delivery,KongTuke,KongTuke
+2026-06-01 15:11:41,1820621,https://qmogvdgy.icu/d,payload_delivery,KongTuke,KongTuke
+2026-06-01 15:11:35,1820632,https://gloason.com/white/pool,payload_delivery,KongTuke,KongTuke
+2026-06-01 12:54:07,1820582,https://marqueq.lol/file.js,payload_delivery,KongTuke,KongTuke
+2026-06-01 12:54:06,1820584,https://marqueq.lol/api/v1/session,payload_delivery,KongTuke,KongTuke
+2026-06-01 12:54:06,1820585,https://marqueq.lol/api/v1/verify,payload_delivery,KongTuke,KongTuke
+2026-06-01 09:32:17,1820557,https://sites.google.com/newappclaude.com/clau-ver-un-30,payload_delivery,Unknown Stealer,ClickFix
+2026-06-01 09:32:17,1820558,https://turbowave45.com/,payload_delivery,Unknown Stealer,ClickFix
+2026-06-01 09:32:17,1820559,https://purematrixa.com/1751517,botnet_cc,Unknown Stealer,ClickFix
+2026-06-01 09:32:16,1820560,https://anvil-89.com/curl/b2ebd894810ccc6df1fccbceeaf09f5c9be6dbf3f8386c915b26e78c28ac3563,botnet_cc,Unknown Stealer,ClickFix
+2026-06-01 09:26:29,1820549,https://sites.google.com/newpayservices.com/cdx-biz-ver-un-v27,payload_delivery,Unknown Stealer,ClickFix
+2026-06-01 09:26:29,1820550,https://wiseview58.com/hjpjsp2/,payload_delivery,Unknown Stealer,ClickFix
+2026-06-01 09:26:28,1820551,https://anvil-89.com/curl/db7bd4c559aa3fb93d63739f16264aae68c911adc95b9f97cc7529c52fd15a87,botnet_cc,Unknown Stealer,ClickFix
+2026-06-01 08:46:06,1820545,https://gauseva.life/ear/,payload_delivery,Unknown malware,"phishing,tg.pe"
+2026-06-01 07:23:42,1820526,https://65.109.255.31/,botnet_cc,Vidar,Vidar
+2026-06-01 07:23:42,1820527,https://37.27.181.229/,botnet_cc,Vidar,Vidar
+2026-06-01 07:23:41,1820521,https://mub.dism188.top/,botnet_cc,Vidar,Vidar
+2026-06-01 07:23:41,1820522,https://mub.atvrent.com/,botnet_cc,Vidar,Vidar
+2026-06-01 07:23:41,1820523,https://46.225.253.9/,botnet_cc,Vidar,Vidar
+2026-06-01 07:23:41,1820524,https://46.225.254.27/,botnet_cc,Vidar,Vidar
+2026-06-01 07:23:41,1820525,https://46.225.255.99/,botnet_cc,Vidar,Vidar
+2026-06-01 07:23:40,1820519,https://steamcommunity.com/profiles/76561198694626397,botnet_cc,Vidar,Vidar
+2026-06-01 07:23:40,1820520,https://telegram.me/kkb31rm,botnet_cc,Vidar,Vidar
 2026-06-01 05:45:06,1820373,https://cdn.boyzee.xyz/086ad118cef06dd1ebe63c7b/xmrig_linux_amd64,payload_delivery,XMRIG,"boyzee,cron-job,miner-payload,redis,XMRig"
 2026-06-01 05:44:57,1820387,https://performanceadvisorygroup.com/,payload_delivery,Unknown malware,ClickFix
 2026-06-01 05:44:50,1820415,https://proaslegal.com/,payload_delivery,Unknown malware,ClickFix
@@ -20,47 +53,13 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-05-31 06:48:11,1820187,http://35.231.74.47/meow,payload_delivery,Unknown malware,honeypot
 2026-05-31 06:48:08,1820207,https://www.abdgochizmetleri.com/,payload_delivery,Unknown malware,ClickFix
 2026-05-31 06:43:39,1820130,https://auth-captcha.click/,payload_delivery,Unknown malware,"clickfix,fake-verification,safeguard-portal,social-engineering,telegram-lure"
-2026-05-30 17:47:29,1820111,https://connectdplus.com/captcha.php,payload_delivery,Unknown malware,ClickFix
-2026-05-30 17:47:25,1820112,https://pusanik.shop/,payload_delivery,Unknown malware,ClickFix
-2026-05-30 17:47:23,1820121,https://bearman.bond/,payload_delivery,Unknown malware,ClickFix
-2026-05-30 16:26:59,1820106,https://yp7s.lusy.ink/ppsecure/post.srf,payload_delivery,Unknown malware,"aitm,credential-theft,evilginx,m365,microsoft,phishing"
-2026-05-30 16:26:59,1820107,https://yxc1.lusy.ink/settings-validation,payload_delivery,Unknown malware,"aitm,credential-theft,evilginx,m365,microsoft,phishing"
-2026-05-30 16:26:58,1820108,https://secure-web.cisco.com.whm.linkedin.com.agriturismoaipiacentini.site/,payload_delivery,Unknown malware,"aitm,credential-theft,evilginx,m365,microsoft,phishing"
-2026-05-30 15:14:16,1820058,https://api.h1gh-l3v-aso-xyxi.xyz/api/upload/screenshot,botnet_cc,Unknown malware,c2
-2026-05-30 15:14:15,1820057,https://api.h1gh-l3v-aso-xyxi.xyz/api/upload/files,botnet_cc,Unknown malware,c2
-2026-05-30 15:14:14,1820055,https://api.h1gh-l3v-aso-xyxi.xyz/api/upload/zip,botnet_cc,Unknown malware,c2
-2026-05-30 15:14:14,1820056,https://api.h1gh-l3v-aso-xyxi.xyz/api/downloads/filegrab-config,botnet_cc,Unknown malware,c2
-2026-05-30 15:14:13,1820053,https://api.h1gh-l3v-aso-xyxi.xyz/api/upload/keys,botnet_cc,Unknown malware,c2
-2026-05-30 15:14:13,1820054,https://api.h1gh-l3v-aso-xyxi.xyz/api/upload/specs,botnet_cc,Unknown malware,c2
-2026-05-30 15:14:12,1820051,https://h1gh-l3v-aso-xyxi.xyz/api/downloads/abe,botnet_cc,Unknown malware,c2
-2026-05-30 15:14:12,1820052,https://h1gh-l3v-aso-xyxi.xyz/api/downloads/extractor,botnet_cc,Unknown malware,c2
-2026-05-30 15:14:10,1820049,https://h1gh-l3v-aso-xyxi.xyz/api/collections/create,botnet_cc,Unknown malware,c2
-2026-05-30 15:14:10,1820050,https://h1gh-l3v-aso-xyxi.xyz/api/downloads/shell,botnet_cc,Unknown malware,c2
-2026-05-30 15:14:05,1820028,https://14.46.136.77/sh,payload_delivery,RedTail,"docker-api,https-c2,libredtail-http,RedTail"
-2026-05-30 15:14:03,1820026,http://78.153.140.16/d.sh,payload_delivery,Mirai,"cron-persistence,docker-api,dropper,Mirai"
-2026-05-30 15:14:01,1820020,http://31.57.109.131/scripts/4thepool_miner.sh,payload_delivery,Unknown malware,CryptoMiner sh miner ubuntu
-2026-05-30 15:14:01,1820024,http://45.153.34.212:8181/.sugipepulesrl,payload_delivery,Mirai,docker-api Dropper elf Mirai
-2026-05-30 07:07:26,1820009,https://full-brown.com/json,botnet_cc,Unknown malware,c2
-2026-05-30 07:07:26,1820010,https://full-brown.com/screenshot,botnet_cc,Unknown malware,c2
-2026-05-30 07:07:25,1820011,https://full-brown.com/request-file,botnet_cc,Unknown malware,c2
-2026-05-30 07:07:25,1820012,https://full-brown.com/upload,botnet_cc,Unknown malware,c2
-2026-05-30 07:04:59,1819917,https://midnightcompassengine.com/one,payload_delivery,Unknown malware,"clickfix,fakecaptcha-paste,hetzner,hta,mshta"
-2026-05-30 07:04:55,1819933,https://error-coinbase.com/api/verify,payload_delivery,Unknown malware,"coinbase,credential-phish,fake-captcha"
-2026-05-30 07:04:55,1819934,https://error-coinbase.com/captcha,payload_delivery,Unknown malware,"coinbase,credential-phish,fake-captcha"
-2026-05-30 07:04:53,1819936,https://send0x519c-7315d04.sbs/wc-init.html,payload_delivery,Unknown malware,"phishing,trust-wallet,wallet-drainer,walletconnect"
-2026-05-30 00:15:02,1819945,https://suncoastfoundation.org/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
-2026-05-29 06:26:00,1819608,https://megamegalodon.click/api/index.php?a=dl&token=8caaf953d89478b8a7191eb32295c117a310b53ac9059d4ad69a1e397ec3b2d4&rv=ab62effa5c33ec478e5f054b773a4ee7&src=majesticlubricants.com&mode=cloudflare,payload_delivery,Unknown malware,"clickfix,cloudflare,payload_delivery,single-fire-token"
 2026-05-28 12:14:43,1819437,http://144.31.57.82/2a7400fe251b4b4687fe.php,botnet_cc,Stealc,"175,c2,loader,StealC,stealer"
 2026-05-27 07:09:05,1818897,http://158.94.210.59/25e3868686d747678e3b.php,botnet_cc,Stealc,"888,c2,loader,StealC,stealer"
 2026-05-25 07:35:59,1818162,http://209.99.186.230/69e263ad31aa46a5bc37.php,botnet_cc,Stealc,"c2,doneall,loader,StealC,stealer"
 2026-05-23 14:54:07,1817610,http://b.9-9-8.com/brysj/cronb.sh,payload_delivery,RedTail,"cronb,cryptominer,domain,redtail"
-2026-05-23 14:53:58,1817639,https://sites.google.com/view/hiddenhub,payload_delivery,Unknown malware,"campaign,Google-Sites"
 2026-05-23 14:53:56,1817651,http://170.130.55.223/8a5722931e174543a98d.php,botnet_cc,Stealc,"c2,loader,StealC,stealer,tick"
-2026-05-21 14:54:41,1816971,https://aifreeuse.pro/,payload_delivery,Unknown malware,ClickFix
 2026-05-21 11:55:36,1816863,http://198.135.51.79/08189bc59f5e44a0979b.php,botnet_cc,Stealc,"1905,c2,loader,StealC,stealer"
 2026-05-20 15:38:57,1816645,http://31.56.209.88/c1d59c10e8d343a09790.php,botnet_cc,Stealc,"c2,loader,medik,StealC,stealer"
-2026-05-18 11:28:05,1815913,http://144.31.203.12/,botnet_cc,SmokeLoader,"c2,SmokeLoader"
-2026-05-18 11:27:58,1815866,http://144.31.158.255/,botnet_cc,SmokeLoader,"c2,SmokeLoader"
 2026-05-17 05:52:27,1815332,http://144.31.57.65/2a7400fe251b4b4687fe.php,botnet_cc,Stealc,"c2,loader,os,StealC,stealer"
 2026-05-12 14:48:59,1811440,http://cdntestconnect.com/ed54b97a570943999715.php,botnet_cc,Stealc,"c2,first,loader,StealC,stealer"
 2026-05-10 18:39:13,1809572,http://108.59.252.214/9290546939c94eebbdb2.php,botnet_cc,Stealc,"c2,loader,modo,StealC,stealer"
@@ -69,7 +68,6 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-05-05 17:17:43,1807073,http://5.252.177.67/bb7f17919d0a4d0aaf22.php,botnet_cc,Stealc,"c2,loader,StealC,stealer,win20"
 2026-05-05 13:58:25,1807037,http://213.165.47.49/480bee37986b4097bc20.php,botnet_cc,Stealc,"c2,loader,StealC,stealer,test"
 2026-05-05 13:58:14,1807059,http://89.46.38.100/c0b30d15260a4d8888dc.php,botnet_cc,Stealc,"c2,loader,M1,StealC,stealer"
-2026-05-05 13:12:36,1807027,http://217.119.129.37/2a7400fe251b4b4687fe.php,botnet_cc,Stealc,"2,c2,loader,StealC,stealer"
 2026-05-05 12:59:27,1806983,http://196.251.107.130/16b022998f754137b60a.php,botnet_cc,Stealc,"c2,loader,RUN,StealC,stealer"
 2026-05-05 12:59:20,1806998,http://213.165.47.174/0cddd9346bd3479aab11.php,botnet_cc,Stealc,"c2,loader,steal,StealC,stealer"
 2026-05-05 12:59:16,1807013,http://193.111.117.51/94a5dbd165044e85b88e.php,botnet_cc,Stealc,"c2,loader,neverhigh,StealC,stealer"
