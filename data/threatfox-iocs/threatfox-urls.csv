@@ -1,4 +1,14 @@
 first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
+2026-06-13 15:20:51,1831785,http://alchsp.xyz:7673,botnet_cc,Remus,remus
+2026-06-13 15:05:33,1831711,http://verification-js-cdn.boats/5c89e36548466c44,payload_delivery,Unknown malware,clearfake
+2026-06-13 15:05:32,1831712,http://verification-js-cdn.boats/5c89e36548466c44?_=1,payload_delivery,Unknown malware,clearfake
+2026-06-13 15:05:32,1831713,http://verification-js-cdn.boats/5c89e36548466c44?ack=1,payload_delivery,Unknown malware,clearfake
+2026-06-13 15:05:31,1831715,https://devltd.us/flomos1.zip,payload_delivery,Unknown malware,None
+2026-06-13 15:05:30,1831714,http://verification-js-cdn.boats/67422f998296584824aa06c4066c9074457e4dd28a5a84cb209900f0c82a47f0,payload_delivery,Unknown malware,clearfake
+2026-06-13 15:05:29,1831716,https://supertransfer.ch/,payload_delivery,Unknown malware,clearfake
+2026-06-13 15:05:08,1831640,https://divinenarratives.org/d.js,payload_delivery,SmartApeSG,SmartApeSG
+2026-06-13 15:05:04,1831595,https://bge-visa.com/,payload_delivery,Unknown malware,ClickFix
+2026-06-13 12:15:03,1831756,https://galaxygraphicsprints.com/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
 2026-06-13 03:00:05,1831663,http://abscete.info/ret/two/fre.php,botnet_cc,Loki Password Stealer (PWS),Loki
 2026-06-13 00:25:40,1831651,http://mottla.shop:4190,botnet_cc,Remus,remus
 2026-06-12 16:12:18,1831584,https://secure-code.lol/o,payload_delivery,KongTuke,KongTuke
@@ -29,37 +39,9 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-12 08:24:40,1830671,https://167.233.60.161/,botnet_cc,Vidar,Vidar
 2026-06-12 08:24:40,1830672,https://178.105.87.41/,botnet_cc,Vidar,Vidar
 2026-06-12 08:24:39,1830665,https://135.181.224.78/,botnet_cc,Vidar,Vidar
-2026-06-12 06:11:32,1830370,https://sartora.lol/file.js,payload_delivery,KongTuke,KongTuke
-2026-06-12 06:11:31,1830372,https://sartora.lol/api/v1/session,payload_delivery,KongTuke,KongTuke
-2026-06-12 06:11:31,1830406,https://jiminej.lol/file.js,payload_delivery,KongTuke,KongTuke
-2026-06-12 06:11:30,1830373,https://sartora.lol/api/v1/verify,payload_delivery,KongTuke,KongTuke
-2026-06-12 06:11:29,1830408,https://jiminej.lol/api/v1/session,payload_delivery,KongTuke,KongTuke
-2026-06-12 06:11:28,1830409,https://jiminej.lol/api/v1/verify,payload_delivery,KongTuke,KongTuke
-2026-06-12 06:11:28,1830410,https://jiminej.lol/api/v1/status,payload_delivery,KongTuke,KongTuke
-2026-06-12 06:11:24,1830505,http://5.83.134.26/z.sh,payload_delivery,Unknown malware,honeypot
 2026-06-11 21:00:49,1830420,https://srv.gasturbo88.top/,botnet_cc,Vidar,vidar
 2026-06-11 21:00:49,1830422,https://srv.glamisdunesrentals.com/,botnet_cc,Vidar,vidar
-2026-06-11 16:42:29,1830313,https://saffronarchivehub.top/role/policy-sessionstore.js,payload_delivery,SmartApeSG,SmartApeSG
-2026-06-11 16:42:28,1830315,https://saffronarchivehub.top/role/health-json,payload_delivery,SmartApeSG,SmartApeSG
-2026-06-11 16:42:27,1830316,https://saffronarchivehub.top/role/redirect-html.js,payload_delivery,SmartApeSG,SmartApeSG
-2026-06-11 16:42:22,1830328,http://104.234.18.91:3001/api/internal/log,botnet_cc,Unknown malware,c2
-2026-06-11 16:42:21,1830327,http://104.234.18.91:3001/ws,botnet_cc,Unknown malware,c2
-2026-06-11 16:42:20,1830329,http://104.234.18.91:3001/api/upload,botnet_cc,Unknown malware,c2
-2026-06-11 16:24:51,1830351,https://ox3.gasturbo88.top/,botnet_cc,Vidar,"gr0u4,Vidar"
-2026-06-11 16:00:52,1830350,https://ox3.glamisdunesrentals.com/,botnet_cc,Vidar,vidar
-2026-06-11 14:20:49,1830322,https://spasopro.at/index.php,botnet_cc,SmokeLoader,smokeloader
-2026-06-11 14:20:47,1830321,http://spasopro.at/index.php,botnet_cc,SmokeLoader,smokeloader
-2026-06-11 13:17:57,1830191,https://thisismine.asia/,payload_delivery,Unknown malware,ClickFix
-2026-06-11 13:17:57,1830192,https://testerha.com/,payload_delivery,Unknown malware,ClickFix
-2026-06-11 13:17:56,1830201,https://verif-code.lol/o,payload_delivery,KongTuke,KongTuke
-2026-06-11 13:17:56,1830303,https://alabastermarket.top/role/health-json,payload_delivery,SmartApeSG,SmartApeSG
-2026-06-11 13:17:55,1830305,https://alabastermarket.top/role/redirect-html.js,payload_delivery,SmartApeSG,SmartApeSG
-2026-06-11 12:00:49,1830198,https://ffe.gasturbo88.top/,botnet_cc,Vidar,vidar
-2026-06-11 12:00:49,1830200,https://ffe.glamisdunesrentals.com/,botnet_cc,Vidar,vidar
-2026-06-11 07:49:09,1830016,http://154.198.50.76:8080/upload,botnet_cc,Unknown malware,None
 2026-06-11 05:25:55,1829974,http://151.243.18.28/4940cc4b5ddb4a2bb8f8.php,botnet_cc,Stealc,"c2,dark,loader,StealC,stealer"
-2026-06-11 05:24:45,1829987,https://sup.gasturbo88.top/,botnet_cc,Vidar,"gr0u4,Vidar"
-2026-06-10 23:24:53,1829944,https://bat.glamisdunesrentals.com/,botnet_cc,Vidar,"gr0u4,Vidar"
 2026-06-09 18:18:02,1825569,http://spasopro.at/Lsge63sd3/index.php,botnet_cc,Amadey,"amadey,c2,e7b4fe"
 2026-06-07 16:19:12,1824406,http://94.26.83.133/4940cc4b5ddb4a2bb8f8.php,botnet_cc,Stealc,"ataka0506,c2,loader,StealC,stealer"
 2026-06-06 06:00:16,1822872,http://196.251.107.104/Psd8eZaW/index.php,botnet_cc,Amadey,"282234,amadey,c2"
