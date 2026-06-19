@@ -1,4 +1,25 @@
 first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
+2026-06-19 06:49:32,1834012,l6tafmqurswrpajwgnvpnpnpd77xavfm4n52xqfsjfltnersjv2fxoqd.onion,botnet_cc,LockBit,"lockbit,ransomware"
+2026-06-19 06:49:31,1834013,kff3b66znolwznie6cinz2pecxrrxpeptwuzeudaed63viv4fbnketyd.onion,botnet_cc,LockBit,"lockbit,ransomware"
+2026-06-19 06:49:31,1834014,7egbakn4anfwdtase7fnkgsdpywl4mtsxwpud4ou5lxjjhy4qthv4vid.onion,botnet_cc,LockBit,"lockbit,ransomware"
+2026-06-19 06:49:31,1834015,5vmjqdfmmtkvk74uj2khkndrxjmgzbspzugk5a5rzd3upntc7wi5reyd.onion,botnet_cc,LockBit,"lockbit,ransomware"
+2026-06-19 06:49:30,1834016,lntvtlvl6gn35aa4coklqubskx5r3d6j42onywz7llzf3anetqtoepyd.onion,botnet_cc,LockBit,"lockbit,ransomware"
+2026-06-19 06:49:30,1834017,a2ahyvmwbfcw7vvdnaddwbvezlpcjvfszdnuer3l6aqnwdzermm7csyd.onion,botnet_cc,LockBit,"lockbit,ransomware"
+2026-06-19 06:49:27,1834018,xxs3dmkoflcfrkon7a2guje2ojsyv63z7eyxpctjota7xil646v4byyd.onion,botnet_cc,LockBit,"lockbit,ransomware"
+2026-06-19 06:49:26,1834019,smqqrbvjf7kfcikigbq5hxzq5y6n2as7oy4bmb6dsrb4keyn3korxcid.onion,botnet_cc,LockBit,"lockbit,ransomware"
+2026-06-19 05:57:13,1833833,imodobeness.at,botnet_cc,Ngioweb,"C2,Ngioweb"
+2026-06-19 05:57:13,1833834,iruledolical.org,botnet_cc,Ngioweb,"C2,Ngioweb"
+2026-06-19 05:57:11,1833835,unibokosion.cc,botnet_cc,Ngioweb,"C2,Ngioweb"
+2026-06-19 05:57:09,1833877,backoffice.ptbaconsulting.com,botnet_cc,FAKEUPDATES,SocGholish
+2026-06-19 04:12:00,1833929,aulvud5j.dancebetyek.app,payload_delivery,ClearFake,clearfake
+2026-06-19 03:05:21,1833924,x69rs3qk.rasmfani.xyz,payload_delivery,ClearFake,clearfake
+2026-06-19 03:03:37,1833923,rasmfani.xyz,payload_delivery,ClearFake,ClearFake
+2026-06-19 01:48:01,1833918,w5kaz0nm.ahkam.xyz,payload_delivery,ClearFake,clearfake
+2026-06-18 23:04:32,1833916,io7yo39n.enfejkade.com,payload_delivery,ClearFake,clearfake
+2026-06-18 22:10:19,1833914,lgoanndm.betvarzeshkade.online,payload_delivery,ClearFake,clearfake
+2026-06-18 21:24:10,1833886,1qmi6vxn.hesabdarinoravesh.xyz,payload_delivery,ClearFake,clearfake
+2026-06-18 20:46:36,1833876,ef1q7686.enfej.win,payload_delivery,ClearFake,clearfake
+2026-06-18 19:45:19,1833869,updateyourprogram.com,payload_delivery,Unknown malware,ClickFix
 2026-06-18 19:00:57,1833845,bou.rzrrent.com,botnet_cc,Vidar,vidar
 2026-06-18 19:00:56,1833843,bou.harussm188.top,botnet_cc,Vidar,vidar
 2026-06-18 18:40:20,1833842,inv527xk.testpaye.xyz,payload_delivery,ClearFake,clearfake
@@ -150,10 +171,6 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-17 07:27:43,1833358,img-static.wearepowerplay.com,botnet_cc,FAKEUPDATES,SocGholish
 2026-06-17 07:25:55,1833085,ahcgroup.in,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 07:25:37,1833361,ydgnpzbc.mechanicsayalat.xyz,payload_delivery,ClearFake,ClearFake
-2026-06-17 06:53:10,1833359,uuoecnbs.mechanickhodakarami.shop,payload_delivery,ClearFake,ClearFake
-2026-06-17 06:18:56,1833357,xcioxhpp.masirpayambari.xyz,payload_delivery,ClearFake,ClearFake
-2026-06-17 06:15:53,1833356,pirroflobsny.ydns.eu,botnet_cc,Quasar RAT,quasar
-2026-06-17 06:15:52,1833355,demagic009.duckdns.org,botnet_cc,XWorm,xworm
 2026-06-17 05:45:27,1832958,abelmomaroc.com,payload_delivery,Unknown Stealer,ClickFix
 2026-06-17 05:45:27,1832959,abilitaseguros.com.br,payload_delivery,Unknown Stealer,ClickFix
 2026-06-17 05:45:26,1832960,ac4hosting.com,payload_delivery,Unknown Stealer,ClickFix
@@ -162,130 +179,74 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-17 05:45:24,1832962,activeiman.com,payload_delivery,Unknown Stealer,ClickFix
 2026-06-17 05:45:23,1832964,chiltonlabs.org,payload_delivery,Unknown Stealer,ClickFix
 2026-06-17 05:45:23,1832965,clauscreations.nl,payload_delivery,Unknown Stealer,ClickFix
-2026-06-17 05:45:20,1832727,granitequill.top,payload_delivery,SmartApeSG,SmartApeSG
 2026-06-17 05:45:19,1832795,2rbo.com.mx,payload_delivery,Unknown Stealer,ClickFix
-2026-06-17 05:45:16,1832948,instantpublicalertnetwork.com,payload_delivery,Unknown malware,"dentons-impersonation,google-drive-abuse,homoglyph,phishing"
-2026-06-17 05:43:49,1833352,wrlunpmj.masaelmohandesi.xyz,payload_delivery,ClearFake,ClearFake
-2026-06-17 05:41:55,1833351,ab950zja.testpaye.xyz,payload_delivery,ClearFake,clearfake
-2026-06-17 05:35:47,1833350,brcorni.mabaninazari.shop,payload_delivery,ClearFake,ClearFake
-2026-06-17 05:19:32,1833349,xlyvz7lr.motuntakhasosi.store,payload_delivery,ClearFake,clearfake
-2026-06-17 05:14:53,1833348,m7nohnc7.modiriyatnikbakht.xyz,payload_delivery,ClearFake,clearfake
-2026-06-17 05:11:05,1833347,jfxdrqqn.maharatmodiran.xyz,payload_delivery,ClearFake,ClearFake
-2026-06-17 04:43:01,1833332,www.mavimetal.com.co,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:43:01,1833333,www.sabine-kley.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:43:01,1833334,www.securepath.tech,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:43:01,1833335,www.smkn1darulkamal.sch.id,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:43:01,1833336,www.thmonofuku.lat,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:43:01,1833337,www.tr88.uno,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:43:01,1833338,wwwlows-survey.info,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:43:01,1833339,yacht-trash.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:43:01,1833340,yourmusicboost.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:43:00,1833312,volunteersnetworkofkenya.org,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:43:00,1833313,voyaimpresionarte.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:43:00,1833314,wbworkshops.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:43:00,1833315,webeffa.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:43:00,1833316,webexpress.cl,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:43:00,1833317,wellzonebuildingcleaningservicesco.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:43:00,1833318,westlandconsultants.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:43:00,1833319,wiltumbusiness.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:43:00,1833320,withyou.ma,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:43:00,1833321,worldnews24.xyz,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:43:00,1833322,www.citymoversmagazine.com.ng,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:43:00,1833323,www.corterosantico.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:43:00,1833324,www.danialrad.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:43:00,1833325,www.elficarum.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:43:00,1833326,www.geekpsychologyseries.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:43:00,1833327,www.itinera.healthcare,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:43:00,1833328,www.keizalinnews.web.id,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:43:00,1833329,www.kushalcardiaccare.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:43:00,1833330,www.lc3.com.br,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:43:00,1833331,www.madinastorebd.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:59,1833293,tgsplastics.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:59,1833294,thecupcakebloke.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:59,1833295,theoptimaemhltd.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:59,1833296,thungracbinhduong.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:59,1833297,timenox.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:59,1833298,toilettage-muzillac.fr,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:59,1833299,topflytdrones.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:59,1833300,trecoshop.com.br,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:59,1833301,tritantech.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:59,1833302,ultrasound-transducer-repair.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:59,1833303,urbanairplanner.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:59,1833304,vacationownershipadvisor.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:59,1833305,valorglobe.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:59,1833306,valuevillagelisten.cam,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:59,1833307,valuevillagelistens.pro,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:59,1833308,valuevillagelistens.store,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:59,1833309,vanguard-bridge-global.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:59,1833310,vigipart.fr,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:59,1833311,vitrouksecurity.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:58,1833274,snyrtistofanrunir.is,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:58,1833275,sofihighyieldsavings.online,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:58,1833276,somaxsis.com.br,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:58,1833277,ssagronursery.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:58,1833278,steeltorg.com.ua,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:58,1833279,stemchocolate.shop,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:58,1833280,streamsvision.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:58,1833281,swabina.co.id,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:58,1833282,swagathcuisine.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:58,1833283,sycnmore.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:58,1833284,synergysurveys.online,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:58,1833285,taiwandonutsoh.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:58,1833286,tamposit.pl,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:58,1833287,techwizzardz.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:58,1833288,tecnolozzi.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:58,1833289,teknolojikbirinsan.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:58,1833290,tellthebellsurveywin.org,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:58,1833291,telltimssurvey.blog,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:58,1833292,tessang.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:57,1833253,querenhapuque.com.br,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:57,1833254,quickvinrecord.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:57,1833255,radianttechnologybd.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:57,1833256,readingtime.space,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:57,1833257,rebelwithareason.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:57,1833258,rebuildinglivesinitiative.org,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:57,1833259,recreio.pet,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:57,1833260,refinedwearfashionstore.shop,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:57,1833261,reformasfsc.es,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:57,1833262,renovapqs.com.br,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:57,1833263,rhbmarketing.co.za,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:57,1833264,riswanasherin.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:57,1833265,royalvet.es,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:57,1833266,sabatravels.com.pk,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:57,1833267,sahaninterpretations.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:57,1833268,saira-tour.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:57,1833269,scripterx.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:57,1833270,sgsolicitors.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:57,1833271,sham-top.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:57,1833272,shambolicliving.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:57,1833273,slammedhospitalitytalk.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:56,1833235,mywawavisitgift.store,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:56,1833236,mywawavisitscom.store,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:56,1833237,natachalockwood.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:56,1833238,newnetplc.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:56,1833239,nextgenstore.shop,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:56,1833240,nicescleaningservice.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:56,1833241,nuestisingur.org,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:56,1833242,olivefuneralhome.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:56,1833243,ouagayaar.bf,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:56,1833244,owlcamp.net,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:56,1833245,patronoapp.online,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:56,1833246,pelucaniche.cl,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:56,1833247,pgzimmune.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:56,1833248,potzandpanzgourmetcafe.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:56,1833249,premiumcoursebd.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:56,1833250,princetmt.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:56,1833251,prosonic.com.sg,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:56,1833252,protraincompany.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:55,1833217,lumikaafricansafari.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:55,1833218,macbekent.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:55,1833219,mahyakhaleghi.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:55,1833220,malina-nails.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:55,1833221,mamanamoinschere.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:55,1833222,mayaminds.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:55,1833223,mcliokays.co.zw,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:55,1833224,mcveyinternational.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:55,1833225,mediosdigitalesdelnorte.net,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:55,1833226,mehedimartbd.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:55,1833227,mercadodeartesdigitales.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:55,1833228,metroreportase.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
@@ -293,17 +254,12 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-17 04:42:55,1833230,mgpvtiti.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:55,1833231,mobconic.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:55,1833232,monahlaw.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:55,1833233,mybrothersbarbq.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:55,1833234,mywawavisit.ink,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:54,1833196,ibtidaa.org,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:54,1833197,indicatorspotvip.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:54,1833198,indiza.net,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:54,1833199,instantstorage.ng,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:54,1833200,interiorshub.com.pk,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:54,1833201,jaimeresendiz.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:54,1833202,jcpenneycomsurvey.store,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:54,1833203,jensencollector.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:54,1833204,jsjbrownstudios.co.uk,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:54,1833205,judyprescottmarshall.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:54,1833206,kalamfanclub.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:54,1833207,kingdomdelight.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
@@ -321,7 +277,6 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-17 04:42:53,1833179,freelancer5.xyz,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:53,1833180,fullfitlocks.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:53,1833181,futureconnectgroup.co.uk,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:53,1833182,gedexam.org,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:53,1833183,geod.expert,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:53,1833184,gmiconsulting.co.uk,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:53,1833185,go88casino.pro,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
@@ -337,7 +292,6 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-17 04:42:53,1833195,iamstudent.co.uk,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:52,1833157,drataynasantiago.com.br,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:52,1833158,drfelipearnaud.com.br,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:52,1833159,dulichdonga.vn,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:52,1833160,dynasticagency.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:52,1833161,ebyeos.com.br,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:52,1833162,ecosamp.com.br,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
@@ -396,8 +350,6 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-17 04:42:49,1833101,arshomerenovate.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:49,1833102,ashifct.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:49,1833103,astonclinic.ie,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:49,1833104,atheriumcode.com.br,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:42:49,1833105,avipri.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:49,1833106,ayamprestonyonyalina.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:49,1833107,bem88v.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:49,1833108,bistfs.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
@@ -426,46 +378,8 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-17 04:42:48,1833098,aqua-methodsug.com,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:48,1833099,aquapro.ro,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
 2026-06-17 04:42:48,1833100,aquatro.net,payload_delivery,Unknown Stealer,"ClickFix,CloudflareHardwareFingerprinting"
-2026-06-17 04:39:10,1833084,gzipfktz.mabanishimi.xyz,payload_delivery,ClearFake,ClearFake
-2026-06-17 04:36:47,1833083,vslaa.melbetkade.com,payload_delivery,ClearFake,ClearFake
-2026-06-17 04:06:26,1833077,jgyqxldn.leaguejazire.com,payload_delivery,ClearFake,ClearFake
-2026-06-17 03:38:13,1833064,pjzhlamo.karbordriyaziyat.xyz,payload_delivery,ClearFake,ClearFake
-2026-06-17 03:12:13,1833061,riyazinikokar.xyz,payload_delivery,ClearFake,ClearFake
-2026-06-17 03:05:36,1833060,oucgpofp.karafarini.shop,payload_delivery,ClearFake,ClearFake
-2026-06-17 02:28:18,1833045,emjkevxm.jam-jahani.com,payload_delivery,ClearFake,ClearFake
-2026-06-17 02:14:55,1833044,emuerrz.ecologyardakani.xyz,payload_delivery,ClearFake,ClearFake
-2026-06-17 01:56:33,1833041,fqgadjsy.hugugtejarat4.xyz,payload_delivery,ClearFake,ClearFake
-2026-06-17 01:31:22,1833040,slceo.rocketbet.pro,payload_delivery,ClearFake,ClearFake
-2026-06-17 01:27:46,1833039,lkkcicvs.tasisathosseini.shop,payload_delivery,ClearFake,ClearFake
-2026-06-17 01:13:23,1833038,xsr8ggtp.riyaziatumumi.xyz,payload_delivery,ClearFake,clearfake
-2026-06-17 01:11:52,1833037,riyaziatumumi.xyz,payload_delivery,ClearFake,ClearFake
-2026-06-17 00:50:54,1833026,gidptxnf.shartbandi.games,payload_delivery,ClearFake,ClearFake
 2026-06-17 00:24:50,1833017,zab.hanyasm188.top,botnet_cc,Vidar,"i7sb1k,Vidar"
-2026-06-17 00:19:05,1833015,mbcmhapi.sazebetonarme.xyz,payload_delivery,ClearFake,ClearFake
 2026-06-17 00:00:56,1833013,zab.rzrrent.com,botnet_cc,Vidar,vidar
-2026-06-16 23:46:19,1833012,ghcruhhs.sanjeshvaandazegiri.shop,payload_delivery,ClearFake,ClearFake
-2026-06-16 23:42:42,1833006,ia9opth7.hugugtatbigi.xyz,payload_delivery,ClearFake,clearfake
-2026-06-16 23:13:26,1833001,trzyilzj.sanjeshravani.shop,payload_delivery,ClearFake,ClearFake
-2026-06-16 23:11:22,1833000,reyhanebeheshti.xyz,payload_delivery,ClearFake,ClearFake
-2026-06-16 22:48:59,1832980,xvjjvja.differentialmamuli.store,payload_delivery,ClearFake,ClearFake
-2026-06-16 22:41:05,1832979,bmsmzuxa.sakhtemandade.shop,payload_delivery,ClearFake,ClearFake
-2026-06-16 22:31:50,1832978,pqjqu.shansbartar.bet,payload_delivery,ClearFake,ClearFake
-2026-06-16 22:12:38,1832977,lueplxze.sadreislam.xyz,payload_delivery,ClearFake,ClearFake
-2026-06-16 21:39:56,1832957,jwzyamqu.questionsmotor.xyz,payload_delivery,ClearFake,ClearFake
-2026-06-16 21:12:23,1832804,zqxhkfn1.mohasebatadadi.xyz,payload_delivery,ClearFake,clearfake
-2026-06-16 21:10:51,1832803,mohasebatadadi.xyz,payload_delivery,ClearFake,ClearFake
-2026-06-16 21:07:24,1832802,eoubkysl.psgnewsiran.com,payload_delivery,ClearFake,ClearFake
-2026-06-16 20:29:51,1832794,poxcezrq.prozhedownload.com,payload_delivery,ClearFake,ClearFake
-2026-06-16 20:23:48,1832793,nebxkrhy.prozhedownload.com,payload_delivery,ClearFake,ClearFake
-2026-06-16 19:51:36,1832787,cpysndcd.prozhecart.com,payload_delivery,ClearFake,ClearFake
-2026-06-16 19:30:52,1832760,niowimq.shansline.com,payload_delivery,ClearFake,ClearFake
-2026-06-16 19:27:45,1832759,zvday.defamogadas.xyz,payload_delivery,ClearFake,ClearFake
-2026-06-16 19:22:28,1832758,hxfvuhay.mechanicsayalat.xyz,payload_delivery,ClearFake,ClearFake
-2026-06-16 19:18:45,1832757,ro68mi4f.hesabdari2.xyz,payload_delivery,ClearFake,clearfake
-2026-06-16 19:10:18,1832756,mohandesitraffic.shop,payload_delivery,ClearFake,ClearFake
-2026-06-16 17:25:13,1832723,yan.rzrrent.com,botnet_cc,Vidar,"i7sb1k,Vidar"
-2026-06-16 17:25:00,1832721,yan.hanyasm188.top,botnet_cc,Vidar,"i7sb1k,Vidar"
-2026-06-16 15:12:29,1832711,verif-human.lol,payload_delivery,KongTuke,KongTuke
 2026-06-16 05:45:39,1832557,mlcs.mlface.net,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-15 15:45:49,1832398,cs.tpedu2metricstw.dpdns.org,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-15 15:45:48,1832397,ardaplumeit.top,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
@@ -477,6 +391,7 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-12 15:24:53,1831574,ggt.glamisrent.com,botnet_cc,Vidar,"gr0u4,Vidar"
 2026-06-12 15:24:41,1831572,ggt.gerbongsm188.top,botnet_cc,Vidar,"gr0u4,Vidar"
 2026-06-12 07:59:02,1830611,digion.ca,payload_delivery,StrelaStealer,StrelaStealer
+2026-06-11 21:41:00,1830424,o0irv3h9.ravabetensani.site,payload_delivery,ClearFake,clearfake
 2026-06-11 19:45:26,1830402,1364170351-9enmkvd46p.ap-guangzhou.tencentscf.com,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-11 15:45:51,1830338,mlcos.cdnupdate.net,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-11 07:19:48,1830013,slojemw.leaguejazire.com,payload_delivery,ClearFake,ClearFake
@@ -544,17 +459,14 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-04-07 13:28:09,1782300,vescel.es,payload_delivery,Unknown malware,"ClickFix,WebDav"
 2026-04-07 07:46:05,1782182,dzdi.serendipityhub.space,botnet_cc,Vidar,Vidar
 2026-04-04 20:57:11,1781232,dradnantahir.com,payload_delivery,Unknown malware,"ClickFix,User-Agent Check"
-2026-04-04 20:24:22,1781210,projet-artisan.com,payload_delivery,Unknown malware,"ClickFix,User-Agent Check"
 2026-04-03 16:13:22,1780720,hor.kaitorinihon.jp,botnet_cc,Vidar,Vidar
 2026-03-27 21:24:29,1777607,pn2.skfilmsint.com,botnet_cc,Vidar,Vidar
 2026-03-27 21:24:29,1777609,gre.syslicense.net,botnet_cc,Vidar,Vidar
 2026-03-27 21:24:29,1777611,fefeo.iknowthat.space,botnet_cc,Vidar,Vidar
-2026-03-27 20:14:56,1777562,ournameismama.com,payload_delivery,Unknown malware,"ClickFix,WebDav"
 2026-03-23 13:42:00,1774355,kdije.weirdthings.site,botnet_cc,Vidar,Vidar
 2026-03-23 08:02:27,1774216,msi.swadeshcomputer.com,botnet_cc,Vidar,Vidar
 2026-03-22 09:04:26,1773632,nambaohiem.com,payload_delivery,Unknown malware,"ClickFix,WebDav"
 2026-03-20 22:20:27,1772868,promosijack.com,payload_delivery,Unknown malware,"ClickFix,WebDAV"
-2026-03-20 22:18:10,1772865,orthrex.co.uk,payload_delivery,Unknown malware,"ClickFix,WebDAV"
 2026-03-20 22:01:13,1772838,lanshenglogistics.com,payload_delivery,Unknown malware,"ClickFix,WebDAV"
 2026-03-20 21:55:21,1772829,jackpromosi.com,payload_delivery,Unknown malware,"ClickFix,WebDAV"
 2026-03-20 21:48:59,1772822,hamanaglobalservices.com,payload_delivery,Unknown malware,"ClickFix,WebDAV"
