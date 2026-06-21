@@ -1,4 +1,12 @@
 first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
+2026-06-20 23:53:01,1834582,https://cdn.jsdelivr.net/gh/savina-41/8a-96dfe89a4aa3/hum-id46,payload_delivery,ClearFake,ClearFake
+2026-06-20 18:42:08,1834532,https://almontm.xyz/file.js,payload_delivery,KongTuke,None
+2026-06-20 17:35:56,1834520,http://193.148.57.10/88004f4d3e32489389ea.php,botnet_cc,Stealc,stealc
+2026-06-20 10:48:33,1834282,https://cdn.jsdelivr.net/gh/savina-41/mcv4f-jp5/launching,payload_delivery,ClearFake,ClearFake
+2026-06-20 10:10:41,1834281,http://mathlah.com:9432,botnet_cc,Remus,remus
+2026-06-20 06:26:06,1834244,http://103.186.77.95:49560/Mozi.a,payload_delivery,Mozi,"elf,iot,Mozi"
+2026-06-20 06:26:05,1834245,http://72.255.3.39:41763/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
+2026-06-20 06:26:05,1834246,http://153.117.13.227:34153/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
 2026-06-20 05:49:55,1834137,https://coralregistry.top/middleware/role-render.js,payload_delivery,SmartApeSG,SmartApeSG
 2026-06-20 05:49:53,1834140,https://coralregistry.top/middleware/endpoint-asset.js,payload_delivery,SmartApeSG,SmartApeSG
 2026-06-20 05:49:52,1834139,https://coralregistry.top/middleware/version-schema,payload_delivery,SmartApeSG,SmartApeSG
@@ -34,126 +42,11 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-19 09:24:42,1834045,https://fed.rzrrent.com/,botnet_cc,Vidar,"i7sb1k,Vidar"
 2026-06-19 09:24:30,1834043,https://fed.harussm188.top/,botnet_cc,Vidar,"i7sb1k,Vidar"
 2026-06-19 08:32:35,1834036,https://oldagecarefoundation.com/,payload_delivery,Unknown malware,ClickFix
-2026-06-19 06:16:42,1834009,http://ch.10001mb.com/mort.php,botnet_cc,Kimsuky,Kimsuky
-2026-06-19 06:07:55,1834008,http://160.30.142.218:34669/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:54,1834006,http://175.107.230.24:57256/Mozi.a,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:54,1834007,http://153.117.37.104:59732/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:53,1834004,http://72.255.32.68:46117/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:53,1834005,http://59.103.100.2:33514/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:48,1834002,http://115.55.85.7:55027/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:48,1834003,http://103.115.199.18:53070/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:47,1834001,http://153.117.33.228:44081/Mozi.a,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:46,1833999,http://103.173.7.226:33627/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:46,1834000,http://202.47.56.219:49775/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:45,1833997,http://59.97.250.56:43042/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:45,1833998,http://110.39.233.163:45754/Mozi.a,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:44,1833995,http://36.255.44.120:49117/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:44,1833996,http://223.123.125.13:46831/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:43,1833993,http://175.107.212.44:38058/Mozi.a,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:43,1833994,http://144.48.130.229:38194/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:42,1833991,http://153.117.51.96:36126/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:42,1833992,http://153.117.6.120:50638/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:41,1833990,http://122.50.1.26:33627/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:40,1833988,http://101.31.81.241:51191/Mozi.a,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:40,1833989,http://223.123.72.190:60788/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:39,1833986,http://125.45.68.162:39862/Mozi.a,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:39,1833987,http://102.33.46.27:37709/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:38,1833984,http://115.42.75.105:44616/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:38,1833985,http://14.1.104.134:40274/Mozi.a,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:37,1833982,http://103.18.14.247:60764/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:37,1833983,http://220.112.61.85:36541/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:36,1833980,http://45.230.66.118:10669/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:36,1833981,http://112.239.122.134:39926/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:35,1833978,http://81.26.83.155:39307/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:35,1833979,http://202.9.122.224:35583/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:34,1833977,http://45.230.66.102:10676/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:33,1833976,http://185.221.253.69:37779/Mozi.a,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:32,1833975,http://153.117.6.68:51654/Mozi.a,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:31,1833974,http://45.230.66.112:10059/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:29,1833972,http://103.181.161.31:48115/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:29,1833973,http://45.230.66.104:10973/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:28,1833970,http://103.181.160.235:38778/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:28,1833971,http://153.117.32.204:59142/Mozi.a,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:27,1833969,http://139.135.42.99:32954/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:26,1833967,http://103.146.110.242:47794/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:26,1833968,http://182.117.70.107:59733/Mozi.7,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:25,1833965,http://144.48.130.215:51670/Mozi.a,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:25,1833966,http://110.38.218.245:46130/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:24,1833963,http://222.140.134.61:37273/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:24,1833964,http://153.117.52.69:51838/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:22,1833961,http://153.117.9.190:56846/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:22,1833962,http://223.123.73.214:56098/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:20,1833959,http://117.209.7.37:53123/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:20,1833960,http://223.123.124.127:43961/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:19,1833958,http://117.245.138.25:53071/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:18,1833956,http://172.168.148.38:60105/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:18,1833957,http://202.9.123.77:50006/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:17,1833955,http://112.25.235.194:41076/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:16,1833954,http://223.123.41.67:37213/Mozi.a,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:14,1833952,http://115.55.232.238:45652/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:14,1833953,http://223.123.125.8:43836/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:12,1833951,http://101.53.233.87:49158/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:11,1833950,http://119.30.117.62:57777/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:10,1833937,http://103.176.16.93:47938/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:10,1833938,http://223.123.77.15:48168/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:10,1833949,http://139.135.41.214:57108/Mozi.a,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:09,1833939,http://113.99.201.216:40944/Mozi.a,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:09,1833940,http://186.4.217.208:43140/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:09,1833941,http://42.230.218.169:36211/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:09,1833948,http://85.12.229.54:45873/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:08,1833942,http://72.255.3.97:44709/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:08,1833943,http://223.123.43.68:54638/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:08,1833947,http://103.225.191.207:48112/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:07,1833946,http://185.94.182.57:35814/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:06,1833945,http://139.135.59.145:34945/Mozi.a,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 06:07:03,1833944,http://103.146.111.93:37443/Mozi.m,payload_delivery,Mozi,"honeylabs,honeypot,iot"
-2026-06-19 05:57:04,1833885,https://delmore-effect.com/,payload_delivery,Unknown malware,ClickFix
 2026-06-18 19:00:57,1833844,https://bou.harussm188.top/,botnet_cc,Vidar,vidar
 2026-06-18 19:00:57,1833846,https://bou.rzrrent.com/,botnet_cc,Vidar,vidar
-2026-06-18 18:31:57,1833840,https://cdn.jsdelivr.net/gh/arinao7/6e91d58f-acdf/key,payload_delivery,ClearFake,ClearFake
-2026-06-18 17:49:02,1833838,https://cdn.jsdelivr.net/gh/arinao7/6e91d58f-acdf/e62,payload_delivery,ClearFake,ClearFake
-2026-06-18 16:25:05,1833799,https://txs.rzrrent.com/,botnet_cc,Vidar,"i7sb1k,Vidar"
-2026-06-18 16:24:54,1833797,https://txs.harussm188.top/,botnet_cc,Vidar,"i7sb1k,Vidar"
-2026-06-18 14:11:25,1833785,https://onetime-v.lol/o,payload_delivery,KongTuke,KongTuke
-2026-06-18 14:11:24,1833787,https://ivorycompass.top/token/callback-compiler,payload_delivery,SmartApeSG,SmartApeSG
-2026-06-18 14:11:23,1833789,https://ivorycompass.top/token/session-json.js,payload_delivery,SmartApeSG,SmartApeSG
-2026-06-18 13:33:33,1833775,https://cedarlanternhub.top/token/private-sandbox.js,payload_delivery,SmartApeSG,SmartApeSG
-2026-06-18 13:33:32,1833777,https://cedarlanternhub.top/token/callback-compiler,payload_delivery,SmartApeSG,SmartApeSG
-2026-06-18 13:33:32,1833778,https://cedarlanternhub.top/token/session-json.js,payload_delivery,SmartApeSG,SmartApeSG
-2026-06-18 12:53:11,1833772,https://birdybird.rest/,payload_delivery,Unknown malware,ClickFix
-2026-06-18 12:03:47,1833755,https://siledepartamentos.com/,payload_delivery,Unknown malware,ClickFix
-2026-06-18 12:03:47,1833756,https://qantify.net/,payload_delivery,Unknown malware,ClickFix
-2026-06-18 12:03:46,1833757,https://nabane.com.mx/,payload_delivery,Unknown malware,ClickFix
-2026-06-18 12:03:46,1833767,https://mingliu.com.tw/,payload_delivery,Unknown malware,ClickFix
-2026-06-18 11:12:41,1833765,https://cdn.jsdelivr.net/gh/arinao7/8327ac99-c06c-422f-bd2e-4a80978d52c9/api-45,payload_delivery,ClearFake,ClearFake
-2026-06-18 11:00:56,1833761,https://psh.harussm188.top/,botnet_cc,Vidar,vidar
-2026-06-18 11:00:56,1833763,https://psh.rzrrent.com/,botnet_cc,Vidar,vidar
-2026-06-18 09:57:23,1833745,https://domokitw.lol/downloads,payload_delivery,Unknown Stealer,None
-2026-06-18 09:57:23,1833746,https://voltix.gd/App/Voltix.zip,payload_delivery,Unknown Stealer,None
-2026-06-18 09:30:33,1833738,https://sonofar.com/,payload_delivery,Unknown malware,ClickFix
-2026-06-18 09:30:32,1833739,https://volunteerskonect.ca/,payload_delivery,Unknown malware,ClickFix
-2026-06-18 09:24:25,1833728,https://madhavsamachar.com/,payload_delivery,Unknown malware,ClickFix
-2026-06-18 08:01:14,1833715,https://167.233.67.224/,botnet_cc,Vidar,Vidar
-2026-06-18 08:01:14,1833716,https://77.42.32.108/,botnet_cc,Vidar,Vidar
-2026-06-18 08:01:14,1833717,https://167.233.133.99/,botnet_cc,Vidar,Vidar
-2026-06-18 07:22:26,1833626,https://henriqueq.xyz/file.js,payload_delivery,KongTuke,KongTuke
-2026-06-18 07:22:25,1833612,https://ambergallery.top/auth/status-partial,payload_delivery,SmartApeSG,SmartApeSG
-2026-06-18 07:22:24,1833613,https://ambergallery.top/auth/rate-view.js,payload_delivery,SmartApeSG,SmartApeSG
-2026-06-18 07:22:22,1833628,https://henriqueq.xyz/api/v1/session,payload_delivery,KongTuke,KongTuke
-2026-06-18 07:22:22,1833629,https://henriqueq.xyz/api/v1/verify,payload_delivery,KongTuke,KongTuke
-2026-06-18 07:22:22,1833630,https://henriqueq.xyz/api/v1/status,payload_delivery,KongTuke,KongTuke
-2026-06-18 07:22:21,1833631,https://one-check.lol/o,payload_delivery,KongTuke,KongTuke
-2026-06-18 07:22:18,1833610,https://ambergallery.top/auth/verify-cookie.js,payload_delivery,SmartApeSG,SmartApeSG
-2026-06-18 07:22:17,1833496,https://trecoshop.com.br/,payload_delivery,Unknown malware,ClickFix
-2026-06-18 07:22:15,1833577,https://one-confirm.lol/m,botnet_cc,Unknown malware,"clickfix,kongtuke,python-backdoor,winpython"
-2026-06-18 07:22:12,1833581,https://www.dropbox.com/scl/fi/5s7jeh4brmv6zttfswcd3/kkkkkk1.zip?rlkey=rddyt5s55ghjnv6rgtyzyes4p&dl=1,payload_delivery,Unknown malware,"clickfix,kongtuke,python-backdoor,winpython"
-2026-06-18 07:22:11,1833585,https://chinarice.asia/,payload_delivery,Unknown malware,ClickFix
-2026-06-18 06:00:57,1833692,https://get.harussm188.top/,botnet_cc,Vidar,vidar
-2026-06-17 21:25:12,1833619,https://get.rzrrent.com/,botnet_cc,Vidar,"i7sb1k,Vidar"
 2026-06-15 08:44:17,1832302,http://cacywears.ga/index.php,botnet_cc,SmokeLoader,"c2,SmokeLoader"
 2026-06-12 15:24:53,1831573,https://ggt.glamisrent.com/,botnet_cc,Vidar,"gr0u4,Vidar"
 2026-06-12 15:24:41,1831571,https://ggt.gerbongsm188.top/,botnet_cc,Vidar,"gr0u4,Vidar"
-2026-06-07 16:19:12,1824406,http://94.26.83.133/4940cc4b5ddb4a2bb8f8.php,botnet_cc,Stealc,"ataka0506,c2,loader,StealC,stealer"
 2026-06-06 06:00:16,1822872,http://196.251.107.104/Psd8eZaW/index.php,botnet_cc,Amadey,"282234,amadey,c2"
 2026-06-06 05:24:31,1823853,https://pas.sm188star.top/,botnet_cc,Vidar,"ar3k0,Vidar"
 2026-05-29 15:30:50,1819843,https://mub.depansm188.top/,botnet_cc,Vidar,vidar
@@ -167,7 +60,6 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-05-02 05:24:17,1803956,https://arsimonopa.com/live/,botnet_cc,Latrodectus,"c2,Latrodectus"
 2026-05-02 05:24:15,1803960,https://lemonimonakio.com/live/,botnet_cc,Latrodectus,"c2,Latrodectus"
 2026-05-01 14:30:24,1803671,https://frr.ambil-disini.web.id/,botnet_cc,Vidar,vidar
-2026-05-01 06:52:21,1803076,https://snakcscornerbd.com/,payload_delivery,Unknown malware,ClickFix
 2026-04-26 19:14:08,1800528,http://pillow.riverbridge.site,botnet_cc,Vidar,"ipocalur,Vidar"
 2026-04-26 18:11:00,1800411,http://91.92.242.236/oPvjr94jfe/index.php,botnet_cc,Amadey,"54e64e,amadey,c2"
 2026-04-24 15:18:01,1797247,https://psy.flise-mesteren.dk/,botnet_cc,Vidar,"r88vry,Vidar"
@@ -216,7 +108,6 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-01-05 13:21:41,1691603,http://213.5.130.151,botnet_cc,Unknown malware,"c2,REMPROXY"
 2026-01-05 13:21:40,1691604,http://213.5.130.124,botnet_cc,Unknown malware,"c2,REMPROXY"
 2026-01-05 13:21:40,1691606,http://213.5.130.187,botnet_cc,Unknown malware,"c2,REMPROXY"
-2026-01-05 10:06:49,1691482,https://hov.multiatend.com.br/,botnet_cc,Vidar,Vidar
 2025-12-01 14:57:52,1665523,http://213.5.130.104,botnet_cc,Unknown malware,"c2,REMPROXY"
 2025-12-01 14:57:52,1665524,http://213.5.130.180,botnet_cc,Unknown malware,"c2,REMPROXY"
 2025-12-01 14:57:50,1665525,http://213.5.130.106,botnet_cc,Unknown malware,"c2,REMPROXY"
@@ -233,7 +124,6 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2025-11-25 06:01:35,1649778,http://213.5.130.160,botnet_cc,Unknown malware,"c2,REMPROXY"
 2025-10-21 13:19:24,1624166,http://213.5.130.75,botnet_cc,Unknown malware,"c2,REMPROXY"
 2025-10-21 13:19:23,1624167,http://213.5.130.10,botnet_cc,Unknown malware,"c2,REMPROXY"
-2025-10-21 13:19:22,1624169,http://213.5.130.90,botnet_cc,Unknown malware,"c2,REMPROXY"
 2025-10-21 13:19:22,1624170,http://213.5.130.89,botnet_cc,Unknown malware,"c2,REMPROXY"
 2025-05-11 05:00:17,1519450,https://topguningit.com/test/,botnet_cc,Latrodectus,None
 2025-02-06 13:54:51,1405307,https://apworsindos.com/test/,botnet_cc,Latrodectus,None
