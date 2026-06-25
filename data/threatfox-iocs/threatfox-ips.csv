@@ -1,4 +1,165 @@
 first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
+2026-06-25 05:40:50,1837211,204.10.160.167,botnet_cc,XWorm,xworm
+2026-06-25 05:40:50,1837212,204.10.160.167,botnet_cc,Remcos,remcos
+2026-06-25 05:40:05,1837210,172.111.169.85,botnet_cc,Remcos,"RAT,RemcosRAT"
+2026-06-25 05:28:29,1837199,157.20.182.81,botnet_cc,Tofsee,Tofsee
+2026-06-25 05:28:29,1837200,62.60.226.183,botnet_cc,Tofsee,Tofsee
+2026-06-25 05:28:29,1837201,157.20.182.81,botnet_cc,Tofsee,Tofsee
+2026-06-25 05:28:29,1837202,157.20.182.81,botnet_cc,Tofsee,Tofsee
+2026-06-25 05:28:29,1837203,196.251.121.90,botnet_cc,Tofsee,Tofsee
+2026-06-25 05:28:29,1837204,157.20.182.81,botnet_cc,Tofsee,Tofsee
+2026-06-25 05:28:28,1837196,196.251.121.90,botnet_cc,Tofsee,Tofsee
+2026-06-25 05:28:28,1837197,196.251.121.90,botnet_cc,Tofsee,Tofsee
+2026-06-25 05:28:28,1837198,196.251.121.90,botnet_cc,Tofsee,Tofsee
+2026-06-25 05:22:39,1837195,206.189.94.70,botnet_cc,Aisuru,"Aisuru,c2"
+2026-06-25 05:14:14,1837189,217.60.195.160,botnet_cc,Mirai,"C2,Mirai"
+2026-06-25 05:14:13,1837190,217.60.195.160,payload_delivery,Mirai,"Mirai,nc"
+2026-06-25 05:05:07,1837194,107.172.133.195,botnet_cc,AsyncRAT,asyncrat
+2026-06-25 05:05:05,1837192,193.148.57.16,botnet_cc,Stealc,stealc
+2026-06-25 05:05:05,1837193,122.152.196.122,botnet_cc,VShell,vshell
+2026-06-25 04:05:05,1837186,74.208.13.152,botnet_cc,AsyncRAT,asyncrat
+2026-06-25 03:14:18,1837095,159.223.162.164,botnet_cc,Unknown malware,"clickfix,kongtuke,loader,powershell"
+2026-06-25 03:14:16,1837100,144.31.151.138,botnet_cc,Tsunami,"c2,ddos,go,orbital"
+2026-06-25 03:14:14,1837101,62.238.37.207,payload_delivery,Tsunami,"ddos,redis"
+2026-06-25 03:14:14,1837102,158.51.96.38,payload_delivery,XOR DDoS,"ssh,xorddos"
+2026-06-25 03:14:14,1837103,45.81.243.62,payload_delivery,XMRIG,"outlaw,ssh"
+2026-06-25 03:14:13,1837104,46.101.213.236,payload_delivery,XMRIG,"outlaw,ssh"
+2026-06-25 03:14:12,1837105,144.31.158.144,payload_delivery,RedTail,"docker-api,redtail"
+2026-06-25 03:14:12,1837106,27.153.157.138,payload_delivery,RedTail,"docker-api,redtail"
+2026-06-25 03:14:11,1837107,83.229.8.197,payload_delivery,RedTail,"docker-api,redtail"
+2026-06-25 03:14:10,1837108,101.47.8.187,payload_delivery,RedTail,"docker-api,redtail"
+2026-06-25 03:14:10,1837109,118.145.245.82,payload_delivery,RedTail,"docker-api,redtail"
+2026-06-25 03:14:09,1837110,47.251.34.92,payload_delivery,RedTail,"docker-api,redtail"
+2026-06-25 03:14:08,1837111,185.214.96.142,payload_delivery,XMRIG,"diicot,docker-api"
+2026-06-25 03:14:07,1837112,185.226.196.12,botnet_cc,Mirai,"docker-api,mcp-scanner"
+2026-06-25 03:14:07,1837113,42.121.220.29,payload_delivery,XMRIG,"muhstik,redis"
+2026-06-25 03:14:06,1837114,129.211.222.51,payload_delivery,XMRIG,"muhstik,redis"
+2026-06-25 03:14:06,1837115,207.180.232.121,payload_delivery,XMRIG,"rce,redis"
+2026-06-25 03:14:05,1837116,89.125.35.26,payload_delivery,XMRIG,"exfil,redis"
+2026-06-25 03:14:05,1837117,138.199.15.156,payload_delivery,XMRIG,"postgres,takeover"
+2026-06-25 03:14:04,1837118,138.199.15.175,payload_delivery,XMRIG,"postgres,takeover"
+2026-06-25 03:14:04,1837119,185.244.213.94,payload_delivery,XMRIG,"postgres,takeover"
+2026-06-25 03:14:04,1837120,85.215.192.100,payload_delivery,RedTail,"redtail,webpot"
+2026-06-25 03:14:03,1837121,47.253.245.52,payload_delivery,RedTail,"redtail,webpot"
+2026-06-25 03:14:02,1837122,37.27.197.191,payload_delivery,RedTail,"redtail,webpot"
+2026-06-25 03:14:01,1837123,80.241.209.14,payload_delivery,RedTail,"redtail,webpot"
+2026-06-25 03:14:00,1837124,152.42.252.134,payload_delivery,RedTail,"redtail,webpot"
+2026-06-25 03:13:54,1837143,153.75.251.77,botnet_cc,Mirai,"C2,Mirai"
+2026-06-25 03:13:52,1837141,153.75.251.77,botnet_cc,Mirai,"C2,Mirai"
+2026-06-25 03:13:52,1837142,153.75.251.77,botnet_cc,Mirai,"C2,Mirai"
+2026-06-25 03:13:51,1837144,157.254.167.56,botnet_cc,Mirai,"C2,Mirai"
+2026-06-25 03:13:51,1837145,157.254.167.56,botnet_cc,Mirai,"C2,Mirai"
+2026-06-25 03:13:51,1837146,157.254.167.56,botnet_cc,Mirai,"C2,Mirai"
+2026-06-25 03:13:50,1837147,103.56.155.127,botnet_cc,Mirai,"C2,Mirai"
+2026-06-25 03:13:50,1837148,103.56.155.127,botnet_cc,Mirai,"C2,Mirai"
+2026-06-25 03:13:49,1837149,103.56.155.127,botnet_cc,Mirai,"C2,Mirai"
+2026-06-25 03:13:49,1837150,151.242.125.234,botnet_cc,Mirai,"C2,Mirai"
+2026-06-25 03:13:49,1837151,151.242.125.234,botnet_cc,Mirai,"C2,Mirai"
+2026-06-25 03:13:48,1837153,178.83.206.213,botnet_cc,Mirai,"C2,Mirai"
+2026-06-25 03:13:46,1837152,151.242.125.234,botnet_cc,Mirai,"C2,Mirai"
+2026-06-25 03:13:46,1837154,178.83.206.213,botnet_cc,Mirai,"C2,Mirai"
+2026-06-25 03:13:45,1837155,178.83.206.213,botnet_cc,Mirai,"C2,Mirai"
+2026-06-25 03:13:45,1837156,156.246.90.214,botnet_cc,Mirai,"C2,Mirai"
+2026-06-25 03:13:44,1837157,156.246.90.214,botnet_cc,Mirai,"C2,Mirai"
+2026-06-25 03:13:43,1837158,156.246.90.214,botnet_cc,Mirai,"C2,Mirai"
+2026-06-25 03:13:17,1837163,176.65.139.225,botnet_cc,Mirai,"C2,Mirai"
+2026-06-25 03:13:15,1837166,147.182.217.141,botnet_cc,Aisuru,"Aisuru,c2"
+2026-06-25 03:05:06,1837181,154.202.118.78,botnet_cc,VShell,vshell
+2026-06-25 02:05:15,1837179,23.141.12.111,botnet_cc,Cobalt Strike,cobaltstrike
+2026-06-25 02:05:13,1837178,149.88.66.234,botnet_cc,Cobalt Strike,cobaltstrike
+2026-06-25 00:05:09,1837175,45.32.66.51,botnet_cc,AsyncRAT,asyncrat
+2026-06-25 00:05:08,1837174,38.46.15.202,botnet_cc,VShell,vshell
+2026-06-25 00:05:05,1837173,51.91.103.206,botnet_cc,Cobalt Strike,cobaltstrike
+2026-06-24 23:48:40,1837171,45.227.253.121,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
+2026-06-24 23:48:22,1837170,130.94.59.160,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
+2026-06-24 23:48:20,1837169,121.4.76.54,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
+2026-06-24 22:05:08,1837140,43.143.244.134,botnet_cc,Cobalt Strike,cobaltstrike
+2026-06-24 22:05:06,1837139,45.140.213.6,botnet_cc,Cobalt Strike,cobaltstrike
+2026-06-24 21:05:09,1837127,5.249.162.81,botnet_cc,Cobalt Strike,cobaltstrike
+2026-06-24 21:05:06,1837126,123.56.42.40,botnet_cc,VShell,vshell
+2026-06-24 20:05:06,1837099,43.139.226.160,botnet_cc,VShell,vshell
+2026-06-24 19:45:44,1837093,89.124.93.139,botnet_cc,AdaptixC2,"AdaptixC2,drb-ra"
+2026-06-24 19:45:41,1837092,83.136.210.74,botnet_cc,AsyncRAT,"AsyncRAT,drb-ra,RAT"
+2026-06-24 19:45:33,1837091,62.85.21.181,botnet_cc,AsyncRAT,"AsyncRAT,drb-ra,RAT"
+2026-06-24 19:45:21,1837090,46.246.4.2,botnet_cc,DCRat,"DCRat,drb-ra,RAT"
+2026-06-24 19:45:18,1837088,45.74.7.163,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
+2026-06-24 19:45:18,1837089,45.74.7.164,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
+2026-06-24 19:45:17,1837087,45.74.7.155,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
+2026-06-24 19:44:57,1837086,27.124.43.241,botnet_cc,DCRat,"DCRat,drb-ra,RAT"
+2026-06-24 19:44:11,1837085,198.23.185.82,botnet_cc,AsyncRAT,"AsyncRAT,drb-ra,RAT"
+2026-06-24 19:44:04,1837084,192.227.219.81,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
+2026-06-24 19:43:53,1837082,185.115.164.59,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
+2026-06-24 19:43:53,1837083,185.115.164.60,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
+2026-06-24 19:43:46,1837081,178.16.55.214,botnet_cc,DCRat,"DCRat,drb-ra,RAT"
+2026-06-24 19:43:22,1837080,146.190.80.105,botnet_cc,Havoc,"drb-ra,Havoc"
+2026-06-24 19:43:21,1837079,141.98.10.150,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
+2026-06-24 19:43:12,1837078,109.199.97.174,botnet_cc,Evilginx,"drb-ra,Evilginx,EvilGoPhish"
+2026-06-24 19:43:11,1837077,107.173.9.99,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
+2026-06-24 19:05:06,1837072,52.86.125.111,botnet_cc,Cobalt Strike,cobaltstrike
+2026-06-24 18:05:10,1837056,43.143.244.134,botnet_cc,Cobalt Strike,cobaltstrike
+2026-06-24 18:05:08,1837055,97.64.81.119,botnet_cc,AdaptixC2,adaptix
+2026-06-24 17:05:08,1837046,202.140.142.97,botnet_cc,VShell,vshell
+2026-06-24 16:20:07,1837037,191.223.42.2,botnet_cc,ValleyRAT,"RAT,ValleyRAT"
+2026-06-24 15:49:05,1836946,157.230.237.88,botnet_cc,Aisuru,"Aisuru,c2"
+2026-06-24 13:05:05,1836937,103.53.80.201,botnet_cc,AdaptixC2,adaptix
+2026-06-24 11:48:48,1836925,60.217.58.49,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
+2026-06-24 11:48:29,1836924,43.131.240.236,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
+2026-06-24 11:45:52,1836922,165.227.199.109,botnet_cc,Remus,remus
+2026-06-24 11:05:08,1836916,101.33.202.134,botnet_cc,AdaptixC2,adaptix
+2026-06-24 09:45:56,1836784,95.81.79.153,botnet_cc,AdaptixC2,"AdaptixC2,drb-ra"
+2026-06-24 09:45:24,1836783,45.74.7.160,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
+2026-06-24 09:45:19,1836782,45.138.16.56,botnet_cc,AsyncRAT,"AsyncRAT,drb-ra,RAT"
+2026-06-24 09:45:14,1836781,38.207.177.71,botnet_cc,Unknown malware,"drb-ra,Mythic"
+2026-06-24 09:45:00,1836780,217.60.195.194,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
+2026-06-24 09:44:09,1836779,192.227.219.81,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
+2026-06-24 09:43:58,1836777,185.115.161.32,botnet_cc,Havoc,"drb-ra,Havoc"
+2026-06-24 09:43:58,1836778,185.115.164.59,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
+2026-06-24 09:43:30,1836775,154.219.98.36,botnet_cc,Sliver,"drb-ra,Sliver"
+2026-06-24 09:43:30,1836776,154.219.98.36,botnet_cc,Sliver,"drb-ra,Sliver"
+2026-06-24 09:43:23,1836774,141.98.10.150,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
+2026-06-24 09:43:17,1836773,128.90.115.181,botnet_cc,DCRat,"DCRat,drb-ra,RAT"
+2026-06-24 09:43:12,1836771,107.172.140.187,botnet_cc,AdaptixC2,"AdaptixC2,drb-ra"
+2026-06-24 09:43:12,1836772,107.173.9.99,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
+2026-06-24 09:43:11,1836770,107.172.133.195,botnet_cc,AsyncRAT,"AsyncRAT,drb-ra,RAT"
+2026-06-24 09:43:04,1836767,102.220.160.222,botnet_cc,AsyncRAT,"AsyncRAT,drb-ra,RAT"
+2026-06-24 09:43:04,1836768,102.220.160.250,botnet_cc,AsyncRAT,"AsyncRAT,drb-ra,RAT"
+2026-06-24 09:43:04,1836769,102.220.160.250,botnet_cc,AsyncRAT,"AsyncRAT,drb-ra,RAT"
+2026-06-24 09:16:26,1836764,5.101.84.223,botnet_cc,PureLogs Stealer,PureLogsStealer
+2026-06-24 07:51:48,1836748,45.225.135.24,botnet_cc,PureRAT,"PureHVNC,PureRAT,RAT"
+2026-06-24 07:48:47,1836747,192.163.162.63,botnet_cc,PureRAT,"PureHVNC,PureRAT,RAT"
+2026-06-24 07:47:43,1836746,144.124.236.93,botnet_cc,PureRAT,"PureHVNC,PureRAT,RAT"
+2026-06-24 07:46:37,1836745,45.192.211.77,botnet_cc,PureRAT,"PureHVNC,PureRAT,RAT"
+2026-06-24 07:45:14,1836744,216.126.237.248,botnet_cc,Unknown RAT,"ConnectWise,RMM,ScreenConnect"
+2026-06-24 07:44:44,1836743,216.126.227.207,botnet_cc,Unknown RAT,"ConnectWise,RMM,ScreenConnect"
+2026-06-24 07:44:02,1836742,216.126.227.126,botnet_cc,Unknown RAT,"ConnectWise,RMM,ScreenConnect"
+2026-06-24 07:43:04,1836741,172.86.126.21,botnet_cc,Unknown RAT,"ConnectWise,RMM,ScreenConnect"
+2026-06-24 07:42:24,1836740,172.86.126.200,botnet_cc,Unknown RAT,"ConnectWise,RMM,ScreenConnect"
+2026-06-24 07:41:50,1836739,172.86.117.21,botnet_cc,Unknown RAT,"ConnectWise,RMM,ScreenConnect"
+2026-06-24 07:40:48,1836738,167.88.166.155,botnet_cc,Unknown RAT,"ConnectWise,RMM,ScreenConnect"
+2026-06-24 07:40:15,1836737,167.88.166.106,botnet_cc,Unknown RAT,"ConnectWise,RMM,ScreenConnect"
+2026-06-24 07:39:40,1836736,144.172.99.94,botnet_cc,Unknown RAT,"ConnectWise,RMM,ScreenConnect"
+2026-06-24 07:39:05,1836735,144.172.94.21,botnet_cc,Unknown RAT,"ConnectWise,RMM,ScreenConnect"
+2026-06-24 07:38:30,1836734,144.172.116.114,botnet_cc,Unknown RAT,"ConnectWise,RMM,ScreenConnect"
+2026-06-24 07:37:39,1836733,144.172.115.45,botnet_cc,Unknown RAT,"ConnectWise,RMM,ScreenConnect"
+2026-06-24 07:35:32,1836732,144.172.109.163,botnet_cc,Unknown RAT,"ConnectWise,RMM,ScreenConnect"
+2026-06-24 07:27:15,1836730,67.216.197.83,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
+2026-06-24 07:27:15,1836731,67.216.197.83,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
+2026-06-24 07:26:59,1836729,103.201.131.147,botnet_cc,Cobalt Strike,CobaltStrike
+2026-06-24 07:26:56,1836728,67.216.197.83,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
+2026-06-24 07:05:05,1836725,121.89.84.19,botnet_cc,VShell,vshell
+2026-06-24 07:05:05,1836726,154.19.242.244,botnet_cc,VShell,vshell
+2026-06-24 06:55:01,1836722,45.131.214.241,botnet_cc,Unknown malware,None
+2026-06-24 06:41:45,1836720,91.92.240.107,botnet_cc,SnappyClient,SnappyClient
+2026-06-24 06:41:45,1836721,91.92.240.107,botnet_cc,SnappyClient,SnappyClient
+2026-06-24 06:36:35,1836366,192.142.28.77,botnet_cc,Mirai,"C2,Mirai"
+2026-06-24 06:36:11,1836687,129.212.233.8,botnet_cc,Aisuru,"Aisuru,c2"
+2026-06-24 06:36:08,1836693,206.189.94.70,botnet_cc,Aisuru,"Aisuru,c2"
+2026-06-24 06:36:06,1836705,149.248.3.38,payload_delivery,Unknown malware,"AcmeCo,G1017,Go-TLS,JDY,payload,VoltTyphoon"
+2026-06-24 06:36:06,1836706,23.27.120.240,botnet_cc,Unknown malware,"G1017,JDY,payload-host,Platypus,Termite,VoltTyphoon"
+2026-06-24 06:36:06,1836707,109.104.154.116,botnet_cc,Unknown malware,"G1017,JDY,payload-host,Platypus,Termite,VoltTyphoon"
+2026-06-24 06:35:02,1836719,176.65.132.25,botnet_cc,Nanocore RAT,"NanoCore,RAT"
+2026-06-24 06:26:03,1836718,173.214.167.253,botnet_cc,Remcos,remcos
+2026-06-24 06:05:05,1836711,121.89.84.19,botnet_cc,VShell,vshell
 2026-06-24 03:46:33,1836704,49.233.9.4,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-23 21:05:05,1836677,221.132.29.137,botnet_cc,Cobalt Strike,cobaltstrike
 2026-06-23 19:45:49,1836674,91.92.242.235,botnet_cc,Unknown malware,"drb-ra,Mythic"
@@ -77,32 +238,8 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-23 06:51:38,1836197,218.252.234.243,botnet_cc,Sliver,"c2,erebus-v14,manual-override,nation-state-hunter,t1071_001,t1573_001"
 2026-06-23 06:51:37,1836198,217.92.214.15,botnet_cc,Cobalt Strike,"c2,erebus-v14,manual-override,nation-state-hunter,t1059_003,t1573_002"
 2026-06-23 06:51:37,1836199,94.230.141.123,botnet_cc,Sliver,"c2,erebus-v14,manual-override,nation-state-hunter,t1071_001,t1573_001"
-2026-06-23 06:00:23,1836255,52.128.224.234,botnet_cc,VShell,vshell
-2026-06-23 06:00:21,1836251,52.128.224.235,botnet_cc,VShell,vshell
-2026-06-23 06:00:21,1836252,52.128.224.234,botnet_cc,VShell,vshell
-2026-06-23 06:00:21,1836253,52.128.224.234,botnet_cc,VShell,vshell
-2026-06-23 06:00:21,1836254,52.128.224.234,botnet_cc,VShell,vshell
-2026-06-23 05:00:16,1836249,52.128.224.235,botnet_cc,VShell,vshell
-2026-06-23 05:00:15,1836247,52.128.224.236,botnet_cc,VShell,vshell
-2026-06-23 05:00:15,1836248,52.128.224.235,botnet_cc,VShell,vshell
-2026-06-23 05:00:13,1836246,52.128.224.236,botnet_cc,VShell,vshell
-2026-06-23 04:00:22,1836241,52.128.224.238,botnet_cc,VShell,vshell
-2026-06-23 04:00:22,1836242,52.128.224.236,botnet_cc,VShell,vshell
-2026-06-23 04:00:22,1836243,52.128.224.236,botnet_cc,VShell,vshell
-2026-06-23 04:00:21,1836240,52.128.224.238,botnet_cc,VShell,vshell
-2026-06-23 04:00:20,1836239,121.4.76.54,botnet_cc,Cobalt Strike,cobaltstrike
 2026-06-23 03:46:19,1836238,42.193.15.237,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
-2026-06-23 03:00:15,1836236,52.128.224.238,botnet_cc,VShell,vshell
-2026-06-23 03:00:15,1836237,52.128.224.238,botnet_cc,VShell,vshell
-2026-06-23 03:00:14,1836235,121.4.76.54,botnet_cc,Cobalt Strike,cobaltstrike
-2026-06-23 02:00:22,1836232,121.4.76.54,botnet_cc,Cobalt Strike,cobaltstrike
-2026-06-23 02:00:21,1836231,43.108.49.157,botnet_cc,Cobalt Strike,cobaltstrike
-2026-06-23 02:00:20,1836229,43.108.49.157,botnet_cc,Cobalt Strike,cobaltstrike
-2026-06-23 02:00:20,1836230,43.108.49.157,botnet_cc,Cobalt Strike,cobaltstrike
 2026-06-22 23:46:20,1836201,62.234.22.228,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
-2026-06-22 20:36:08,1836153,47.76.51.107,botnet_cc,ValleyRAT,valleyrat_s2
-2026-06-22 20:00:22,1836150,8.216.46.241,botnet_cc,VShell,vshell
-2026-06-22 20:00:20,1836149,67.225.189.140,botnet_cc,AsyncRAT,asyncrat
 2026-06-22 19:46:25,1836148,42.193.15.237,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-22 19:45:30,1836146,72.56.68.200,botnet_cc,pupy,"drb-ra,PupyRAT,RAT"
 2026-06-22 19:45:27,1836145,64.89.160.127,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
@@ -114,27 +251,6 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-22 19:43:10,1836139,107.173.9.99,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
 2026-06-22 19:43:04,1836137,103.11.41.10,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
 2026-06-22 19:43:04,1836138,103.11.41.19,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
-2026-06-22 15:44:58,1835908,135.136.141.43,botnet_cc,Unknown RAT,"RAT,SiriusRAT"
-2026-06-22 15:42:44,1835907,94.26.106.34,botnet_cc,Unknown RAT,"RAT,SiriusRAT"
-2026-06-22 15:42:00,1835906,5.101.81.131,botnet_cc,Unknown RAT,"RAT,SiriusRAT"
-2026-06-22 15:35:54,1835904,38.240.51.74,botnet_cc,XWorm,xworm
-2026-06-22 15:35:54,1835905,85.11.167.17,botnet_cc,Remcos,remcos
-2026-06-22 15:35:52,1835903,216.250.250.247,botnet_cc,XWorm,xworm
-2026-06-22 15:35:51,1835902,104.239.66.178,botnet_cc,XWorm,xworm
-2026-06-22 15:30:57,1835896,147.124.218.109,botnet_cc,Remcos,remcos
-2026-06-22 15:30:56,1835895,147.124.218.109,botnet_cc,Remcos,remcos
-2026-06-22 15:25:49,1835877,91.92.41.150,botnet_cc,Remcos,remcos
-2026-06-22 15:25:48,1835875,193.104.58.63,botnet_cc,XWorm,xworm
-2026-06-22 15:25:48,1835876,216.250.253.127,botnet_cc,Remcos,remcos
-2026-06-22 15:25:47,1835873,151.241.154.173,botnet_cc,Remcos,remcos
-2026-06-22 15:25:47,1835874,158.94.211.172,botnet_cc,Remcos,remcos
-2026-06-22 15:25:46,1835872,104.168.7.223,botnet_cc,Remcos,remcos
-2026-06-22 15:25:45,1835871,102.220.160.244,botnet_cc,Remcos,remcos
-2026-06-22 14:00:23,1835848,67.216.197.83,botnet_cc,Unknown malware,viper
-2026-06-22 14:00:22,1835846,67.216.197.83,botnet_cc,Unknown malware,viper
-2026-06-22 14:00:22,1835847,67.216.197.83,botnet_cc,Unknown malware,viper
-2026-06-22 14:00:21,1835845,67.216.197.83,botnet_cc,Unknown malware,viper
-2026-06-22 13:56:15,1835830,212.34.130.122,botnet_cc,Unknown malware,"dead-drop-c2,polygon-deaddrop,SmartLoader,SmartLoader-MaaS"
 2026-06-22 09:46:29,1835573,204.194.54.198,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-22 09:45:28,1835570,5.101.86.23,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
 2026-06-22 09:45:23,1835569,46.161.0.48,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
@@ -151,74 +267,14 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-22 09:43:04,1835557,103.11.41.10,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
 2026-06-22 09:43:04,1835558,103.11.41.19,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
 2026-06-22 09:43:03,1835556,102.220.160.250,botnet_cc,AsyncRAT,"AsyncRAT,drb-ra,RAT"
-2026-06-22 09:31:48,1835538,61.239.35.235,botnet_cc,Cobalt Strike,"c2,erebus-v14,nation-state-hunter,t1055,t1105"
-2026-06-22 09:31:48,1835540,194.58.122.74,botnet_cc,Cobalt Strike,"c2,erebus-v14,nation-state-hunter,t1055,t1105"
-2026-06-22 09:10:12,1835535,5.75.221.125,botnet_cc,Vidar,Vidar
-2026-06-22 09:10:12,1835536,91.98.109.24,botnet_cc,Vidar,Vidar
-2026-06-22 09:10:12,1835537,167.233.132.8,botnet_cc,Vidar,Vidar
-2026-06-22 09:06:41,1835456,188.245.99.156,botnet_cc,Tsunami,"c2,multi-c2,python-agent"
-2026-06-22 09:06:40,1835457,85.209.134.204,botnet_cc,XMRIG,"c2,diicot"
-2026-06-22 09:06:40,1835458,31.76.46.226,payload_delivery,RedTail,"docker-api,redtail,selfrep"
-2026-06-22 09:06:39,1835459,209.99.185.239,payload_delivery,RedTail,"docker-api,redtail,selfrep"
-2026-06-22 09:06:39,1835460,112.18.182.202,payload_delivery,RedTail,"docker-api,redtail,selfrep"
-2026-06-22 09:06:38,1835461,185.211.94.76,payload_delivery,RedTail,"docker-api,redtail,selfrep"
-2026-06-22 09:06:37,1835463,185.214.96.152,payload_delivery,XMRIG,"diicot,docker-api,miner"
-2026-06-22 09:06:37,1835464,31.177.110.228,payload_delivery,XOR DDoS,"ddos,ssh,xorddos"
-2026-06-22 09:06:36,1835462,68.183.234.194,payload_delivery,RedTail,"docker-api,redtail,selfrep"
-2026-06-22 09:06:35,1835465,120.26.7.147,payload_delivery,XMRIG,"module-load,muhstik,redis"
-2026-06-22 09:06:35,1835466,59.110.217.189,payload_delivery,XMRIG,"module-load,muhstik,redis"
-2026-06-22 09:06:34,1835467,146.70.184.43,payload_delivery,XMRIG,"postgres,takeover"
-2026-06-22 09:06:32,1835470,45.138.26.93,botnet_cc,Cobalt Strike,"c2,erebus-v14,nation-state-hunter,t1059_003,t1071_001"
-2026-06-22 09:06:11,1835531,45.138.183.81,botnet_cc,Cobalt Strike,"c2,erebus-v14,nation-state-hunter,t1055,t1105"
-2026-06-22 08:29:42,1835480,65.109.246.92,botnet_cc,Vidar,Vidar
-2026-06-22 08:29:42,1835481,91.98.96.126,botnet_cc,Vidar,Vidar
-2026-06-22 08:29:42,1835482,91.98.105.63,botnet_cc,Vidar,Vidar
-2026-06-22 08:29:42,1835483,91.98.106.140,botnet_cc,Vidar,Vidar
-2026-06-22 08:29:42,1835484,95.217.244.13,botnet_cc,Vidar,Vidar
-2026-06-22 08:29:42,1835485,91.98.99.76,botnet_cc,Vidar,Vidar
-2026-06-22 08:29:42,1835486,91.98.100.19,botnet_cc,Vidar,Vidar
-2026-06-22 08:29:42,1835487,95.217.244.189,botnet_cc,Vidar,Vidar
-2026-06-22 08:20:59,1835469,185.38.142.229,botnet_cc,Remcos,remcos
-2026-06-22 08:15:48,1835468,83.142.209.250,botnet_cc,Remcos,remcos
-2026-06-22 08:00:21,1835455,162.14.99.178,botnet_cc,VShell,vshell
-2026-06-22 07:49:47,1835428,37.60.253.62,botnet_cc,Unknown malware,"c2,ConnectWise"
-2026-06-22 07:35:10,1835436,18.140.223.115,botnet_cc,Nanocore RAT,"NanoCore,RAT"
-2026-06-22 07:35:07,1835433,3.0.88.138,botnet_cc,Nanocore RAT,"NanoCore,RAT"
-2026-06-22 07:17:03,1835419,178.104.255.247,botnet_cc,Vidar,Vidar
-2026-06-22 07:17:03,1835420,159.69.221.162,botnet_cc,Vidar,Vidar
-2026-06-22 07:17:03,1835421,178.104.113.24,botnet_cc,Vidar,Vidar
-2026-06-22 07:17:03,1835422,167.233.112.191,botnet_cc,Vidar,Vidar
-2026-06-22 07:17:02,1835417,167.233.131.186,botnet_cc,Vidar,Vidar
-2026-06-22 07:17:02,1835418,91.99.3.169,botnet_cc,Vidar,Vidar
-2026-06-22 07:17:01,1835415,46.224.16.213,botnet_cc,Vidar,Vidar
-2026-06-22 07:17:01,1835416,46.62.226.239,botnet_cc,Vidar,Vidar
-2026-06-22 07:05:53,1835400,216.250.250.247,botnet_cc,AsyncRAT,asyncrat
 2026-06-22 07:00:15,1835398,196.251.121.90,botnet_cc,Tofsee,Tofsee
-2026-06-22 07:00:14,1835392,196.251.121.90,botnet_cc,Tofsee,Tofsee
-2026-06-22 07:00:14,1835393,217.60.241.17,botnet_cc,Tofsee,Tofsee
-2026-06-22 07:00:14,1835394,51.195.111.212,botnet_cc,Tofsee,Tofsee
-2026-06-22 07:00:14,1835395,217.60.241.14,botnet_cc,Tofsee,Tofsee
 2026-06-22 07:00:14,1835396,196.251.121.90,botnet_cc,Tofsee,Tofsee
 2026-06-22 07:00:14,1835397,196.251.121.90,botnet_cc,Tofsee,Tofsee
-2026-06-22 07:00:13,1835387,196.251.121.90,botnet_cc,Tofsee,Tofsee
-2026-06-22 07:00:13,1835388,196.251.121.90,botnet_cc,Tofsee,Tofsee
-2026-06-22 07:00:13,1835389,196.251.121.90,botnet_cc,Tofsee,Tofsee
-2026-06-22 07:00:13,1835390,196.251.121.90,botnet_cc,Tofsee,Tofsee
-2026-06-22 07:00:13,1835391,217.60.241.39,botnet_cc,Tofsee,Tofsee
-2026-06-22 07:00:12,1835385,217.60.241.14,botnet_cc,Tofsee,Tofsee
-2026-06-22 07:00:12,1835386,51.195.111.212,botnet_cc,Tofsee,Tofsee
 2026-06-22 07:00:10,1835382,217.60.241.39,botnet_cc,Tofsee,Tofsee
 2026-06-22 07:00:10,1835383,51.195.111.212,botnet_cc,Tofsee,Tofsee
 2026-06-22 07:00:10,1835384,217.60.241.14,botnet_cc,Tofsee,Tofsee
-2026-06-22 06:39:50,1835381,45.144.137.148,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
-2026-06-22 06:39:49,1835380,67.216.197.83,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
 2026-06-22 06:39:32,1835379,74.48.84.24,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-666666666"
 2026-06-22 06:39:31,1835378,121.4.76.54,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-305419896"
-2026-06-22 06:22:33,1835343,61.238.202.155,botnet_cc,Cobalt Strike,"c2,erebus-v14,nation-state-hunter,t1055,t1059_003"
-2026-06-22 06:22:32,1835346,3.132.75.97,botnet_cc,vo1d,"redirector,Vo1d"
-2026-06-22 06:22:23,1835373,194.58.113.92,botnet_cc,Cobalt Strike,"c2,erebus-v14,nation-state-hunter,t1055,t1071_001"
-2026-06-22 06:22:19,1834949,77.90.41.3,payload_delivery,RapidStealer,RapidStealer
-2026-06-22 06:01:17,1835374,104.161.46.91,botnet_cc,Remcos,remcos
 2026-06-22 03:45:53,1835362,119.45.166.6,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-21 23:45:40,1835339,115.190.149.214,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-21 19:45:25,1834964,5.101.86.67,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
@@ -252,7 +308,7 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-21 09:43:04,1834756,103.11.41.10,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
 2026-06-21 09:43:04,1834757,103.11.41.10,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
 2026-06-21 07:16:50,1834750,43.108.49.157,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-391144938"
-2026-06-21 06:47:42,1834524,45.153.34.212,botnet_cc,XMRIG,"c2,diicot,junko"
+2026-06-21 07:16:49,1834749,67.216.197.83,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
 2026-06-20 19:45:51,1834559,116.213.42.110,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-20 19:45:45,1834558,100.110.56.1,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-20 19:45:29,1834557,89.124.107.161,botnet_cc,Unknown malware,"drb-ra,Mythic"
@@ -284,7 +340,9 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-20 09:44:18,1834274,198.23.185.136,botnet_cc,AsyncRAT,"AsyncRAT,drb-ra,RAT"
 2026-06-20 09:44:08,1834273,188.253.104.174,botnet_cc,AsyncRAT,"AsyncRAT,drb-ra,RAT"
 2026-06-20 09:43:25,1834272,147.93.191.75,botnet_cc,AsyncRAT,"AsyncRAT,drb-ra,RAT"
-2026-06-20 09:01:50,1834265,111.231.173.74,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-1873433027"
+2026-06-20 09:01:32,1834263,45.140.213.6,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-1580103824"
+2026-06-20 09:01:29,1834261,51.91.103.206,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
+2026-06-20 05:49:56,1834121,213.209.159.66,payload_delivery,XMRIG,"postgres,takeover"
 2026-06-19 23:46:13,1834187,23.141.12.111,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-19 23:46:03,1834186,149.88.66.234,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-19 23:45:54,1834185,116.204.36.177,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
@@ -323,6 +381,8 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-19 09:43:05,1834051,103.153.254.32,botnet_cc,Unknown malware,"drb-ra,Mythic"
 2026-06-19 09:43:03,1834050,102.220.160.217,botnet_cc,AsyncRAT,"AsyncRAT,drb-ra,RAT"
 2026-06-19 08:00:23,1834034,198.23.185.136,botnet_cc,AsyncRAT,asyncrat
+2026-06-19 07:44:12,1834032,45.140.213.6,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-1580103824"
+2026-06-19 07:44:11,1834031,167.71.233.187,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
 2026-06-19 07:43:54,1834029,151.239.24.122,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
 2026-06-18 23:45:44,1833917,115.190.147.66,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-18 19:45:29,1833874,91.92.240.194,botnet_cc,DCRat,"DCRat,drb-ra,RAT"
@@ -365,6 +425,7 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-18 09:43:47,1833742,178.16.55.204,botnet_cc,DCRat,"DCRat,drb-ra,RAT"
 2026-06-18 09:43:41,1833741,172.245.195.233,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
 2026-06-18 09:43:23,1833740,147.124.212.146,botnet_cc,AsyncRAT,"AsyncRAT,drb-ra,RAT"
+2026-06-18 06:56:57,1833699,154.12.45.63,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
 2026-06-18 06:56:56,1833698,124.223.112.182,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-666666666"
 2026-06-17 23:46:03,1833623,62.113.59.64,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-17 23:45:31,1833622,106.13.189.138,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
@@ -389,6 +450,7 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-17 15:46:34,1833482,42.193.15.237,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-17 15:46:23,1833481,156.234.211.242,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-17 15:00:14,1833471,102.220.160.222,botnet_cc,AsyncRAT,asyncrat
+2026-06-17 13:00:12,1833454,147.93.191.75,botnet_cc,AsyncRAT,asyncrat
 2026-06-17 11:47:00,1833436,91.219.96.131,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-17 11:46:36,1833435,185.92.190.217,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-17 11:46:12,1833434,1.13.141.229,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
@@ -407,6 +469,7 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-17 09:43:33,1833393,138.199.59.5,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
 2026-06-17 09:43:10,1833392,103.53.80.201,botnet_cc,AdaptixC2,"AdaptixC2,drb-ra"
 2026-06-17 08:24:49,1833372,223.166.31.185,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
+2026-06-17 07:27:42,1833360,141.94.121.162,botnet_cc,DCRat,"c2,dcrat,RAT"
 2026-06-16 23:46:15,1833011,8.138.23.63,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-16 23:46:04,1833010,43.138.225.166,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-16 23:46:00,1833008,212.14.244.222,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
@@ -522,20 +585,16 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-14 19:43:31,1832151,163.245.196.102,botnet_cc,BianLian,"Bianlian,drb-ra"
 2026-06-14 19:43:29,1832150,161.97.166.38,botnet_cc,AsyncRAT,"AsyncRAT,drb-ra,RAT"
 2026-06-14 19:43:19,1832149,144.31.236.224,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
-2026-06-14 11:58:38,1832089,217.60.241.39,botnet_cc,Tofsee,Tofsee
-2026-06-14 11:58:38,1832090,83.142.209.228,botnet_cc,Tofsee,Tofsee
-2026-06-14 11:58:38,1832091,217.60.241.17,botnet_cc,Tofsee,Tofsee
-2026-06-14 11:58:38,1832092,217.60.241.14,botnet_cc,Tofsee,Tofsee
-2026-06-14 11:58:38,1832093,51.195.111.212,botnet_cc,Tofsee,Tofsee
-2026-06-14 11:58:37,1832077,51.195.111.212,botnet_cc,Tofsee,Tofsee
+2026-06-14 11:58:37,1832078,217.60.241.14,botnet_cc,Tofsee,Tofsee
+2026-06-14 11:58:37,1832079,51.195.111.212,botnet_cc,Tofsee,Tofsee
+2026-06-14 11:58:37,1832080,217.60.241.14,botnet_cc,Tofsee,Tofsee
+2026-06-14 11:58:37,1832081,51.195.111.212,botnet_cc,Tofsee,Tofsee
 2026-06-14 11:58:37,1832082,51.195.111.212,botnet_cc,Tofsee,Tofsee
 2026-06-14 11:58:37,1832083,217.60.241.39,botnet_cc,Tofsee,Tofsee
 2026-06-14 11:58:37,1832084,217.60.241.14,botnet_cc,Tofsee,Tofsee
 2026-06-14 11:58:37,1832086,217.60.241.17,botnet_cc,Tofsee,Tofsee
 2026-06-14 11:45:50,1832074,23.254.129.251,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-14 11:45:48,1832073,207.56.229.234,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
-2026-06-14 11:30:21,1832038,143.92.43.246,botnet_cc,Cobalt Strike,"c2,cobalt,strike"
-2026-06-14 11:30:20,1832036,143.92.43.153,botnet_cc,Cobalt Strike,"c2,cobalt,strike"
 2026-06-14 11:00:16,1832021,35.243.42.203,botnet_cc,AsyncRAT,asyncrat
 2026-06-14 10:35:04,1832010,103.47.83.115,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
 2026-06-14 10:00:22,1831999,165.154.254.203,botnet_cc,Cobalt Strike,cobaltstrike
@@ -583,6 +642,7 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-13 19:43:25,1831823,155.103.71.115,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
 2026-06-13 19:43:19,1831822,144.91.78.57,botnet_cc,DCRat,"DCRat,drb-ra,RAT"
 2026-06-13 19:43:08,1831821,107.172.133.182,botnet_cc,AsyncRAT,"AsyncRAT,drb-ra,RAT"
+2026-06-13 15:05:37,1831656,43.156.218.130,botnet_cc,Cobalt Strike,"132203,c2,censys,cobalt strike"
 2026-06-13 15:00:14,1831779,18.232.64.100,botnet_cc,Cobalt Strike,cobaltstrike
 2026-06-13 14:00:19,1831768,18.232.64.100,botnet_cc,Cobalt Strike,cobaltstrike
 2026-06-13 11:46:23,1831747,118.24.128.201,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
@@ -783,20 +843,10 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-09 09:43:39,1825428,175.178.123.42,botnet_cc,Unknown malware,"drb-ra,Mythic"
 2026-06-09 09:43:35,1825427,170.62.130.191,botnet_cc,AdaptixC2,"AdaptixC2,drb-ra"
 2026-06-09 07:00:14,1825381,110.42.219.9,botnet_cc,Cobalt Strike,cobaltstrike
-2026-06-09 06:21:30,1825373,51.195.111.212,botnet_cc,Tofsee,Tofsee
-2026-06-09 06:21:30,1825374,217.60.241.14,botnet_cc,Tofsee,Tofsee
-2026-06-09 06:21:29,1825367,217.60.241.39,botnet_cc,Tofsee,Tofsee
-2026-06-09 06:21:29,1825368,217.60.241.14,botnet_cc,Tofsee,Tofsee
-2026-06-09 06:21:29,1825369,51.195.111.212,botnet_cc,Tofsee,Tofsee
-2026-06-09 06:21:29,1825371,51.195.111.212,botnet_cc,Tofsee,Tofsee
-2026-06-09 06:21:29,1825372,217.60.241.14,botnet_cc,Tofsee,Tofsee
-2026-06-09 06:21:28,1825363,217.60.241.39,botnet_cc,Tofsee,Tofsee
-2026-06-09 06:21:25,1825351,217.60.241.17,botnet_cc,Tofsee,Tofsee
-2026-06-09 06:21:25,1825352,83.142.209.228,botnet_cc,Tofsee,Tofsee
-2026-06-09 06:21:25,1825353,217.60.241.39,botnet_cc,Tofsee,Tofsee
-2026-06-09 06:21:24,1825348,217.60.241.39,botnet_cc,Tofsee,Tofsee
-2026-06-09 06:21:24,1825349,217.60.241.17,botnet_cc,Tofsee,Tofsee
-2026-06-09 06:21:24,1825350,83.142.209.228,botnet_cc,Tofsee,Tofsee
+2026-06-09 06:21:28,1825362,217.60.241.17,botnet_cc,Tofsee,Tofsee
+2026-06-09 06:21:27,1825361,217.60.241.39,botnet_cc,Tofsee,Tofsee
+2026-06-09 06:21:26,1825358,217.60.241.17,botnet_cc,Tofsee,Tofsee
+2026-06-09 06:21:26,1825359,217.60.241.39,botnet_cc,Tofsee,Tofsee
 2026-06-09 05:11:01,1825293,8.219.158.30,botnet_cc,Cobalt Strike,"45102,c2,censys,cobalt strike"
 2026-06-09 02:45:24,1825308,120.55.246.213,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-08 23:45:33,1825289,149.88.66.234,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
@@ -887,7 +937,6 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-04 19:00:14,1822515,185.165.36.162,botnet_cc,AsyncRAT,asyncrat
 2026-06-04 17:45:22,1822499,107.150.105.91,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-04 15:45:34,1822451,124.222.155.113,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
-2026-06-04 14:50:37,1822412,52.128.224.235,botnet_cc,VShell,VShell
 2026-06-04 14:50:35,1822415,120.26.208.96,botnet_cc,Cobalt Strike,"Agentemis,BEACON,Cobalt Strike,CobaltStrike,cobeacon"
 2026-06-04 11:46:46,1822346,154.12.86.154,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-04 09:45:43,1822302,91.92.241.80,botnet_cc,DCRat,"DCRat,drb-ra,RAT"
@@ -900,9 +949,6 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-04 09:43:22,1822294,140.235.16.223,botnet_cc,DCRat,"DCRat,drb-ra,RAT"
 2026-06-04 06:42:46,1822223,107.150.105.91,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-666666666"
 2026-06-04 06:42:44,1822222,204.194.49.142,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-666666666"
-2026-06-04 05:50:14,1822161,83.142.209.228,botnet_cc,Tofsee,Tofsee
-2026-06-04 05:50:13,1822159,217.60.241.17,botnet_cc,Tofsee,Tofsee
-2026-06-04 05:50:13,1822160,217.60.241.39,botnet_cc,Tofsee,Tofsee
 2026-06-03 19:44:00,1822015,20.220.29.224,botnet_cc,Havoc,"drb-ra,Havoc"
 2026-06-03 19:43:56,1822014,194.26.192.57,botnet_cc,DCRat,"DCRat,drb-ra,RAT"
 2026-06-03 19:43:43,1822013,182.23.2.163,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
@@ -922,6 +968,7 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-06-03 08:01:51,1821685,124.222.155.113,botnet_cc,Cobalt Strike,cobaltstrike
 2026-06-03 07:57:06,1821697,118.89.203.103,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
 2026-06-03 07:56:52,1821695,118.89.203.103,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
+2026-06-03 05:55:58,1821554,115.29.202.62,botnet_cc,VShell,VShell
 2026-06-03 05:55:36,1821525,8.163.104.36,botnet_cc,Cobalt Strike,"Agentemis,BEACON,Cobalt Strike,CobaltStrike,cobeacon"
 2026-06-02 19:45:08,1821517,45.198.224.19,botnet_cc,AdaptixC2,"AdaptixC2,drb-ra"
 2026-06-02 19:44:03,1821516,195.246.230.99,botnet_cc,Unknown malware,"drb-ra,Mythic"
@@ -1159,9 +1206,6 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-05-24 14:43:03,1818049,102.220.160.47,botnet_cc,Mirai,"drb-ra,Mirai"
 2026-05-24 14:10:22,1818032,104.168.0.29,botnet_cc,AsyncRAT,asyncrat
 2026-05-24 14:10:22,1818033,156.239.238.117,botnet_cc,Cobalt Strike,cobaltstrike
-2026-05-24 14:00:04,1818031,172.245.126.141,botnet_cc,Deimos,"Deimos,ViriBack"
-2026-05-24 13:48:02,1818027,45.145.42.80,botnet_cc,Dark Nexus,"Nexus,ViriBack"
-2026-05-24 13:18:31,1818016,217.60.241.17,botnet_cc,Tofsee,Tofsee
 2026-05-24 11:08:34,1817883,43.138.192.16,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
 2026-05-24 11:05:15,1817829,172.94.18.103,botnet_cc,AsyncRAT,asyncrat
 2026-05-24 11:05:07,1817856,106.13.188.194,botnet_cc,Cobalt Strike,cobaltstrike
@@ -1181,27 +1225,11 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-05-23 14:54:01,1817632,203.83.10.114,botnet_cc,Cobalt Strike,cobaltstrike
 2026-05-23 14:47:31,1817655,119.29.117.194,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-05-23 09:46:49,1817625,91.232.103.163,botnet_cc,AsyncRAT,"AsyncRAT,drb-ra,RAT"
-2026-05-23 09:46:22,1817624,50.114.179.143,botnet_cc,AsyncRAT,"AsyncRAT,drb-ra,RAT"
 2026-05-23 09:45:41,1817623,23.81.118.124,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
-2026-05-23 09:44:28,1817622,2.26.75.240,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
-2026-05-23 09:44:15,1817621,190.255.82.151,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
-2026-05-23 09:43:04,1817620,103.13.210.49,botnet_cc,Havoc,"drb-ra,Havoc"
 2026-05-23 08:58:34,1817537,1.117.77.166,botnet_cc,Cobalt Strike,"45090,c2,censys,cobalt strike"
 2026-05-23 08:58:28,1817573,47.103.78.72,botnet_cc,Cobalt Strike,cobaltstrike
-2026-05-22 19:45:35,1817427,88.119.167.142,botnet_cc,AdaptixC2,"AdaptixC2,drb-ra"
 2026-05-22 19:45:34,1817426,87.251.76.213,botnet_cc,AdaptixC2,"AdaptixC2,drb-ra"
-2026-05-22 19:45:12,1817425,5.101.82.98,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
-2026-05-22 19:45:07,1817424,46.29.234.94,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
-2026-05-22 19:45:06,1817423,46.29.234.94,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
-2026-05-22 19:44:03,1817420,2.59.162.106,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
-2026-05-22 19:44:02,1817419,2.59.162.106,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
-2026-05-22 19:44:01,1817417,2.59.162.106,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
-2026-05-22 19:44:01,1817418,2.59.162.106,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
-2026-05-22 19:43:53,1817416,192.109.200.183,botnet_cc,AsyncRAT,"AsyncRAT,drb-ra,RAT"
-2026-05-22 14:45:15,1817341,184.82.96.72,botnet_cc,Havoc,havoc
-2026-05-22 11:36:04,1817205,35.220.177.232,botnet_cc,Cobalt Strike,"Agentemis,BEACON,Cobalt Strike,CobaltStrike,cobeacon"
 2026-05-22 11:36:04,1817206,46.20.109.225,botnet_cc,Cobalt Strike,"Agentemis,BEACON,Cobalt Strike,CobaltStrike,cobeacon"
-2026-05-22 10:46:24,1817248,180.131.145.97,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-05-22 09:45:08,1817238,54.187.35.128,botnet_cc,Unknown malware,"drb-ra,Mythic"
 2026-05-22 09:44:40,1817235,31.57.184.154,botnet_cc,AsyncRAT,"AsyncRAT,drb-ra,RAT"
 2026-05-22 09:44:39,1817233,31.171.131.118,botnet_cc,AsyncRAT,"AsyncRAT,drb-ra,RAT"
@@ -1211,10 +1239,7 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-05-22 08:46:27,1817217,23.106.135.33,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-05-22 08:46:18,1817215,154.201.68.191,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-05-22 08:46:10,1817214,118.31.114.149,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
-2026-05-22 08:46:02,1817213,106.14.30.169,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
-2026-05-22 08:11:42,1817131,59.110.81.93,botnet_cc,Cobalt Strike,"37963,c2,censys,cobalt strike"
 2026-05-22 08:11:41,1817132,129.204.14.131,botnet_cc,Cobalt Strike,"45090,c2,censys,cobalt strike"
-2026-05-22 08:11:24,1817192,45.154.98.84,botnet_cc,AsyncRAT,asyncrat
 2026-05-22 08:11:23,1817193,207.180.250.181,botnet_cc,AsyncRAT,asyncrat
 2026-05-22 07:55:22,1817187,47.236.110.1,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-100000"
 2026-05-22 07:55:19,1817184,23.236.64.231,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
@@ -1229,7 +1254,6 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-05-21 09:44:09,1816914,195.63.137.242,botnet_cc,AdaptixC2,"AdaptixC2,drb-ra"
 2026-05-21 07:19:52,1816875,156.225.22.84,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
 2026-05-21 07:19:39,1816874,121.199.27.49,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
-2026-05-21 07:19:35,1816872,107.173.38.158,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
 2026-05-21 05:01:18,1816747,154.201.68.191,botnet_cc,Cobalt Strike,cobaltstrike
 2026-05-20 19:44:41,1816738,41.216.189.163,botnet_cc,AdaptixC2,"AdaptixC2,drb-ra"
 2026-05-20 19:44:32,1816737,221.207.101.175,botnet_cc,DeimosC2,"Deimos,drb-ra"
@@ -1270,20 +1294,17 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-05-18 19:43:02,1816094,101.99.95.16,botnet_cc,Evilginx,"drb-ra,Evilginx,EvilGoPhish"
 2026-05-18 18:05:44,1816036,207.180.250.181,botnet_cc,AsyncRAT,asyncrat
 2026-05-18 14:45:47,1816032,118.31.114.149,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
-2026-05-18 11:28:17,1815941,120.53.15.64,botnet_cc,Cobalt Strike,cobaltstrike
 2026-05-18 11:28:05,1815876,175.178.36.137,botnet_cc,Cobalt Strike,cobaltstrike
 2026-05-18 10:46:24,1815946,62.234.22.228,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-05-18 09:44:56,1815930,46.8.226.70,botnet_cc,Sliver,"drb-ra,Sliver"
 2026-05-18 09:44:56,1815931,46.8.226.70,botnet_cc,Sliver,"drb-ra,Sliver"
 2026-05-18 09:43:30,1815927,163.181.46.56,botnet_cc,DeimosC2,"Deimos,drb-ra"
 2026-05-18 08:09:23,1815861,217.60.241.17,botnet_cc,Tofsee,Tofsee
-2026-05-18 08:09:23,1815863,83.142.209.228,botnet_cc,Tofsee,Tofsee
 2026-05-18 07:33:49,1815818,47.236.91.172,botnet_cc,Cobalt Strike,cobaltstrike
 2026-05-18 07:33:49,1815819,35.202.235.112,botnet_cc,AsyncRAT,asyncrat
 2026-05-18 07:33:34,1815757,124.220.36.247,botnet_cc,Cobalt Strike,cobaltstrike
 2026-05-18 07:33:28,1815737,81.68.216.220,botnet_cc,Cobalt Strike,cobaltstrike
 2026-05-18 07:33:27,1815736,81.68.216.220,botnet_cc,Cobalt Strike,cobaltstrike
-2026-05-18 07:33:25,1815729,89.125.138.217,botnet_cc,Aisuru,"Aisuru,c2"
 2026-05-18 07:26:30,1815832,172.86.76.154,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
 2026-05-17 22:45:31,1815762,119.29.112.239,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-05-17 15:53:07,1815551,207.56.229.234,botnet_cc,Cobalt Strike,"cobalt-strike,erebus-wraith,unattributed"
@@ -1301,13 +1322,8 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-05-15 19:44:19,1815133,34.69.130.10,botnet_cc,Chaos,"CHAOS,drb-ra"
 2026-05-15 19:43:22,1815128,163.245.216.78,botnet_cc,Evilginx,"drb-ra,Evilginx,EvilGoPhish"
 2026-05-15 19:43:12,1815127,137.184.102.191,botnet_cc,Havoc,"drb-ra,Havoc"
-2026-05-15 16:09:50,1815084,83.142.209.228,botnet_cc,Tofsee,Tofsee
-2026-05-15 16:09:50,1815085,217.60.241.17,botnet_cc,Tofsee,Tofsee
-2026-05-15 14:05:12,1814920,146.190.163.32,botnet_cc,Remus,RemusStealer
 2026-05-15 13:48:12,1814914,207.56.229.234,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-666666666"
-2026-05-15 13:47:47,1814909,39.108.114.1,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-666666666"
 2026-05-15 13:47:09,1812324,47.99.93.43,botnet_cc,Cobalt Strike,cobaltstrike
-2026-05-15 09:45:20,1814529,85.11.167.110,botnet_cc,DCRat,"DCRat,drb-ra,RAT"
 2026-05-15 09:44:54,1814528,5.101.81.2,botnet_cc,AsyncRAT,"AsyncRAT,drb-ra,RAT"
 2026-05-15 09:43:07,1814523,104.243.248.63,botnet_cc,AsyncRAT,"AsyncRAT,drb-ra,RAT"
 2026-05-14 22:45:41,1812322,1.117.61.9,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
@@ -1337,7 +1353,6 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-05-12 09:45:00,1811397,62.84.114.70,botnet_cc,AdaptixC2,"AdaptixC2,drb-ra"
 2026-05-12 09:43:50,1811389,207.148.2.115,botnet_cc,Sliver,"drb-ra,Sliver"
 2026-05-12 09:43:50,1811390,207.148.2.115,botnet_cc,Sliver,"drb-ra,Sliver"
-2026-05-12 09:43:47,1811388,2.26.96.209,botnet_cc,Havoc,"drb-ra,Havoc"
 2026-05-12 09:43:21,1811387,155.103.71.115,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
 2026-05-11 22:45:16,1811186,117.50.184.221,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-05-11 22:45:14,1811185,112.124.71.123,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
@@ -1378,7 +1393,6 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-05-10 19:43:32,1810407,178.16.55.171,botnet_cc,Eye Pyramid,"drb-ra,EyePyramid"
 2026-05-10 18:42:12,1809980,129.211.2.123,botnet_cc,Cobalt Strike,"45090,c2,censys,cobalt strike"
 2026-05-10 18:42:09,1809984,1.92.101.103,botnet_cc,Cobalt Strike,"55990,c2,censys,cobalt strike"
-2026-05-10 10:45:37,1810194,142.171.172.100,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-05-10 09:44:56,1810170,57.158.27.132,botnet_cc,Sliver,"drb-ra,Sliver"
 2026-05-10 09:44:39,1810169,43.133.149.36,botnet_cc,Unknown malware,"drb-ra,Mythic"
 2026-05-10 09:43:33,1810164,179.43.134.189,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
@@ -1450,7 +1464,6 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-05-04 08:44:12,1805765,82.165.79.60,botnet_cc,Sliver,"drb-ra,Sliver"
 2026-05-04 08:43:16,1805757,163.181.45.55,botnet_cc,DeimosC2,"Deimos,drb-ra"
 2026-05-03 12:44:46,1805271,49.232.90.5,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
-2026-05-03 12:44:37,1805269,38.165.21.163,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-05-03 12:44:29,1805268,151.245.90.45,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-05-03 08:43:54,1805202,46.151.182.148,botnet_cc,Remcos,"drb-ra,RAT,RemcosRAT"
 2026-05-02 20:44:32,1804969,34.124.142.136,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
@@ -1597,12 +1610,10 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-04-27 11:02:18,1800975,45.43.59.179,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-04-27 08:25:23,1800903,107.172.252.244,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-666666666"
 2026-04-27 08:23:19,1800899,147.78.2.110,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
-2026-04-27 08:22:39,1800898,45.130.148.102,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-305419896"
 2026-04-26 08:48:33,1800301,156.245.147.98,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-04-25 14:21:21,1800020,8.136.97.98,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-391144938"
 2026-04-24 08:14:10,1797062,31.56.209.78,botnet_cc,Remcos,"Remcos,RemcosRAT,Remvio,Socmer"
 2026-04-22 20:53:22,1796313,192.210.174.149,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
-2026-04-22 20:50:52,1796311,141.227.135.62,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-04-22 14:30:19,1796097,47.94.162.43,botnet_cc,Cobalt Strike,"Agentemis,BEACON,Cobalt Strike,CobaltStrike,cobeacon"
 2026-04-22 10:36:10,1796009,82.156.62.131,botnet_cc,Cobalt Strike,"Agentemis,BEACON,Cobalt Strike,CobaltStrike,cobeacon"
 2026-04-21 14:54:03,1795599,43.225.158.58,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
@@ -1610,9 +1621,13 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-04-17 20:50:11,1793739,43.230.200.254,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-04-17 15:17:52,1793584,155.103.71.232,botnet_cc,Remcos,"RAT,RemcosRAT"
 2026-04-16 10:56:58,1792707,43.167.177.224,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
+2026-04-15 12:46:12,1791824,60.205.5.254,botnet_cc,VShell,"NVISO,VShell"
 2026-04-15 11:39:45,1791738,139.224.23.63,botnet_cc,Cobalt Strike,"Agentemis,BEACON,Cobalt Strike,CobaltStrike,cobeacon"
-2026-04-14 19:16:14,1790969,64.89.161.178,botnet_cc,Tofsee,Tofsee
-2026-04-14 05:40:17,1785513,46.151.182.19,botnet_cc,Tofsee,Tofsee
+2026-04-15 07:10:13,1791572,130.12.182.175,botnet_cc,Tofsee,Tofsee
+2026-04-15 07:10:13,1791573,31.57.216.27,botnet_cc,Tofsee,Tofsee
+2026-04-15 07:10:13,1791574,31.57.216.28,botnet_cc,Tofsee,Tofsee
+2026-04-15 07:10:13,1791575,46.151.182.245,botnet_cc,Tofsee,Tofsee
+2026-04-15 07:10:13,1791576,46.151.182.19,botnet_cc,Tofsee,Tofsee
 2026-04-14 05:10:44,1785317,140.143.207.166,botnet_cc,Unknown malware,"C2,Mythic"
 2026-04-13 11:38:41,1785136,130.12.182.175,botnet_cc,Tofsee,Tofsee
 2026-04-13 11:38:41,1785137,46.151.182.245,botnet_cc,Tofsee,Tofsee
@@ -1622,26 +1637,19 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-04-12 06:34:43,1784558,47.104.248.7,botnet_cc,Cobalt Strike,"Agentemis,BEACON,C2,Cobalt Strike,CobaltStrike,cobeacon"
 2026-04-11 06:36:58,1784155,101.35.214.58,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-305419896"
 2026-04-09 14:48:47,1783375,39.102.125.11,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
-2026-04-08 06:41:50,1782682,46.151.182.19,botnet_cc,Tofsee,Tofsee
 2026-04-06 18:49:49,1781907,43.139.108.161,botnet_cc,Cobalt Strike,"Agentemis,BEACON,C2,Cobalt Strike,CobaltStrike,cobeacon"
-2026-04-06 09:39:41,1781669,130.12.182.175,botnet_cc,Tofsee,Tofsee
-2026-04-06 09:39:41,1781670,46.151.182.19,botnet_cc,Tofsee,Tofsee
-2026-04-06 09:39:41,1781672,31.57.216.27,botnet_cc,Tofsee,Tofsee
-2026-04-06 09:39:41,1781673,31.57.216.28,botnet_cc,Tofsee,Tofsee
 2026-04-04 20:44:05,1781225,111.230.217.36,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-04-04 20:44:01,1781224,109.244.130.113,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
-2026-04-03 12:11:33,1780678,46.151.182.19,botnet_cc,Tofsee,Tofsee
-2026-04-03 12:11:33,1780679,46.151.182.245,botnet_cc,Tofsee,Tofsee
-2026-04-03 12:11:33,1780680,31.57.216.27,botnet_cc,Tofsee,Tofsee
-2026-04-03 12:11:33,1780681,130.12.182.175,botnet_cc,Tofsee,Tofsee
-2026-04-03 12:11:33,1780682,31.57.216.28,botnet_cc,Tofsee,Tofsee
 2026-04-01 10:45:34,1780037,164.92.67.70,botnet_cc,Havoc,"c2,havoc,shodan"
+2026-04-01 05:40:31,1779913,31.57.216.28,botnet_cc,Tofsee,Tofsee
+2026-04-01 05:40:31,1779916,31.57.216.27,botnet_cc,Tofsee,Tofsee
+2026-04-01 05:40:31,1779917,46.151.182.19,botnet_cc,Tofsee,Tofsee
+2026-04-01 05:40:30,1779911,130.12.182.175,botnet_cc,Tofsee,Tofsee
+2026-04-01 05:40:30,1779912,46.151.182.245,botnet_cc,Tofsee,Tofsee
 2026-03-28 14:56:18,1777986,47.122.47.221,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-03-27 12:01:30,1777296,185.242.3.83,botnet_cc,AsyncRAT,"AS60223,AsyncRAT,C2,censys,NETIFACE-AS,RAT"
 2026-03-27 00:00:31,1777014,49.234.199.152,botnet_cc,Cobalt Strike,"AS45090,C2,censys,CobaltStrike,cs-watermark-987654321,TENCENT-NET-AP"
 2026-03-26 14:59:36,1776672,158.94.209.95,botnet_cc,GCleaner,"GCleaner,loader"
-2026-03-26 07:25:17,1776603,130.12.182.175,botnet_cc,Tofsee,Tofsee
-2026-03-26 07:25:17,1776606,31.57.216.28,botnet_cc,Tofsee,Tofsee
 2026-03-25 07:08:19,1775338,47.120.20.86,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
 2026-03-24 12:01:13,1774903,37.72.172.58,botnet_cc,AsyncRAT,"AS29802,AsyncRAT,C2,censys,HVC-AS,RAT"
 2026-03-24 12:00:35,1774898,47.92.208.27,botnet_cc,Cobalt Strike,"ALIBABA-CN-NET,AS37963,C2,censys,CobaltStrike,cs-watermark-666666666"
@@ -1651,11 +1659,6 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-03-23 04:01:29,1774089,195.250.25.176,botnet_cc,AdaptixC2,"AdaptixC2,AS36454,C2,censys,WHG-DAL"
 2026-03-22 18:02:20,1773536,156.239.252.191,botnet_cc,Cobalt Strike,"BEACON,C2,CobaltStrike,Shodan"
 2026-03-22 12:01:29,1773754,138.226.236.52,botnet_cc,AdaptixC2,"AdaptixC2,AS205775,C2,censys,NEONCORENETWORKS"
-2026-03-21 10:09:16,1773195,46.151.182.245,botnet_cc,Tofsee,Tofsee
-2026-03-21 10:09:16,1773196,31.57.216.27,botnet_cc,Tofsee,Tofsee
-2026-03-21 10:09:16,1773198,31.57.216.28,botnet_cc,Tofsee,Tofsee
-2026-03-21 10:09:16,1773199,46.151.182.19,botnet_cc,Tofsee,Tofsee
-2026-03-21 10:09:16,1773200,130.12.182.175,botnet_cc,Tofsee,Tofsee
 2026-03-20 16:00:44,1772653,5.101.86.72,botnet_cc,Remcos,"AS-GLOBALTELEHOST,AS62563,C2,censys,RAT,Remcos"
 2026-03-20 16:00:21,1772652,101.35.95.103,botnet_cc,Cobalt Strike,"AS45090,C2,censys,CobaltStrike,cs-watermark-0,TENCENT-NET-AP"
 2026-03-20 06:42:00,1771875,182.255.44.96,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
@@ -1663,12 +1666,7 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-03-19 20:02:51,1771714,45.136.13.247,botnet_cc,AdaptixC2,"AdaptixC2,AS139659,C2,censys,LUCID-AS-AP"
 2026-03-19 20:02:47,1771713,167.17.47.121,botnet_cc,AdaptixC2,"AdaptixC2,AS43180,C2,censys,TRUNKNETWORKS-AS"
 2026-03-19 04:00:37,1771235,85.206.168.238,botnet_cc,Remcos,"AS61272,C2,censys,IST-AS,RAT,Remcos"
-2026-03-18 08:54:43,1770623,46.151.182.19,botnet_cc,Tofsee,Tofsee
 2026-03-18 04:00:18,1769955,43.138.39.212,botnet_cc,Cobalt Strike,"AS45090,C2,censys,CobaltStrike,TENCENT-NET-AP"
-2026-03-17 15:20:45,1769352,31.57.216.27,botnet_cc,Tofsee,Tofsee
-2026-03-17 15:20:45,1769353,46.151.182.245,botnet_cc,Tofsee,Tofsee
-2026-03-17 15:20:44,1769349,130.12.182.175,botnet_cc,Tofsee,Tofsee
-2026-03-17 15:20:44,1769350,31.57.216.28,botnet_cc,Tofsee,Tofsee
 2026-03-17 04:01:23,1769012,88.218.60.191,botnet_cc,AdaptixC2,"AdaptixC2,AS48282,C2,censys,VDSINA-AS"
 2026-03-17 02:48:23,1768984,156.245.144.203,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-03-17 00:01:17,1768940,20.29.10.79,botnet_cc,Unknown malware,"AS8075,C2,censys,MICROSOFT-CORP-MSN-AS-BLOCK,Mythic"
@@ -1689,14 +1687,6 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-03-11 07:03:38,1763170,60.247.206.23,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-391144938"
 2026-03-10 16:00:58,1762854,85.206.168.238,botnet_cc,Remcos,"AS61272,C2,censys,IST-AS,RAT,Remcos"
 2026-03-10 00:01:13,1762492,107.172.3.15,botnet_cc,Unknown malware,"AS-COLOCROSSING,AS36352,C2,censys,Mythic"
-2026-03-09 12:52:15,1762250,46.151.182.245,botnet_cc,Tofsee,Tofsee
-2026-03-09 12:52:15,1762251,130.12.182.175,botnet_cc,Tofsee,Tofsee
-2026-03-09 12:52:14,1762247,31.57.216.28,botnet_cc,Tofsee,Tofsee
-2026-03-09 12:52:14,1762248,31.57.216.27,botnet_cc,Tofsee,Tofsee
-2026-03-07 17:02:14,1761034,130.12.182.175,botnet_cc,Tofsee,Tofsee
-2026-03-07 17:02:14,1761035,46.151.182.245,botnet_cc,Tofsee,Tofsee
-2026-03-07 17:02:13,1761032,31.57.216.28,botnet_cc,Tofsee,Tofsee
-2026-03-07 17:02:13,1761033,31.57.216.27,botnet_cc,Tofsee,Tofsee
 2026-03-07 08:01:02,1760833,20.100.168.21,botnet_cc,Unknown malware,"AS8075,C2,censys,MICROSOFT-CORP-MSN-AS-BLOCK,Mythic"
 2026-03-06 00:01:40,1759331,194.36.178.53,botnet_cc,AdaptixC2,"AdaptixC2,AS200740,C2,censys,FIRST-SERVER-EU-AS"
 2026-03-04 04:01:12,1758006,70.153.18.45,botnet_cc,Unknown malware,"AS8075,censys,EvilGoPhish,MICROSOFT-CORP-MSN-AS-BLOCK,panel,Phishing"
@@ -1716,7 +1706,6 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-02-20 08:47:26,1751084,185.180.198.3,botnet_cc,RansomHub,"drb-ra,RansomHub"
 2026-02-20 08:46:17,1751080,163.181.208.79,botnet_cc,DeimosC2,"Deimos,drb-ra"
 2026-02-20 07:09:34,1751056,81.68.89.216,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
-2026-02-18 07:29:42,1750265,46.151.182.245,botnet_cc,Tofsee,Tofsee
 2026-02-16 09:05:30,1749217,111.228.4.54,botnet_cc,Cobalt Strike,"c2,cobaltstrike,cs-watermark-987654321,shodan"
 2026-02-14 18:46:07,1748314,27.221.15.199,botnet_cc,DeimosC2,"Deimos,drb-ra"
 2026-02-14 15:11:17,1748256,101.200.193.211,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-987654321"
@@ -1929,6 +1918,8 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2025-11-04 02:49:22,1633063,192.253.227.88,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2025-11-04 02:49:14,1633061,167.88.168.76,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2025-11-03 20:00:26,1632776,83.229.126.183,botnet_cc,Cobalt Strike,"AS139659,C2,censys,CobaltStrike,cs-watermark-987654321,LUCID-AS-AP"
+2025-11-03 12:09:58,1632357,47.76.108.54,botnet_cc,VShell,"C2,NVISO,VShell"
+2025-11-03 12:08:57,1631751,117.72.159.96,botnet_cc,VShell,"C2,NVISO,VShell"
 2025-11-03 12:08:57,1631753,117.72.175.125,botnet_cc,VShell,"C2,NVISO,VShell"
 2025-11-03 09:03:04,1631367,117.72.242.9,botnet_cc,Cobalt Strike,"AS141679,C2,censys"
 2025-11-03 07:01:12,1631471,119.42.148.186,botnet_cc,Cobalt Strike,"c2,cobaltstrike,cs-watermark-666666666,shodan"
@@ -1966,14 +1957,18 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2025-09-30 00:02:15,1604499,149.50.135.215,botnet_cc,AdaptixC2,"AdaptixC2,AS27823,C2,censys,Dattatec.com"
 2025-09-28 15:48:32,1603281,154.92.15.229,botnet_cc,Cobalt Strike,"c2,censys,cobalt strike"
 2025-09-27 16:02:13,1602818,84.27.86.226,botnet_cc,NetSupportManager RAT,"AS33915,C2,censys,Netsupport,RAT,TNF-AS"
+2025-09-27 16:02:08,1602813,23.227.199.67,botnet_cc,Havoc,"AS29802,C2,censys,Havoc,HVC-AS"
 2025-09-25 20:00:39,1601556,115.120.245.134,botnet_cc,Cobalt Strike,"AS55990,C2,censys,CobaltStrike,cs-watermark-987654321,HWCSNET"
 2025-09-25 12:51:01,1601359,196.251.69.253,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2025-09-24 20:00:10,1599651,47.113.186.138,botnet_cc,Cobalt Strike,"ALIBABA-CN-NET,AS37963,C2,censys,CobaltStrike,cs-watermark-987654321"
 2025-09-24 08:02:13,1599442,43.162.114.240,botnet_cc,Unknown malware,"AS132203,censys,EvilGinx,panel,Phishing,TENCENT-NET-AP-CN"
+2025-09-23 20:01:59,1599090,46.21.153.148,botnet_cc,AdaptixC2,"AdaptixC2,AS29802,C2,censys,HVC-AS"
+2025-09-23 20:01:59,1599091,46.21.153.146,botnet_cc,AdaptixC2,"AdaptixC2,AS29802,C2,censys,HVC-AS"
 2025-09-23 06:06:58,1598336,43.139.170.200,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-100000"
 2025-09-23 04:00:59,1598300,43.162.114.107,botnet_cc,Unknown malware,"AS132203,censys,EvilGinx,Phishing"
 2025-09-22 14:51:05,1598102,159.75.211.248,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2025-09-21 16:01:22,1596535,43.162.108.133,botnet_cc,Unknown malware,"AS132203,censys,EvilGinx,panel,Phishing,TENCENT-NET-AP-CN"
+2025-09-18 04:01:52,1593782,117.72.78.96,botnet_cc,Unknown malware,"AS141679,censys,Viper"
 2025-09-15 20:01:53,1590702,61.155.145.182,botnet_cc,Cobalt Strike,"AS140292,C2,censys,CHINATELECOM-JIANGSU-SUZHOU-5G-NETWORK,CobaltStrike,cs-watermark-987654321"
 2025-09-13 04:01:58,1589068,18.167.174.198,botnet_cc,pupy,"AMAZON-02,AS16509,C2,censys,Pupy,RAT"
 2025-09-11 20:01:36,1588133,195.178.110.135,botnet_cc,Cobalt Strike,"AS48090,C2,censys,CobaltStrike,cs-watermark-426352781,DMZHOST"
@@ -1984,6 +1979,7 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2025-09-06 20:01:18,1582910,8.138.222.215,botnet_cc,Cobalt Strike,"ALIBABA-CN-NET,AS37963,C2,censys,CobaltStrike,cs-watermark-666666666"
 2025-09-06 12:01:48,1582784,103.236.70.158,botnet_cc,DCRat,"AS134768,C2,censys,CHINANET-SHAANXI-CLOUD-BASE,DcRAT,RAT"
 2025-09-04 07:40:17,1581557,8.148.194.157,botnet_cc,Cobalt Strike,"c2,cobaltstrike,cs-watermark-666666666,shodan"
+2025-09-03 20:48:11,1581218,47.86.97.42,botnet_cc,Unknown malware,"drb-ra,RAT"
 2025-09-02 18:52:55,1580723,47.236.159.248,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2025-09-02 05:43:42,1580257,47.121.137.8,botnet_cc,Cobalt Strike,"c2,cobaltstrike,cs-watermark-666666666,shodan"
 2025-09-02 04:01:38,1580237,47.99.196.178,botnet_cc,AdaptixC2,"AdaptixC2,ALIBABA-CN-NET,AS37963,C2,censys"
@@ -1994,8 +1990,12 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2025-08-25 08:14:17,1574099,89.216.98.17,botnet_cc,NetSupportManager RAT,"c2,netsupport,shodan"
 2025-08-25 00:00:27,1573705,43.163.112.217,botnet_cc,Cobalt Strike,"AS132203,C2,censys,CobaltStrike,cs-watermark-987654321,TENCENT-NET-AP-CN"
 2025-08-23 18:00:42,1573120,62.60.226.133,botnet_cc,Remcos,"AS214351,C2,rat,remcos,triage"
+2025-08-23 16:00:59,1573112,3.24.114.211,botnet_cc,Unknown malware,"AMAZON-02,AS16509,C2,censys,Mythic"
 2025-08-22 04:00:57,1572468,8.141.118.254,botnet_cc,Unknown malware,"AS37963,censys,Viper"
+2025-08-22 04:00:30,1572465,212.56.35.232,botnet_cc,Quasar RAT,"AS40021,C2,censys,CONTABO-40021,RAT"
 2025-08-20 08:02:12,1571607,178.16.55.53,botnet_cc,Cobalt Strike,"C2,censys,CobaltStrike,cs-watermark-666666666"
+2025-08-20 04:01:05,1571538,8.152.98.193,botnet_cc,Unknown malware,"AS37963,censys,Viper"
+2025-08-20 04:01:04,1571537,59.110.18.85,botnet_cc,Unknown malware,"AS37963,censys,Viper"
 2025-08-18 20:01:59,1570775,116.203.31.207,botnet_cc,Cobalt Strike,"AS24940,C2,censys,CobaltStrike,cs-watermark-987654321,HETZNER-AS"
 2025-08-17 20:01:54,1570558,150.187.25.242,botnet_cc,Cobalt Strike,"AS20312,C2,censys,CobaltStrike,cs-watermark-987654321,Fundacion"
 2025-08-16 16:02:17,1570040,160.250.128.197,botnet_cc,Unknown malware,"AS150895,C2,censys,EZTECH-VN,Supershell"
@@ -2016,15 +2016,19 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2025-08-02 08:43:43,1563314,124.221.221.58,botnet_cc,Unknown malware,"drb-ra,RAT"
 2025-08-01 20:01:06,1563211,89.197.168.150,botnet_cc,Unknown malware,"AS47474,C2,censys,Mythic,VIRTUAL1"
 2025-08-01 00:00:56,1562994,124.221.221.58,botnet_cc,Unknown malware,"AS45090,C2,censys,Supershell,TENCENT-NET-AP"
+2025-07-31 12:00:49,1562865,123.56.48.58,botnet_cc,Unknown malware,"ALIBABA-CN-NET,AS37963,C2,censys,Supershell"
 2025-07-30 16:00:49,1562561,103.87.9.132,botnet_cc,Quasar RAT,"AS132883,C2,censys,Quasar,RAT,TOPWAY-AS-AP"
 2025-07-27 16:00:55,1561181,117.72.181.104,botnet_cc,Cobalt Strike,"AS141679,C2,censys,CHINATELECOM-IDC-BTHBD-AP,CobaltStrike,cs-watermark-666666"
 2025-07-25 10:51:18,1560617,47.236.130.154,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2025-07-23 16:00:37,1559822,47.122.152.65,botnet_cc,Cobalt Strike,"ALIBABA-CN-NET,AS37963,C2,censys,CobaltStrike,cs-watermark-987654321"
+2025-07-23 04:04:31,1559652,122.51.215.90,botnet_cc,Unknown malware,"AS45090,censys,Viper"
 2025-07-21 06:45:45,1558869,45.145.228.142,botnet_cc,Unknown malware,"AS139659,C2,censys,Supershell"
 2025-07-19 12:49:30,1558329,103.125.248.109,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2025-07-19 00:01:30,1558180,104.167.16.88,botnet_cc,AdaptixC2,"AdaptixC2,AS16276,C2,censys,OVH"
 2025-07-18 12:51:20,1558066,193.112.84.248,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2025-07-18 08:01:12,1558027,206.189.227.148,botnet_cc,Unknown malware,"AS14061,C2,censys,DIGITALOCEAN-ASN,Mythic"
+2025-07-18 04:01:55,1557932,124.220.77.21,botnet_cc,Unknown malware,"AS45090,censys,Viper"
+2025-07-17 20:43:26,1557879,114.132.150.96,botnet_cc,Unknown malware,"drb-ra,RAT"
 2025-07-12 00:01:36,1556099,51.81.171.234,botnet_cc,Havoc,"AS16276,C2,censys,Havoc,OVH"
 2025-07-11 12:05:09,1555914,38.207.178.172,botnet_cc,Chaos,"AS139659,chaos,LUCIDACLOUD LIMITED"
 2025-07-08 20:56:28,1554642,88.129.151.109,botnet_cc,DeimosC2,"Deimos,drb-ra"
@@ -2033,27 +2037,41 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2025-07-05 00:00:57,1553558,20.2.161.33,botnet_cc,Unknown malware,"AS8075,C2,censys,MICROSOFT-CORP-MSN-AS-BLOCK,Supershell"
 2025-07-03 20:00:15,1553070,112.125.19.107,botnet_cc,Cobalt Strike,"ALIBABA-CN-NET,AS37963,C2,censys,CobaltStrike,cs-watermark-1234567890"
 2025-07-03 16:00:49,1553020,20.2.139.87,botnet_cc,Unknown malware,"AS8075,C2,censys,MICROSOFT-CORP-MSN-AS-BLOCK,Supershell"
+2025-07-02 04:02:12,1552208,146.70.87.96,botnet_cc,AdaptixC2,"AdaptixC2,AS9009,C2,censys,M247"
+2025-07-01 04:02:16,1551843,38.132.122.141,botnet_cc,AdaptixC2,"AdaptixC2,AS9009,C2,censys,M247"
+2025-07-01 00:02:11,1551795,146.70.87.237,botnet_cc,AdaptixC2,"AdaptixC2,AS9009,C2,censys,M247"
 2025-06-30 05:36:40,1551457,217.154.212.25,botnet_cc,Cobalt Strike,"c2,cobaltstrike,cs-watermark-987654321,shodan"
 2025-06-28 08:51:18,1550284,54.38.94.225,botnet_cc,Eye Pyramid,"drb-ra,EyePyramid"
 2025-06-27 07:00:53,1549925,67.205.141.81,botnet_cc,Unknown malware,"c2,mythic,shodan"
 2025-06-25 04:00:19,1549030,156.227.233.153,botnet_cc,Cobalt Strike,"AS138152,C2,censys"
+2025-06-22 04:01:03,1548390,120.76.243.150,botnet_cc,Unknown malware,"AS37963,censys,Viper"
 2025-06-21 18:56:08,1548335,107.173.122.193,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2025-06-20 06:01:32,1547925,82.156.156.160,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-666666666"
 2025-06-18 08:02:37,1546246,191.93.118.254,botnet_cc,AsyncRAT,"AsyncRAT,RAT"
 2025-06-18 07:58:54,1546232,191.93.118.254,botnet_cc,AsyncRAT,"AsyncRAT,RAT"
 2025-06-17 03:12:25,1545615,8.147.128.54,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2025-06-16 23:10:50,1545597,47.107.136.106,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
+2025-06-16 20:02:54,1545575,38.132.122.145,botnet_cc,AdaptixC2,"AdaptixC2,AS9009,C2,censys,M247"
 2025-06-16 12:01:46,1545348,8.137.149.67,botnet_cc,Cobalt Strike,"ALIBABA-CN-NET,AS37963,C2,censys,CobaltStrike,cs-watermark-987654321"
+2025-06-16 08:02:52,1545236,23.227.199.61,botnet_cc,AdaptixC2,"AdaptixC2,AS29802,C2,censys,HVC-AS"
 2025-06-16 08:01:46,1545221,107.173.122.193,botnet_cc,Cobalt Strike,"AS-COLOCROSSING,AS36352,C2,censys,CobaltStrike,cs-watermark-391144938"
+2025-06-14 04:02:35,1544669,23.227.203.246,botnet_cc,AdaptixC2,"AdaptixC2,AS29802,C2,censys,HVC-AS"
 2025-06-13 20:01:30,1544612,47.109.48.57,botnet_cc,Cobalt Strike,"ALIBABA-CN-NET,AS37963,C2,censys,CobaltStrike,cs-watermark-987654321"
 2025-06-12 08:56:19,1544039,39.104.78.25,botnet_cc,Cobalt Strike,"AS37963,C2,censys"
 2025-06-10 16:01:13,1543390,8.155.0.238,botnet_cc,Cobalt Strike,"ALIBABA-CN-NET,AS37963,C2,censys,CobaltStrike,cs-watermark-987654321"
+2025-06-10 00:02:13,1543182,23.227.203.190,botnet_cc,AdaptixC2,"AdaptixC2,AS29802,C2,censys,HVC-AS"
+2025-06-08 21:18:40,1542808,23.227.203.205,botnet_cc,AdaptixC2,"AdaptixC2,AS29802,C2,censys,HVC-AS"
+2025-06-08 21:18:40,1542809,38.132.122.161,botnet_cc,AdaptixC2,"AdaptixC2,AS9009,C2,censys,M247"
+2025-06-08 21:18:39,1542806,146.70.87.64,botnet_cc,AdaptixC2,"AdaptixC2,AS9009,C2,censys,M247"
+2025-06-08 21:18:37,1542802,23.227.203.128,botnet_cc,AdaptixC2,"AdaptixC2,AS29802,C2,censys,HVC-AS"
+2025-06-08 21:18:37,1542804,23.227.203.191,botnet_cc,AdaptixC2,"AdaptixC2,AS29802,C2,censys,HVC-AS"
 2025-06-08 20:45:49,1542784,162.248.224.223,botnet_cc,RansomHub,"drb-ra,RansomHub"
 2025-06-08 20:45:48,1542783,162.248.224.223,botnet_cc,RansomHub,"drb-ra,RansomHub"
 2025-06-08 20:01:01,1542759,119.45.29.172,botnet_cc,Cobalt Strike,"AS45090,C2,censys,CobaltStrike,cs-watermark-987654321,TENCENT-NET-AP"
 2025-06-06 20:01:59,1542057,172.81.131.230,botnet_cc,Unknown malware,"AS27176,C2,censys,DATAWAGON,Mythic"
 2025-06-06 16:01:21,1541666,3.19.238.211,botnet_cc,Sliver,"AMAZON-02,AS16509,C2,censys,Sliver"
 2025-06-06 16:00:50,1541652,68.64.176.42,botnet_cc,Cobalt Strike,"AS139659,C2,censys,CobaltStrike,cs-watermark-391144938,LUCID-AS-AP"
+2025-06-03 08:00:32,1539179,60.205.5.254,botnet_cc,Cobalt Strike,"ALIBABA-CN-NET,AS37963,C2,censys,CobaltStrike,cs-watermark-666666666"
 2025-06-02 12:01:04,1538881,193.239.85.15,botnet_cc,Havoc,"AS9009,C2,censys,Havoc,M247"
 2025-06-02 05:47:28,1538799,47.109.198.8,botnet_cc,Cobalt Strike,"c2,cobaltstrike,cs-watermark-987654321,shodan"
 2025-06-01 08:52:56,1538358,54.38.94.225,botnet_cc,Eye Pyramid,"drb-ra,EyePyramid"
@@ -2064,8 +2082,10 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2025-05-30 02:55:17,1536730,111.229.4.108,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2025-05-29 22:26:34,1536683,161.35.176.231,botnet_cc,Havoc,"AS14061,C2,censys,DIGITALOCEAN-ASN,Havoc"
 2025-05-28 08:01:49,1535963,159.89.36.127,botnet_cc,Unknown malware,"AS14061,C2,censys,DIGITALOCEAN-ASN,Mythic"
+2025-05-28 05:32:50,1535888,43.143.234.164,botnet_cc,Unknown malware,"AS45090,censys,Viper"
 2025-05-27 20:01:45,1535813,113.45.238.149,botnet_cc,Unknown malware,"AS55990,C2,censys,HWCSNET,Supershell"
 2025-05-26 20:01:30,1534920,8.216.80.229,botnet_cc,Sliver,"ALIBABA-CN-NET,AS45102,C2,censys,Sliver"
+2025-05-25 06:39:03,1533873,43.143.128.126,botnet_cc,Unknown malware,"AS45090,censys,Viper"
 2025-05-24 20:01:31,1533613,221.132.29.137,botnet_cc,Unknown malware,"AS45899,C2,censys,Mythic,VNPT-AS-VN"
 2025-05-24 11:13:44,1533071,1.15.174.189,botnet_cc,Cobalt Strike,"c2,censys,CobaltStrike"
 2025-05-23 05:34:51,1532332,8.140.239.162,botnet_cc,Cobalt Strike,"c2,censys,CobaltStrike"
@@ -2092,11 +2112,11 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2025-04-25 08:10:27,1511186,23.254.215.118,botnet_cc,Havoc,"c2,havoc,shodan"
 2025-04-22 12:21:47,1509966,167.71.13.103,botnet_cc,Sliver,"c2,shodan,sliver"
 2025-04-16 16:01:35,1492480,113.45.253.80,botnet_cc,Cobalt Strike,"AS55990,C2,censys,CobaltStrike,cs-watermark-666666666,HWCSNET"
+2025-04-16 05:29:20,1492133,107.172.20.215,botnet_cc,Unknown malware,"AS-COLOCROSSING,AS36352,censys,Viper"
 2025-04-15 16:02:30,1492012,47.83.134.97,botnet_cc,Havoc,"ALIBABA-CN-NET,AS45102,C2,censys,Havoc"
 2025-04-15 04:01:37,1491748,193.142.146.70,botnet_cc,Remcos,"AS213438,C2,censys,COLOCATEL-INC,RAT,Remcos"
 2025-04-10 05:55:49,1486437,167.71.13.103,botnet_cc,Sliver,"AS14061,C2,censys,DIGITALOCEAN-ASN"
 2025-04-07 12:01:19,1485415,20.89.182.93,botnet_cc,Unknown malware,"AS8075,C2,censys,MICROSOFT-CORP-MSN-AS-BLOCK,Supershell"
-2025-04-05 05:50:38,1484905,3.132.75.97,botnet_cc,vo1d,"redirector,Vo1d"
 2025-04-02 10:08:14,1463173,38.46.218.36,botnet_cc,vo1d,Vo1d
 2025-04-02 10:08:13,1463174,38.46.218.38,botnet_cc,vo1d,Vo1d
 2025-04-02 10:08:12,1463176,38.46.218.39,botnet_cc,vo1d,Vo1d
@@ -2129,7 +2149,9 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2025-01-30 04:01:31,1396102,185.33.86.15,botnet_cc,RansomHub,"AS202015,backdoor,C2,censys,HZ-US-AS,Ransomhub"
 2025-01-26 08:46:00,1394408,54.38.94.225,botnet_cc,Eye Pyramid,"drb-ra,EyePyramid"
 2025-01-25 20:47:04,1394158,54.38.94.225,botnet_cc,Eye Pyramid,"drb-ra,EyePyramid"
+2025-01-22 20:03:34,1391658,8.219.211.139,botnet_cc,Cobalt Strike,"ALIBABA-CN-NET,AS45102,C2,censys,CobaltStrike,cs-watermark-666666666"
 2025-01-22 17:46:05,1391610,45.82.85.50,botnet_cc,RansomHub,"drb-ra,RansomHub"
+2025-01-21 16:04:06,1390750,118.70.175.199,botnet_cc,AsyncRAT,"AS18403,AsyncRAT,C2,censys,FPT-AS-AP,RAT"
 2025-01-17 09:15:21,1384933,38.180.81.153,botnet_cc,RansomHub,"drb-ra,RansomHub"
 2025-01-17 09:15:21,1384934,38.180.81.153,botnet_cc,RansomHub,"drb-ra,RansomHub"
 2025-01-17 09:14:13,1384921,167.99.139.231,botnet_cc,Eye Pyramid,"drb-ra,EyePyramid"
@@ -2170,6 +2192,7 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2024-11-30 20:06:08,1349510,216.118.101.199,botnet_cc,Unknown malware,"censys,panel,Viper"
 2024-11-30 20:06:04,1349492,216.118.101.216,botnet_cc,Unknown malware,"censys,panel,Viper"
 2024-11-30 20:05:59,1349467,8.138.179.29,botnet_cc,Unknown malware,"censys,panel,Viper"
+2024-11-30 20:05:56,1349458,47.94.13.0,botnet_cc,Unknown malware,"censys,panel,Viper"
 2024-11-30 20:05:51,1349438,216.118.101.54,botnet_cc,Unknown malware,"censys,panel,Viper"
 2024-11-29 13:56:30,1348902,216.118.101.108,botnet_cc,Unknown malware,Viper
 2024-11-27 19:47:54,1348295,47.90.142.15,botnet_cc,Cobalt Strike,"censys,CobaltStrike"
@@ -2254,7 +2277,6 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2024-01-27 14:31:40,1234928,114.55.133.151,botnet_cc,Cobalt Strike,"AS37963,C2,censys"
 2024-01-27 14:31:20,1234909,117.72.39.83,botnet_cc,Cobalt Strike,"AS141679,C2,censys"
 2024-01-24 18:49:24,1234304,38.147.189.199,botnet_cc,pupy,"Pupy RAT,XNNET"
-2024-01-23 17:35:13,1234076,107.174.142.70,botnet_cc,Remcos,remcos
 2024-01-13 06:47:25,1230478,164.92.79.49,botnet_cc,Havoc,"DIGITALOCEAN-ASN,Havoc"
 2024-01-10 06:48:20,1229817,161.35.239.147,botnet_cc,Havoc,"DIGITALOCEAN-ASN,Havoc"
 2024-01-09 08:45:29,1229661,111.92.243.236,botnet_cc,Cobalt Strike,"CobaltStrike,cs-watermark-666666666,HFTCL-AS-AP High Family Technology Co. Limited"
@@ -2265,7 +2287,9 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2023-12-26 06:46:27,1223678,8.140.203.92,botnet_cc,Deimos,"ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.Ltd.,Deimos"
 2023-12-18 05:00:11,1221451,62.234.27.204,botnet_cc,Cobalt Strike,None
 2023-12-15 18:59:31,1213211,117.72.39.83,botnet_cc,Cobalt Strike,"C2,censys"
+2023-12-04 14:22:11,1209390,43.143.7.85,botnet_cc,Viper RAT,"C2,censys,RAT"
 2023-11-09 17:50:07,1201144,101.34.222.38,botnet_cc,Viper RAT,"C2,censys,RAT"
+2023-11-09 17:49:41,1201109,124.220.161.214,botnet_cc,Viper RAT,"C2,censys,RAT"
 2023-11-09 17:48:19,1200980,82.156.166.227,botnet_cc,Viper RAT,"C2,censys,RAT"
 2023-11-06 21:04:29,1199545,38.54.115.233,botnet_cc,Cobalt Strike,None
 2023-10-24 10:39:59,1192255,139.155.148.131,botnet_cc,Cobalt Strike,"C2,censys"
