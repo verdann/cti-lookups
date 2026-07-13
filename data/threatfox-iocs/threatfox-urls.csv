@@ -1,4 +1,15 @@
 first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
+2026-07-13 01:30:12,1849189,http://95.40.222.37/getinstall64,botnet_cc,ValleyRAT,"RAT,ValleyRAT"
+2026-07-12 21:01:06,1849113,http://tzpx.courses:4437,botnet_cc,Remus,remus
+2026-07-12 19:45:40,1849095,http://87.120.104.81/d19ca32cb5a444ac8b87.php,botnet_cc,Stealc,stealc
+2026-07-12 18:15:03,1849055,https://ironcladsportfishing.com/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
+2026-07-12 17:15:04,1849041,https://ewbn.org/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
+2026-07-12 17:15:04,1849042,https://alumnofprojects.co.il/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
+2026-07-12 13:46:24,1849001,https://cbsnews.date/tgv/RandApp,payload_delivery,Unknown malware,ClickFix
+2026-07-12 11:40:24,1848927,http://130.162.240.8:7317/api/register,botnet_cc,Unknown malware,"317Stealer,c2"
+2026-07-12 11:40:24,1848928,http://130.162.240.8:7317/api/hvnc/register,botnet_cc,Unknown malware,"317Stealer,c2"
+2026-07-12 07:30:16,1848790,https://2d4e5f6-7a8b-4c2d-9e1f-3b5a7c8d9e0fc.s3.us-east-1.amazonaws.com/config.cmd,payload_delivery,Latrodectus,"config-file,Latrodectus"
+2026-07-12 07:30:13,1848808,https://klonfcrtyseaflow.com/inline.php,botnet_cc,Latrodectus,Latrodectus
 2026-07-12 00:06:21,1848824,https://mhw.codes/check,payload_delivery,Unknown malware,ClickFix
 2026-07-11 23:56:21,1848817,http://178.17.59.40:5506/qk.vbs,payload_delivery,Unknown malware,ClickFix
 2026-07-11 23:51:20,1848816,http://inkbookwriters.com/verify,payload_delivery,Unknown malware,ClickFix
@@ -31,27 +42,8 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-07-11 05:29:32,1848335,https://us-addnewdevice.com/dl-callback/peevmnpz-psenf5s7-927uja3p-uey4ex9n/setup.msi/e5cdedc2f6f167f2bf343a5bb57aa7f6,payload_delivery,NetSupportManager RAT,"ClickFix,cloudflare-r2,Emmenhtal,iex-irm,NetSupport"
 2026-07-11 05:29:32,1848336,https://pub-f2969eb764264a9280dffa75e6803e93.r2.dev/setup.msi,payload_delivery,NetSupportManager RAT,"ClickFix,cloudflare-r2,Emmenhtal,iex-irm,NetSupport"
 2026-07-11 05:29:31,1848337,http://us-addnewdevice.com/Vzj72DFgvUe1Psg5,payload_delivery,NetSupportManager RAT,"ClickFix,cloudflare-r2,Emmenhtal,iex-irm,NetSupport"
-2026-07-11 05:15:03,1848467,https://inoxarreda.it/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
-2026-07-11 03:40:04,1848442,http://bonneli.rs/tmp/coreserver/gate.php,botnet_cc,Pony,Pony
-2026-07-11 03:15:02,1848434,https://vivekanandapu-edu.in/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
-2026-07-11 01:15:03,1848414,https://tecnoibrid.com/,payload_delivery,Vidar,"ClickFix,compromised,EtherHiding,Polygon,Vidar,WordPress"
-2026-07-10 16:20:07,1848213,http://cw212153.tw1.ru/L1nc0In.php,botnet_cc,DCRat,"DCRat,RAT"
 2026-07-10 13:27:18,1848063,https://bdm.omni-signage.com/,botnet_cc,Vidar,"mp44s1,Vidar"
 2026-07-10 13:27:05,1848061,https://bdm.kencangsm188.top/,botnet_cc,Vidar,"mp44s1,Vidar"
-2026-07-10 13:00:58,1848048,http://geminyw.xyz:5003,botnet_cc,Remus,remus
-2026-07-10 12:19:06,1848026,https://leconto.lol/file.js,payload_delivery,KongTuke,KongTuke
-2026-07-10 12:19:04,1848028,https://leconto.lol/api/v1/session,payload_delivery,KongTuke,KongTuke
-2026-07-10 12:19:03,1848029,https://leconto.lol/api/v1/verify,payload_delivery,KongTuke,KongTuke
-2026-07-10 12:19:03,1848030,https://marblehaven.top/claims/profile-view,payload_delivery,SmartApeSG,SmartApeSG
-2026-07-10 12:19:02,1848032,https://marblehaven.top/claims/identity-render.js,payload_delivery,SmartApeSG,SmartApeSG
-2026-07-10 12:05:03,1847993,https://silverlandscape.top/claims/refresh-cookie.js,payload_delivery,SmartApeSG,SmartApeSG
-2026-07-10 12:05:02,1847995,https://silverlandscape.top/claims/profile-view,payload_delivery,SmartApeSG,SmartApeSG
-2026-07-10 12:05:02,1847996,https://silverlandscape.top/claims/identity-render.js,payload_delivery,SmartApeSG,SmartApeSG
-2026-07-10 09:27:03,1847951,https://dup.omni-signage.com/,botnet_cc,Vidar,"mp44s1,Vidar"
-2026-07-10 09:26:51,1847949,https://dup.kencangsm188.top/,botnet_cc,Vidar,"mp44s1,Vidar"
-2026-07-10 07:50:03,1847930,http://techfonet.com/pw/Panel/five/fre.php,botnet_cc,Loki Password Stealer (PWS),Loki
-2026-07-10 05:27:09,1847900,https://cft.omni-signage.com/,botnet_cc,Vidar,"mp44s1,Vidar"
-2026-07-10 05:26:57,1847898,https://cft.kencangsm188.top/,botnet_cc,Vidar,"mp44s1,Vidar"
 2026-07-08 07:03:49,1846401,http://144.31.57.70/c0e070fa9435429c8ea5.php,botnet_cc,Stealc,"build,c2,loader,StealC,stealer"
 2026-07-07 23:55:49,1846240,http://160.20.109.75/d19ca32cb5a444ac8b87.php,botnet_cc,Stealc,stealc
 2026-07-05 09:50:45,1844960,http://91.202.233.134/4d95d68e3fc64f3bbbf5.php,botnet_cc,Stealc,stealc
