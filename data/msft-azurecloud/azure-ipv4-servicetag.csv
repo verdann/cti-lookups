@@ -6210,8 +6210,7 @@ AzureCloud,40.120.164.0/23
 AzureCloud,40.120.166.0/24
 AzureCloud,40.120.167.0/26
 AzureCloud,40.120.167.64/27
-AzureCloud,40.120.167.96/30
-AzureCloud,40.120.167.100/31
+AzureCloud,40.120.167.96/29
 AzureCloud,40.120.167.106/31
 AzureCloud,40.120.167.108/30
 AzureCloud,40.120.167.112/28
@@ -6266,7 +6265,7 @@ AzureCloud,40.123.138.200/30
 AzureCloud,40.123.140.0/22
 AzureCloud,40.123.144.0/23
 AzureCloud,40.123.146.0/29
-AzureCloud,40.123.146.8/31
+AzureCloud,40.123.146.8/30
 AzureCloud,40.123.146.14/31
 AzureCloud,40.123.146.16/29
 AzureCloud,40.123.146.24/31
@@ -7219,6 +7218,7 @@ AzureCloud,57.157.24.0/24
 AzureCloud,57.157.25.0/25
 AzureCloud,57.157.25.128/28
 AzureCloud,57.157.25.144/30
+AzureCloud,57.157.25.148/31
 AzureCloud,57.157.28.0/25
 AzureCloud,57.157.28.128/26
 AzureCloud,57.157.28.192/29
@@ -7280,6 +7280,7 @@ AzureCloud,57.157.65.0/25
 AzureCloud,57.157.65.128/26
 AzureCloud,57.157.65.192/28
 AzureCloud,57.157.65.208/29
+AzureCloud,57.157.65.216/31
 AzureCloud,57.157.68.0/23
 AzureCloud,57.157.70.0/24
 AzureCloud,57.157.71.0/28
@@ -7336,7 +7337,7 @@ AzureCloud,57.157.156.32/28
 AzureCloud,57.157.156.48/31
 AzureCloud,57.157.168.0/27
 AzureCloud,57.157.168.32/28
-AzureCloud,57.157.168.48/31
+AzureCloud,57.157.168.48/30
 AzureCloud,57.158.0.0/17
 AzureCloud,57.158.128.0/18
 AzureCloud,57.159.0.0/16
@@ -7790,7 +7791,9 @@ AzureCloud,168.63.156.0/24
 AzureCloud,168.63.160.0/19
 AzureCloud,168.63.192.0/18
 AzureCloud,172.128.0.0/17
-AzureCloud,172.129.0.0/17
+AzureCloud,172.129.0.0/16
+AzureCloud,172.130.0.0/17
+AzureCloud,172.131.0.0/17
 AzureCloud,172.160.0.0/12
 AzureCloud,172.176.0.0/13
 AzureCloud,172.184.0.0/14
@@ -8328,7 +8331,7 @@ AzureCloud.australiasoutheast,52.245.20.0/22
 AzureCloud.australiasoutheast,52.255.32.0/19
 AzureCloud.australiasoutheast,57.157.168.0/27
 AzureCloud.australiasoutheast,57.157.168.32/28
-AzureCloud.australiasoutheast,57.157.168.48/31
+AzureCloud.australiasoutheast,57.157.168.48/30
 AzureCloud.australiasoutheast,57.163.56.0/23
 AzureCloud.australiasoutheast,68.218.160.0/19
 AzureCloud.australiasoutheast,70.152.1.0/24
@@ -9598,7 +9601,7 @@ AzureCloud.centralus,40.120.167.0/26
 AzureCloud.centralus,40.120.167.64/29
 AzureCloud.centralus,40.120.167.72/30
 AzureCloud.centralus,40.120.167.98/31
-AzureCloud.centralus,40.120.167.100/31
+AzureCloud.centralus,40.120.167.100/30
 AzureCloud.centralus,40.120.167.108/30
 AzureCloud.centralus,40.120.167.112/28
 AzureCloud.centralus,40.120.167.128/28
@@ -9953,6 +9956,7 @@ AzureCloud.centralus,168.61.132.0/26
 AzureCloud.centralus,168.61.144.0/20
 AzureCloud.centralus,168.61.160.0/19
 AzureCloud.centralus,168.61.208.0/20
+AzureCloud.centralus,172.131.0.0/17
 AzureCloud.centralus,172.168.0.0/15
 AzureCloud.centralus,172.170.0.0/16
 AzureCloud.centralus,172.171.0.0/19
@@ -11506,7 +11510,7 @@ AzureCloud.eastus2,40.123.145.240/31
 AzureCloud.eastus2,40.123.145.244/30
 AzureCloud.eastus2,40.123.145.248/29
 AzureCloud.eastus2,40.123.146.0/29
-AzureCloud.eastus2,40.123.146.8/31
+AzureCloud.eastus2,40.123.146.8/30
 AzureCloud.eastus2,40.123.146.14/31
 AzureCloud.eastus2,40.123.146.16/29
 AzureCloud.eastus2,40.123.146.24/31
@@ -12489,6 +12493,7 @@ AzureCloud.eastus3,57.157.24.0/24
 AzureCloud.eastus3,57.157.25.0/25
 AzureCloud.eastus3,57.157.25.128/28
 AzureCloud.eastus3,57.157.25.144/30
+AzureCloud.eastus3,57.157.25.148/31
 AzureCloud.eastus3,57.163.32.0/23
 AzureCloud.eastus3,134.138.0.0/17
 AzureCloud.eastus3,135.130.0.0/23
@@ -14134,6 +14139,7 @@ AzureCloud.northcentralus,57.157.65.0/25
 AzureCloud.northcentralus,57.157.65.128/26
 AzureCloud.northcentralus,57.157.65.192/28
 AzureCloud.northcentralus,57.157.65.208/29
+AzureCloud.northcentralus,57.157.65.216/31
 AzureCloud.northcentralus,64.236.128.0/17
 AzureCloud.northcentralus,65.52.0.0/19
 AzureCloud.northcentralus,65.52.48.0/20
@@ -14663,6 +14669,7 @@ AzureCloud.northeurope,168.63.32.0/19
 AzureCloud.northeurope,168.63.64.0/20
 AzureCloud.northeurope,168.63.80.0/21
 AzureCloud.northeurope,168.63.92.0/22
+AzureCloud.northeurope,172.129.128.0/17
 AzureCloud.northeurope,172.205.0.0/17
 AzureCloud.northeurope,191.235.128.0/18
 AzureCloud.northeurope,191.235.192.0/22
@@ -16384,6 +16391,7 @@ AzureCloud.swedencentral,145.190.140.0/24
 AzureCloud.swedencentral,145.190.164.0/24
 AzureCloud.swedencentral,151.206.112.0/24
 AzureCloud.swedencentral,151.206.128.0/24
+AzureCloud.swedencentral,172.130.0.0/17
 AzureCloud.swedencentral,172.160.0.0/16
 AzureCloud.swedensouth,13.105.75.160/27
 AzureCloud.swedensouth,13.105.75.192/28
@@ -21763,6 +21771,9 @@ AzureDevSpaces,52.150.139.144/28
 AzureDevSpaces,52.182.141.128/28
 AzureDevSpaces,52.228.81.224/28
 AzureDevSpaces,104.214.161.48/28
+AzureDeviceUpdate,4.182.154.160/28
+AzureDeviceUpdate,4.229.82.144/28
+AzureDeviceUpdate,4.248.140.192/27
 AzureDeviceUpdate,20.37.71.192/28
 AzureDeviceUpdate,20.38.143.224/28
 AzureDeviceUpdate,20.40.229.32/28
@@ -21772,6 +21783,7 @@ AzureDeviceUpdate,20.46.11.192/28
 AzureDeviceUpdate,20.47.236.192/26
 AzureDeviceUpdate,20.47.237.128/26
 AzureDeviceUpdate,20.48.196.112/28
+AzureDeviceUpdate,20.48.197.192/28
 AzureDeviceUpdate,20.49.119.192/28
 AzureDeviceUpdate,20.51.7.64/26
 AzureDeviceUpdate,20.51.12.64/26
@@ -21834,9 +21846,12 @@ AzureDeviceUpdate,20.205.49.128/26
 AzureDeviceUpdate,20.205.67.192/26
 AzureDeviceUpdate,20.211.71.192/26
 AzureDeviceUpdate,20.212.79.64/26
+AzureDeviceUpdate,20.218.48.224/28
 AzureDeviceUpdate,20.223.64.64/26
 AzureDeviceUpdate,20.228.1.0/26
 AzureDeviceUpdate,40.67.53.144/28
+AzureDeviceUpdate,48.210.103.32/27
+AzureDeviceUpdate,48.210.112.80/28
 AzureDeviceUpdate,51.12.46.112/28
 AzureDeviceUpdate,51.12.74.192/26
 AzureDeviceUpdate,51.12.198.96/28
@@ -21844,6 +21859,7 @@ AzureDeviceUpdate,51.13.137.48/28
 AzureDeviceUpdate,51.107.242.112/28
 AzureDeviceUpdate,51.107.250.224/28
 AzureDeviceUpdate,51.116.54.160/28
+AzureDeviceUpdate,51.116.55.192/27
 AzureDeviceUpdate,51.116.149.192/28
 AzureDeviceUpdate,51.120.233.80/28
 AzureDeviceUpdate,51.138.210.80/28
@@ -21854,9 +21870,13 @@ AzureDeviceUpdate,52.146.136.16/28
 AzureDeviceUpdate,52.146.141.64/26
 AzureDeviceUpdate,52.147.112.192/28
 AzureDeviceUpdate,52.172.113.176/28
+AzureDeviceUpdate,72.144.227.32/27
 AzureDeviceUpdate,102.37.80.176/28
 AzureDeviceUpdate,102.37.160.128/28
 AzureDeviceUpdate,104.46.179.224/28
+AzureDeviceUpdate,145.191.168.224/27
+AzureDeviceUpdate,172.192.226.48/28
+AzureDeviceUpdate,172.192.227.96/27
 AzureDeviceUpdate,191.233.15.240/28
 AzureDeviceUpdate,191.234.142.240/28
 AzureDigitalTwins,4.207.251.102/31
@@ -31831,6 +31851,7 @@ AzureSignalR,135.225.177.32/27
 AzureSignalR,135.233.94.160/27
 AzureSignalR,135.233.94.192/26
 AzureSignalR,135.235.2.192/27
+AzureSignalR,172.129.95.64/26
 AzureSignalR,172.184.37.192/27
 AzureSignalR,172.184.38.0/25
 AzureSignalR,172.188.178.64/27
@@ -41780,6 +41801,7 @@ MicrosoftDefenderForEndpoint,57.167.188.80/28
 MicrosoftDefenderForEndpoint,68.218.120.64/28
 MicrosoftDefenderForEndpoint,74.162.53.32/28
 MicrosoftDefenderForEndpoint,74.243.77.176/28
+MicrosoftDefenderForEndpoint,172.129.100.32/28
 MicrosoftPurviewPolicyDistribution,4.149.115.6/31
 MicrosoftPurviewPolicyDistribution,4.160.58.60/30
 MicrosoftPurviewPolicyDistribution,4.171.41.72/30
