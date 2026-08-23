@@ -1,4 +1,51 @@
 first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
+2026-08-23 02:00:21,1885019,https://jocoaching.life/,payload_delivery,Unknown malware,ClickFix
+2026-08-23 00:40:27,1884825,http://zonxh.shop:7728/orders,botnet_cc,Remus,remus
+2026-08-23 00:40:20,1884823,http://palaera.click:7242/comments,botnet_cc,Remus,remus
+2026-08-23 00:30:21,1884816,https://iconnect.ba/,payload_delivery,Unknown malware,ClickFix
+2026-08-22 23:30:20,1884767,https://www.cristinagregory.com/,payload_delivery,Unknown malware,ClickFix
+2026-08-22 23:00:21,1884752,https://www.aussieauctions.com/,payload_delivery,Unknown malware,ClickFix
+2026-08-22 12:26:16,1884605,https://pullout.ezgateway.net:7443/hype/ws,botnet_cc,HypeAgent,HypeAgent
+2026-08-22 12:22:07,1884601,http://153.117.6.79:34093/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
+2026-08-22 12:22:06,1884602,http://115.48.134.112:38753/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
+2026-08-22 12:22:06,1884603,http://153.117.8.52:40632/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
+2026-08-22 10:30:21,1884318,https://wiede-drive.de/,payload_delivery,Unknown malware,ClickFix
+2026-08-22 09:38:19,1884296,https://cdn.jsdelivr.net/gh/marye4562/rtt76gf84j/re49jmt98,payload_delivery,ClearFake,ClearFake
+2026-08-22 09:04:13,1884081,https://blueberryflowes.com/cdn/static/6b35a07fcd9422f07bc4afa1f1477a8c/update,payload_delivery,Unknown malware,"avalon,crownx,manual-map-loader,msbuild-inline-task,secure-document-iso-lnk"
+2026-08-22 09:04:13,1884082,https://blueberryxcloud.com/cdn/static/f922fe7e2f67b5ff2d80b777a8ae21a6/update,payload_delivery,Unknown malware,"avalon,crownx,manual-map-loader,msbuild-inline-task,secure-document-iso-lnk"
+2026-08-22 09:04:12,1884083,https://orangexhello.com/cdn/static/73e17ee2a837f395bcf6c3287245ff1e/update,payload_delivery,Unknown malware,"avalon,crownx,manual-map-loader,msbuild-inline-task,secure-document-iso-lnk"
+2026-08-22 09:04:10,1884084,https://bananaxhellocloud.com/cdn/static/93c3117acbb2bb38d681d6477ce45947/update,payload_delivery,Unknown malware,"avalon,crownx,manual-map-loader,msbuild-inline-task,secure-document-iso-lnk"
+2026-08-22 09:04:10,1884087,https://brownpeachx.com/cdn/static/eceb2fd8da9abbbbdddd8ac653bfb17a/update,payload_delivery,Unknown malware,"avalon,crownx,manual-map-loader,msbuild-inline-task,secure-document-iso-lnk"
+2026-08-22 09:04:09,1884085,https://blueberryxo.com/cdn/static/506ac61e51034b6b454916791925a053/update,payload_delivery,Unknown malware,"avalon,crownx,manual-map-loader,msbuild-inline-task,secure-document-iso-lnk"
+2026-08-22 09:04:09,1884086,https://watermelonxo.com/cdn/static/f54cf8d9e11ec817d9487a1e61987047/update,payload_delivery,Unknown malware,"avalon,crownx,manual-map-loader,msbuild-inline-task,secure-document-iso-lnk"
+2026-08-22 09:04:07,1884088,https://chillpeachxo.com/cdn/static/1b06efc9d6751d336619c3e7739c9a93/update,payload_delivery,Unknown malware,"avalon,crownx,manual-map-loader,msbuild-inline-task,secure-document-iso-lnk"
+2026-08-22 08:07:07,1884171,https://krem.mesoptik.com/static/modules/,payload_delivery,ClearFake,"ClearFake,ClickFix,ErrTraffic,EtherHiding"
+2026-08-22 07:51:13,1884164,https://cdn.jsdelivr.net/gh/marye4562/hd3y64jd8ryt6q/dh476f7fkr9t,payload_delivery,ClearFake,ClearFake
+2026-08-22 07:51:13,1884165,https://cdn.jsdelivr.net/gh/marye4562/hd3y64jd8ryt6q/dh476f7fkr9t,payload_delivery,ClearFake,ClearFake
+2026-08-22 07:00:31,1883909,http://5.182.210.174/ok,payload_delivery,Unknown malware,"dropper,honeypot,shell-script"
+2026-08-22 07:00:28,1883910,http://5.182.210.174/2c07b9,payload_delivery,Mirai,"elf,honeypot,Mirai,ppc"
+2026-08-22 07:00:28,1883911,http://5.182.210.174/http,payload_delivery,Unknown malware,"elf,honeypot,x86-64"
+2026-08-22 07:00:28,1883912,http://5.182.210.174/5adf18,payload_delivery,Mirai,"elf,honeypot,mips,Mirai"
+2026-08-22 07:00:27,1883913,http://5.182.210.174/9c9b83,payload_delivery,Mirai,"elf,honeypot,Mirai,sh4"
+2026-08-22 07:00:27,1883914,http://5.182.210.174/d9d6f9,payload_delivery,Mirai,"elf,honeypot,Mirai,x86"
+2026-08-22 07:00:26,1883915,http://5.182.210.174/da8d2e,payload_delivery,Mirai,"arm,elf,honeypot,Mirai"
+2026-08-22 07:00:26,1883916,http://5.182.210.174/d95abb,payload_delivery,Mirai,"elf,honeypot,mipsel,Mirai"
+2026-08-22 07:00:25,1883917,http://5.182.210.174/2b85c0,payload_delivery,Mirai,"arm,elf,honeypot,Mirai"
+2026-08-22 07:00:25,1883918,http://5.182.210.174/67eefd,payload_delivery,Mirai,"elf,honeypot,Mirai,sparc"
+2026-08-22 07:00:24,1883919,http://5.182.210.174/f6f76d,payload_delivery,Mirai,"arm,elf,honeypot,Mirai"
+2026-08-22 07:00:24,1883920,http://5.182.210.174/9922af,payload_delivery,Mirai,"elf,honeypot,m68k,Mirai"
+2026-08-22 07:00:24,1883921,http://5.182.210.174/7c899f,payload_delivery,Mirai,"elf,honeypot,Mirai,x86-64"
+2026-08-22 07:00:23,1883906,http://27.216.215.209:55397/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
+2026-08-22 07:00:22,1883907,http://144.48.132.7:50888/Mozi.a,payload_delivery,Mozi,"elf,iot,Mozi"
+2026-08-22 07:00:22,1883908,http://153.117.9.62:60606/Mozi.7,payload_delivery,Mozi,"elf,iot,Mozi"
+2026-08-22 07:00:16,1883898,http://gfoqsewps57xcyxoedle2gd53o6jne6y5nq5eh25muksqwzutzq7b3ad.onion/route.php,botnet_cc,Unknown malware,Efimer
+2026-08-22 07:00:14,1883922,http://5.182.210.174/334215,payload_delivery,Mirai,"arm,elf,honeypot,Mirai"
+2026-08-22 07:00:07,1884020,https://cdn.jsdelivr.net/gh/payphone-blip/flamingo/lola,payload_delivery,Vidar,"ClearFake,ClickFix"
+2026-08-22 07:00:04,1884041,http://91.92.47.97/softbot.mips,payload_delivery,Mirai,"elf,iot"
+2026-08-22 07:00:04,1884042,http://222.138.237.14:38940/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
+2026-08-22 06:59:53,1884147,http://101.53.229.17:41995/Mozi.7,payload_delivery,Mozi,"elf,iot,Mozi"
+2026-08-22 06:00:37,1884140,http://zakuiru.shop:9048/products,botnet_cc,Remus,remus
+2026-08-22 06:00:27,1884139,http://kupzovo.shop:7567/profiles,botnet_cc,Remus,remus
 2026-08-22 00:45:23,1884056,http://zakuiru.shop:9048/comments,botnet_cc,Remus,remus
 2026-08-22 00:45:19,1884055,http://spareon.click:8811/transactions,botnet_cc,Remus,remus
 2026-08-22 00:40:25,1884054,http://spareon.click:8811/categories,botnet_cc,Remus,remus
@@ -81,105 +128,20 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-08-21 06:05:12,1883539,http://153.117.40.47:46730/Mozi.a,payload_delivery,Mozi,"elf,iot,Mozi"
 2026-08-21 05:30:07,1883580,https://faceit-verification.help/,payload_delivery,Unknown malware,ClickFix
 2026-08-21 03:00:07,1883555,https://rblxgivex.com/,payload_delivery,Unknown malware,ClickFix
-2026-08-21 00:10:25,1883536,http://zakuiru.shop:9048/transactions,botnet_cc,Remus,remus
-2026-08-20 23:00:08,1883520,https://apartments-review261634860.sbs/,payload_delivery,Unknown malware,ClickFix
-2026-08-20 22:40:29,1883519,http://zakuiru.shop:9048/documents,botnet_cc,Remus,remus
-2026-08-20 21:00:09,1883508,https://ksr-racingparts.com/,payload_delivery,Unknown malware,ClickFix
-2026-08-20 20:30:10,1883505,https://www.accademiadeiromani.it/,payload_delivery,Unknown malware,ClickFix
-2026-08-20 18:50:19,1883360,http://cleasion.click:8202/reviews,botnet_cc,Remus,remus
-2026-08-20 18:45:43,1883356,https://dev.epicgames.com/community/api/user_profiles/profile.json?hash_id=YmbK,botnet_cc,Vidar,vidar
-2026-08-20 18:45:41,1883355,https://62.238.46.160,botnet_cc,Vidar,vidar
-2026-08-20 18:40:35,1883351,http://zakuiru.shop:9048/exports,botnet_cc,Remus,remus
-2026-08-20 18:40:31,1883350,http://vexdico.shop:8539/messages,botnet_cc,Remus,remus
-2026-08-20 18:40:26,1883349,http://palaera.click:7242/contacts,botnet_cc,Remus,remus
-2026-08-20 18:40:22,1883348,http://kupzovo.shop:7567/folders,botnet_cc,Remus,remus
-2026-08-20 17:30:09,1883228,https://psicopress.com/,payload_delivery,Unknown malware,ClickFix
-2026-08-20 16:29:53,1883197,https://sedgeoriel.co/version/secure-json.js,botnet_cc,SmartApeSG,SmartApeSG
-2026-08-20 16:07:46,1883193,https://hype.activeworkshops.com:9245/hype/ws,botnet_cc,HypeAgent,HypeAgent
-2026-08-20 16:06:59,1883191,https://copperreliquary.info/version/secure-json.js,botnet_cc,SmartApeSG,SmartApeSG
-2026-08-20 15:30:15,1883181,https://zaeroks.website/,payload_delivery,Unknown malware,ClickFix
-2026-08-20 15:30:15,1883182,https://einfach-einfach.digital/,payload_delivery,Unknown malware,ClickFix
-2026-08-20 15:10:59,1883174,https://montoiro.lol/api/v1/verify,payload_delivery,KongTuke,KongTuke
-2026-08-20 15:10:58,1883173,https://montoiro.lol/api/v1/session,payload_delivery,KongTuke,KongTuke
-2026-08-20 15:10:56,1883175,https://montoiro.lol/api/v1/status,payload_delivery,KongTuke,KongTuke
-2026-08-20 15:10:56,1883176,https://sheltercirrus.com/2kqYRM0DCrnyJgoS4gVLl_FHJRRdTUhGCbjyuYwpZ6c/oo9/update,payload_delivery,IClickFix,None
-2026-08-20 15:10:55,1883177,https://grove-satin.com/api/metrics/run?event=pasted,payload_delivery,IClickFix,None
-2026-08-20 15:10:54,1883178,https://filevegatech.com,payload_delivery,IClickFix,None
 2026-08-20 14:32:37,1883157,http://2.26.136.128/twget.sh,payload_delivery,Unknown malware,dropper
 2026-08-20 14:32:36,1883158,http://45.150.195.235/twget.sh,payload_delivery,Unknown malware,dropper
 2026-08-20 14:32:36,1883159,http://115.41.97.143:65419/lvn3/eU,payload_delivery,Unknown malware,dropper
 2026-08-20 14:32:35,1883160,tftp://115.41.97.143:69/yCz31g9,payload_delivery,Unknown malware,dropper
 2026-08-20 14:32:34,1883161,ftp://185.93.89.72/ftpget,payload_delivery,Unknown malware,dropper
 2026-08-20 14:32:34,1883162,tftp://185.93.89.72:69/tftp,payload_delivery,Unknown malware,dropper
-2026-08-20 14:17:46,1883155,http://kerosand.net:3847/api/agent/script,botnet_cc,Unknown malware,None
-2026-08-20 14:10:45,1883150,https://guirreiro.lol/api/v1/session,payload_delivery,KongTuke,KongTuke
-2026-08-20 14:10:37,1883151,https://guirreiro.lol/api/v1/verify,payload_delivery,KongTuke,KongTuke
-2026-08-20 14:10:37,1883152,https://guirreiro.lol/api/v1/status,payload_delivery,KongTuke,KongTuke
-2026-08-20 14:00:11,1883145,https://fibre-industries.de/,payload_delivery,Unknown malware,ClickFix
-2026-08-20 13:30:08,1883138,https://serve2lead.com/,payload_delivery,Unknown malware,ClickFix
 2026-08-20 13:15:01,1883092,http://31.77.228.40/,botnet_cc,Stealc,"c2,loader,NEWTEST,StealC,stealer"
-2026-08-20 13:14:59,1883108,http://91.92.47.97/bins/wget.sh,payload_delivery,Mirai,"elf,iot"
 2026-08-20 13:14:57,1883118,http://178.16.52.8/,botnet_cc,Stealc,"c2,loader,StealC,stealer,test_2"
-2026-08-20 13:14:57,1883123,https://anguiano.study/api/v1/status,payload_delivery,KongTuke,KongTuke
-2026-08-20 12:51:44,1883117,https://fdrv.beeyuskincare.co.nz/download.php/Complete_Package_Inspection_And_Damage_Verification_Mp4,payload_delivery,Unknown Stealer,stealer
-2026-08-20 12:23:23,1883110,http://noveclo.click:8654/subscriptions,botnet_cc,Remus,remus
-2026-08-20 12:23:23,1883111,http://cleasion.click:8202/sessions,botnet_cc,Remus,remus
-2026-08-20 11:30:09,1883104,https://freedomfamiliesfoundation.org/,payload_delivery,Unknown malware,ClickFix
-2026-08-20 09:28:27,1883063,https://brr.sm188daftar.mom/,botnet_cc,Vidar,Vidar
-2026-08-20 09:28:27,1883064,https://sto.sm188daftar.mom/,botnet_cc,Vidar,Vidar
-2026-08-20 09:28:27,1883065,https://rex.sm188daftar.mom/,botnet_cc,Vidar,Vidar
-2026-08-20 09:28:27,1883066,https://bib.sm188daftar.mom/,botnet_cc,Vidar,Vidar
-2026-08-20 09:28:26,1883059,https://ses.sm188daftar.mom/,botnet_cc,Vidar,Vidar
-2026-08-20 09:28:26,1883060,https://nhg.sm188daftar.mom/,botnet_cc,Vidar,Vidar
-2026-08-20 09:28:26,1883061,https://ges.sm188daftar.mom/,botnet_cc,Vidar,Vidar
-2026-08-20 09:28:26,1883062,https://kra.sm188daftar.mom/,botnet_cc,Vidar,Vidar
-2026-08-20 09:28:25,1883055,https://62.238.106.96/,botnet_cc,Vidar,Vidar
-2026-08-20 09:28:25,1883056,https://2.29.13.241/,botnet_cc,Vidar,Vidar
-2026-08-20 09:28:25,1883057,https://2.29.7.186/,botnet_cc,Vidar,Vidar
-2026-08-20 09:28:25,1883058,https://158.94.210.96/,botnet_cc,Vidar,Vidar
-2026-08-20 09:28:24,1883053,https://ryr.1131gg.org/,botnet_cc,Vidar,Vidar
-2026-08-20 09:28:24,1883054,https://guc.1131gg.org/,botnet_cc,Vidar,Vidar
-2026-08-20 09:02:57,1883045,https://d34auolpreyu24.cloudfront.net/jquery-3.3.1.min.js,botnet_cc,Cobalt Strike,None
-2026-08-20 08:54:27,1883033,https://20.6.97.231/async/newtab_promos,botnet_cc,Cobalt Strike,None
-2026-08-20 08:54:27,1883035,https://20.6.97.231/async/ddljson,botnet_cc,Cobalt Strike,None
-2026-08-20 08:54:26,1883034,https://20.6.97.231/async/newtab_ogb,botnet_cc,Cobalt Strike,None
-2026-08-20 08:54:25,1883036,https://20.6.97.231/service/update2/json,botnet_cc,Cobalt Strike,None
-2026-08-20 08:54:24,1883037,https://20.6.97.231/gen_204,botnet_cc,Cobalt Strike,None
-2026-08-20 08:48:23,1883038,http://gofkaxz.click:8137/transactions,botnet_cc,Remus,remus
-2026-08-20 08:48:23,1883039,http://tokjoza.shop:5200/posts,botnet_cc,Remus,remus
-2026-08-20 08:48:06,1883030,https://ntc-redirect.akamai-live.workers.dev/compare/v1.44/,botnet_cc,Cobalt Strike,None
-2026-08-20 08:17:15,1883024,http://broadswordcallingdannyboy.com:4219,botnet_cc,Remus,remus
-2026-08-20 06:49:10,1882981,https://taliy.sbs/auth,payload_delivery,Unknown malware,ClickFix
-2026-08-20 06:46:50,1882980,https://tradegenius.sbs/auth,payload_delivery,Unknown malware,ClickFix
-2026-08-20 06:20:15,1882967,http://190.196.253.119:10701/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
-2026-08-20 06:20:14,1882968,http://223.123.44.122:42812/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
-2026-08-20 06:20:13,1882969,http://103.176.16.59:34532/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
-2026-08-20 06:20:13,1882970,http://116.140.6.114:46743/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
-2026-08-20 06:20:12,1882971,http://103.225.191.202:34773/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
-2026-08-20 06:20:12,1882972,http://153.117.40.170:44217/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
-2026-08-20 06:20:11,1882973,http://110.186.229.108:47843/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
-2026-08-20 06:20:11,1882974,http://115.57.182.131:41041/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
-2026-08-20 06:20:09,1882975,http://183.63.8.194:46154/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
-2026-08-20 06:05:43,1882944,https://api.telegram.org/bot8758444991:AAFF69OIaaE8t3nxSJfNYHB1J5BXA71IuyI/,botnet_cc,Agent Tesla,"agenttesla,c2"
-2026-08-20 05:30:07,1882863,https://zaerkos.rest/,payload_delivery,Unknown malware,ClickFix
-2026-08-20 05:30:07,1882864,https://proclean-ci.com/,payload_delivery,Unknown malware,ClickFix
-2026-08-20 05:12:18,1882728,https://anguiano.study/api/v1/verify,payload_delivery,KongTuke,KongTuke
-2026-08-20 05:12:17,1882727,https://anguiano.study/api/v1/session,payload_delivery,KongTuke,KongTuke
-2026-08-20 05:12:09,1882784,https://subscontract.axisstone.de/bidnow/,botnet_cc,ClearFake,nakedpages
-2026-08-20 05:12:08,1882785,https://biddingdossierrfi.com/?95e41d41,botnet_cc,ClearFake,nakedpages
-2026-08-20 05:12:07,1882797,http://193.148.56.226/,botnet_cc,Stealc,"c2,loader,Lud,StealC,stealer"
-2026-08-20 03:30:07,1882839,https://sci-lumiere.ci/,payload_delivery,Unknown malware,ClickFix
-2026-08-20 03:27:15,1882838,http://kupzovo.shop:7567/webhooks,botnet_cc,Remus,remus
 2026-08-19 09:26:26,1881850,https://ket.sm188daftar.mom/,botnet_cc,Vidar,"Vidar,x4tte"
 2026-08-19 09:25:05,1881849,https://ket.sm188dadu.top/,botnet_cc,Vidar,vidar
 2026-08-19 09:20:05,1881817,https://ket.1131gg.org/,botnet_cc,Vidar,vidar
-2026-08-19 06:05:25,1881418,https://62.238.98.35,botnet_cc,Vidar,"592a9e009f92c0e8eaea74a337b4f67c,c2,loader,stealer,Vidar"
 2026-08-19 06:05:05,1881592,https://ljr.1001gacor.org,botnet_cc,Vidar,"903ac24fcd9670b9ef2e674243d550d8,c2,loader,stealer,Vidar"
-2026-08-19 02:26:16,1881581,https://bob.sm188daftar.mom/,botnet_cc,Vidar,"Vidar,x4tte"
-2026-08-19 00:26:21,1881549,https://ljr.sm188daftar.mom/,botnet_cc,Vidar,"Vidar,x4tte"
 2026-08-18 14:03:07,1880849,https://bob.1001gacor.org,botnet_cc,Vidar,"903ac24fcd9670b9ef2e674243d550d8,c2,loader,stealer,Vidar"
 2026-08-18 07:04:33,1878812,https://62.238.57.58/,botnet_cc,Vidar,Vidar
-2026-08-18 07:04:33,1878815,https://62.238.107.2/,botnet_cc,Vidar,Vidar
 2026-08-18 07:04:30,1878804,https://www.pinterest.com/m1duus/,botnet_cc,Vidar,Vidar
 2026-08-17 10:05:22,1877763,https://svhost-update-service.casa/,botnet_cc,Stealc,"c2,loader,PG,StealC,stealer"
 2026-08-17 08:00:26,1877688,http://158.94.210.108/,botnet_cc,Stealc,"c2,loader,StealC,stealer,userr"
@@ -197,9 +159,11 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-08-12 17:32:13,1873147,http://160.20.109.16/,botnet_cc,Stealc,"bot2,c2,loader,StealC,stealer"
 2026-08-12 17:32:12,1873148,http://95.135.181.73/,botnet_cc,Stealc,"c2,loader,Mewwski,StealC,stealer"
 2026-08-12 17:32:12,1873149,http://178.16.52.90/,botnet_cc,Stealc,"c2,loader,Private,StealC,stealer"
-2026-08-12 17:32:09,1873152,http://91.92.242.73/,botnet_cc,Stealc,"c2,default,loader,StealC,stealer"
-2026-08-11 06:32:15,1872071,http://46.151.182.189/,botnet_cc,Stealc,Stealc
-2026-08-10 10:50:39,1871643,http://beljaro.shop:2536/invoices,botnet_cc,Remus,remus
+2026-08-12 07:50:21,1872634,http://91.92.242.236/success?substr=mixfive&s=three&sub=nn,botnet_cc,GCleaner,GCleaner
+2026-08-12 07:50:20,1872630,http://91.92.242.236/info,botnet_cc,GCleaner,GCleaner
+2026-08-12 07:50:20,1872631,http://91.92.242.236/update,botnet_cc,GCleaner,GCleaner
+2026-08-12 07:50:20,1872632,http://91.92.242.236/service,botnet_cc,GCleaner,GCleaner
+2026-08-12 07:50:20,1872633,http://91.92.242.236/ycl,botnet_cc,GCleaner,GCleaner
 2026-08-10 08:19:14,1871555,https://78.47.230.34/,botnet_cc,Vidar,Vidar
 2026-08-10 08:19:13,1871548,https://89.167.18.40/,botnet_cc,Vidar,Vidar
 2026-08-10 08:19:09,1871526,https://steamcommunity.com/profiles/76561198660175584,botnet_cc,Vidar,Vidar
@@ -223,26 +187,23 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-08-03 08:50:18,1867657,https://steamcommunity.com/profiles/76561198667588759,botnet_cc,Vidar,Vidar
 2026-08-03 08:50:18,1867658,https://t.me/x0xprs,botnet_cc,Vidar,Vidar
 2026-07-30 19:37:16,1864968,https://t.me/gk6p2s,botnet_cc,Vidar,"e99set,Vidar"
-2026-07-28 08:37:26,1861477,https://193.111.117.131,botnet_cc,Vidar,"c2,f3f52941b868d54e7936351d349364fb,loader,stealer,Vidar"
 2026-07-24 13:50:06,1856791,https://sup.merahsm188.top/,botnet_cc,Vidar,vidar
 2026-07-22 08:06:59,1855202,http://vriclactrina.cz/index.php,botnet_cc,SmokeLoader,"c2,SmokeLoader"
 2026-07-20 07:50:47,1854098,https://t.me/np33yk,botnet_cc,Vidar,Vidar
+2026-07-20 07:50:47,1854099,https://steamcommunity.com/profiles/76561198671804195,botnet_cc,Vidar,Vidar
 2026-07-17 11:10:08,1852802,https://okx.kliksm188.top/,botnet_cc,Vidar,vidar
-2026-07-15 07:13:44,1850832,https://telegram.me/r7t3at,botnet_cc,Vidar,Vidar
-2026-07-15 07:13:44,1850833,https://steamcommunity.com/profiles/76561198674661449,botnet_cc,Vidar,Vidar
 2026-07-10 13:27:05,1848061,https://bdm.kencangsm188.top/,botnet_cc,Vidar,"mp44s1,Vidar"
+2026-07-06 06:50:10,1845356,https://steamcommunity.com/profiles/76561198677476289,botnet_cc,Vidar,Vidar
+2026-07-06 06:50:10,1845357,https://telegram.me/w09ksp,botnet_cc,Vidar,Vidar
 2026-07-05 09:50:45,1844960,http://91.202.233.134/4d95d68e3fc64f3bbbf5.php,botnet_cc,Stealc,stealc
 2026-06-29 09:44:44,1839209,https://91.98.87.85/,botnet_cc,Vidar,Vidar
 2026-06-26 12:25:15,1838123,https://k1h.hopesm188.top/,botnet_cc,Vidar,"k5yss1,Vidar"
-2026-06-22 09:09:14,1835532,https://5.75.221.125/,botnet_cc,Vidar,Vidar
-2026-06-22 07:16:18,1835409,https://178.104.255.247/,botnet_cc,Vidar,Vidar
+2026-06-22 09:09:14,1835533,https://91.98.109.24/,botnet_cc,Vidar,Vidar
 2026-06-22 07:16:17,1835401,https://steamcommunity.com/profiles/76561198684471717,botnet_cc,Vidar,Vidar
 2026-06-22 07:16:17,1835402,https://telegram.me/t0mdr,botnet_cc,Vidar,Vidar
-2026-06-16 07:24:35,1832578,https://178.105.230.82/,botnet_cc,Vidar,Vidar
 2026-06-15 06:12:37,1832235,https://steamcommunity.com/profiles/76561198689449626,botnet_cc,Vidar,Vidar
 2026-06-15 06:12:37,1832236,https://telegram.me/turb00m,botnet_cc,Vidar,Vidar
 2026-06-14 10:39:38,1831946,https://217.60.195.113/sh,payload_delivery,RedTail,"cve-2024-4577,docker-api,redtail"
-2026-06-08 09:51:50,1824944,https://telegram.me/d77xtr,botnet_cc,Vidar,Vidar
 2026-06-06 05:24:31,1823853,https://pas.sm188star.top/,botnet_cc,Vidar,"ar3k0,Vidar"
 2026-06-03 18:58:52,1821983,http://178.16.54.109/sodola,payload_delivery,Phorpiex,"Download,Phorpiex"
 2026-05-29 15:30:50,1819843,https://mub.depansm188.top/,botnet_cc,Vidar,vidar
@@ -255,6 +216,8 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-05-01 14:30:24,1803671,https://frr.ambil-disini.web.id/,botnet_cc,Vidar,vidar
 2026-04-26 19:14:08,1800528,http://pillow.riverbridge.site,botnet_cc,Vidar,"ipocalur,Vidar"
 2026-04-26 18:11:00,1800411,http://91.92.242.236/oPvjr94jfe/index.php,botnet_cc,Amadey,"54e64e,amadey,c2"
+2026-04-26 18:10:21,1800502,https://tabbysbakescodes.ws/mnlinmwv/insirs.php,botnet_cc,Unknown malware,CNBackdoor
+2026-04-26 18:10:20,1800501,https://tommysbakescodes.ws/mnlinmwv/insris.php,botnet_cc,Unknown malware,CNBackdoor
 2026-04-24 15:18:01,1797247,https://psy.flise-mesteren.dk/,botnet_cc,Vidar,"r88vry,Vidar"
 2026-04-23 04:45:34,1796426,http://196.251.107.248/kont2rt/index.php,botnet_cc,Amadey,Amadey
 2026-04-22 11:17:09,1796067,http://wrath.bottlevacuum.shop,botnet_cc,Vidar,"opiusra,Vidar"
@@ -329,3 +292,6 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2024-03-22 19:47:18,1248363,https://titnovacrion.top/live/,botnet_cc,Unidentified 111 (Latrodectus),None
 2024-03-11 18:05:31,1245707,https://scifimond.com/live/,botnet_cc,Unidentified 111 (Latrodectus),latrodectus
 2024-01-16 08:13:32,1230963,https://65.21.187.53/,botnet_cc,Vidar,Vidar
+2023-09-04 07:03:19,1155038,http://65.109.229.201/sp1.zip,botnet_cc,Vidar,Vidar
+2023-08-28 15:41:43,1152491,https://steamcommunity.com/profiles/76561199545993403,botnet_cc,Vidar,Vidar
+2023-08-28 15:41:43,1152492,https://t.me/vogogor,botnet_cc,Vidar,Vidar
