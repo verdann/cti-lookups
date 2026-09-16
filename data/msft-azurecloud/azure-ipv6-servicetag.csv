@@ -3790,6 +3790,7 @@ AzureCloud.centralus,2603:1030:9:b8::/63
 AzureCloud.centralus,2603:1030:9:bb::/64
 AzureCloud.centralus,2603:1030:9:bc::/62
 AzureCloud.centralus,2603:1030:9:c0::/60
+AzureCloud.centralus,2603:1030:9:d2::/64
 AzureCloud.centralus,2603:1030:9:d6::/63
 AzureCloud.centralus,2603:1030:9:d8::/61
 AzureCloud.centralus,2603:1030:9:e0::/59
@@ -4040,6 +4041,7 @@ AzureCloud.centraluseuap,2603:1030:9:16::/64
 AzureCloud.centraluseuap,2603:1030:9:b1::/64
 AzureCloud.centraluseuap,2603:1030:9:b6::/64
 AzureCloud.centraluseuap,2603:1030:9:ba::/64
+AzureCloud.centraluseuap,2603:1030:9:d0::/64
 AzureCloud.centraluseuap,2603:1030:9:101::/64
 AzureCloud.centraluseuap,2603:1030:9:102::/63
 AzureCloud.centraluseuap,2603:1030:9:110::/64
@@ -4058,6 +4060,7 @@ AzureCloud.centraluseuap,2603:1030:9:2a5::/64
 AzureCloud.centraluseuap,2603:1030:9:2c3::/64
 AzureCloud.centraluseuap,2603:1030:9:2ce::/63
 AzureCloud.centraluseuap,2603:1030:9:2d0::/62
+AzureCloud.centraluseuap,2603:1030:9:2e2::/63
 AzureCloud.centraluseuap,2603:1030:9:315::/64
 AzureCloud.centraluseuap,2603:1030:9:316::/63
 AzureCloud.centraluseuap,2603:1030:9:318::/64
@@ -4327,10 +4330,7 @@ AzureCloud.eastus2,2603:1030:401:50::/61
 AzureCloud.eastus2,2603:1030:401:58::/64
 AzureCloud.eastus2,2603:1030:401:5a::/63
 AzureCloud.eastus2,2603:1030:401:5c::/62
-AzureCloud.eastus2,2603:1030:401:60::/62
-AzureCloud.eastus2,2603:1030:401:64::/64
-AzureCloud.eastus2,2603:1030:401:6b::/64
-AzureCloud.eastus2,2603:1030:401:6c::/62
+AzureCloud.eastus2,2603:1030:401:60::/60
 AzureCloud.eastus2,2603:1030:401:70::/62
 AzureCloud.eastus2,2603:1030:401:75::/64
 AzureCloud.eastus2,2603:1030:401:76::/63
@@ -4499,6 +4499,7 @@ AzureCloud.eastus2,2603:1030:401:439::/64
 AzureCloud.eastus2,2603:1030:401:43a::/63
 AzureCloud.eastus2,2603:1030:401:43c::/63
 AzureCloud.eastus2,2603:1030:401:43e::/64
+AzureCloud.eastus2,2603:1030:401:440::/62
 AzureCloud.eastus2,2603:1030:401:44b::/64
 AzureCloud.eastus2,2603:1030:401:44c::/62
 AzureCloud.eastus2,2603:1030:401:45c::/62
@@ -4964,6 +4965,7 @@ AzureCloud.eastus2euap,2603:1030:401:8aa::/63
 AzureCloud.eastus2euap,2603:1030:401:8ac::/64
 AzureCloud.eastus2euap,2603:1030:401:8b6::/63
 AzureCloud.eastus2euap,2603:1030:401:8b8::/63
+AzureCloud.eastus2euap,2603:1030:401:8ec::/63
 AzureCloud.eastus2euap,2603:1030:401:90e::/64
 AzureCloud.eastus2euap,2603:1030:401:926::/64
 AzureCloud.eastus2euap,2603:1030:401:9c7::/64
@@ -5036,10 +5038,8 @@ AzureCloud.eastus3,2603:1036:3000:260::/59
 AzureCloud.eastus3,2603:1037:1:2e0::/59
 AzureCloud.eastus3,2603:1061:101a::/57
 AzureCloud.eastus3,2603:1061:101a:80::/58
-AzureCloud.eastus3,2603:1061:101a:c0::/60
-AzureCloud.eastus3,2603:1061:101a:d0::/61
-AzureCloud.eastus3,2603:1061:101a:d8::/62
-AzureCloud.eastus3,2603:1061:101a:dc::/63
+AzureCloud.eastus3,2603:1061:101a:c0::/59
+AzureCloud.eastus3,2603:1061:101a:e0::/64
 AzureCloud.eastus3,2603:1061:1312:4000::/54
 AzureCloud.eastus3,2603:1061:174c::/62
 AzureCloud.eastus3,2603:1061:2011:47::/64
@@ -5192,6 +5192,8 @@ AzureCloud.israelcentral,2603:1061:1007::/57
 AzureCloud.israelcentral,2603:1061:1007:80::/58
 AzureCloud.israelcentral,2603:1061:1007:c0::/59
 AzureCloud.israelcentral,2603:1061:1007:e0::/60
+AzureCloud.israelcentral,2603:1061:1007:f0::/63
+AzureCloud.israelcentral,2603:1061:1007:f2::/64
 AzureCloud.israelcentral,2603:1061:1310:800::/54
 AzureCloud.israelcentral,2603:1061:1737::/48
 AzureCloud.israelcentral,2603:1061:2000:720::/62
@@ -5869,7 +5871,10 @@ AzureCloud.polandcentral,2603:1061:1006::/56
 AzureCloud.polandcentral,2603:1061:1006:100::/58
 AzureCloud.polandcentral,2603:1061:1006:140::/59
 AzureCloud.polandcentral,2603:1061:1006:160::/60
-AzureCloud.polandcentral,2603:1061:1006:170::/62
+AzureCloud.polandcentral,2603:1061:1006:170::/61
+AzureCloud.polandcentral,2603:1061:1006:178::/62
+AzureCloud.polandcentral,2603:1061:1006:17c::/63
+AzureCloud.polandcentral,2603:1061:1006:17e::/64
 AzureCloud.polandcentral,2603:1061:1311:3000::/54
 AzureCloud.polandcentral,2603:1061:1735::/48
 AzureCloud.polandcentral,2603:1061:2000:6a0::/62
@@ -16396,6 +16401,8 @@ OneDsCollector,2603:1010:304:5::5c0/122
 OneDsCollector,2603:1010:404:5::780/122
 OneDsCollector,2603:1020:5:9::2c0/122
 OneDsCollector,2603:1020:206:b::3c0/122
+OneDsCollector,2603:1020:206:34::1d0/124
+OneDsCollector,2603:1020:206:34::1e0/123
 OneDsCollector,2603:1020:605:3::2c0/122
 OneDsCollector,2603:1020:705:3::4c0/122
 OneDsCollector,2603:1020:805:3::300/122
@@ -16404,6 +16411,7 @@ OneDsCollector,2603:1020:a04:3::780/122
 OneDsCollector,2603:1020:b04:2::7c0/122
 OneDsCollector,2603:1020:c04:5::180/122
 OneDsCollector,2603:1020:d04:5::6c0/122
+OneDsCollector,2603:1020:d04:e::260/123
 OneDsCollector,2603:1020:e04:4::680/122
 OneDsCollector,2603:1020:f04:6::6c0/122
 OneDsCollector,2603:1020:1004:3::740/122
@@ -16416,6 +16424,8 @@ OneDsCollector,2603:1030:10:b::2c0/122
 OneDsCollector,2603:1030:104:3::100/122
 OneDsCollector,2603:1030:107:2::1c0/122
 OneDsCollector,2603:1030:210:d::6c0/122
+OneDsCollector,2603:1030:210:47::4a0/123
+OneDsCollector,2603:1030:210:47::4c0/124
 OneDsCollector,2603:1030:302:1::40/122
 OneDsCollector,2603:1030:40b:8::380/122
 OneDsCollector,2603:1030:40c:d::440/122
