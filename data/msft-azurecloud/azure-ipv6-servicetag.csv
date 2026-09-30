@@ -910,6 +910,7 @@ AzureAppService,2603:1030:f05:402::a0/123
 AzureAppService,2603:1030:f05:802::a0/123
 AzureAppService,2603:1030:f05:c02::a0/123
 AzureAppService,2603:1030:1005:2::400/118
+AzureAppService,2603:1030:1005:13::400/120
 AzureAppService,2603:1030:1005:402::a0/123
 AzureAppService,2603:1030:1102:1::700/120
 AzureAppService,2603:1030:1202:1::600/120
@@ -1376,6 +1377,8 @@ AzureAttestation,2603:1030:c06:2b::e0/124
 AzureAttestation,2603:1030:f05:14::120/124
 AzureAttestation,2603:1030:1005:3::1e0/124
 AzureAttestation,2603:1030:1005:f::3f0/124
+AzureAttestation,2603:1030:1005:13::23c/126
+AzureAttestation,2603:1030:1005:13::270/125
 AzureAttestation,2603:1030:1102::540/124
 AzureAttestation,2603:1030:1102:6::2d0/124
 AzureAttestation,2603:1030:1202::540/124
@@ -1390,6 +1393,8 @@ AzureAttestation,2603:1030:1602::7a0/124
 AzureAttestation,2603:1030:1602:5::530/124
 AzureAttestation,2603:1030:1702::760/124
 AzureAttestation,2603:1030:1702:5::600/124
+AzureAttestation,2603:1030:1702:7::20c/126
+AzureAttestation,2603:1030:1702:7::280/125
 AzureAttestation,2603:1040:5:1e::40/124
 AzureAttestation,2603:1040:207:1::4c0/124
 AzureAttestation,2603:1040:207:15::3e0/124
@@ -1435,8 +1440,12 @@ AzureAttestation,2603:1040:1904::760/124
 AzureAttestation,2603:1040:1904:6::200/124
 AzureAttestation,2603:1040:1a02::760/124
 AzureAttestation,2603:1040:1a02:5::6d0/124
+AzureAttestation,2603:1040:1a02:7::394/126
+AzureAttestation,2603:1040:1a02:7::3a0/125
 AzureAttestation,2603:1040:1b02::760/124
 AzureAttestation,2603:1040:1b02:5::320/124
+AzureAttestation,2603:1040:1b02:6::570/126
+AzureAttestation,2603:1040:1b02:6::578/125
 AzureAttestation,2603:1050:6:10::230/124
 AzureAttestation,2603:1050:301::540/124
 AzureAttestation,2603:1050:301:7::430/124
@@ -3793,7 +3802,7 @@ AzureCloud.centralus,2603:1030:9:bc::/62
 AzureCloud.centralus,2603:1030:9:c0::/60
 AzureCloud.centralus,2603:1030:9:d1::/64
 AzureCloud.centralus,2603:1030:9:d2::/64
-AzureCloud.centralus,2603:1030:9:d6::/63
+AzureCloud.centralus,2603:1030:9:d4::/62
 AzureCloud.centralus,2603:1030:9:d8::/61
 AzureCloud.centralus,2603:1030:9:e0::/59
 AzureCloud.centralus,2603:1030:9:100::/64
@@ -3845,6 +3854,7 @@ AzureCloud.centralus,2603:1030:9:2cc::/63
 AzureCloud.centralus,2603:1030:9:2d4::/62
 AzureCloud.centralus,2603:1030:9:2d8::/61
 AzureCloud.centralus,2603:1030:9:2e0::/63
+AzureCloud.centralus,2603:1030:9:2e4::/62
 AzureCloud.centralus,2603:1030:9:2e8::/61
 AzureCloud.centralus,2603:1030:9:2f0::/60
 AzureCloud.centralus,2603:1030:9:300::/60
@@ -4158,9 +4168,8 @@ AzureCloud.chilec,2603:105c:2:c200::/55
 AzureCloud.chilec,2603:1061:1013::/57
 AzureCloud.chilec,2603:1061:1013:80::/59
 AzureCloud.chilec,2603:1061:1013:a0::/60
-AzureCloud.chilec,2603:1061:1013:b0::/62
-AzureCloud.chilec,2603:1061:1013:b4::/63
-AzureCloud.chilec,2603:1061:1013:b6::/64
+AzureCloud.chilec,2603:1061:1013:b0::/61
+AzureCloud.chilec,2603:1061:1013:b8::/64
 AzureCloud.chilec,2603:1061:1315:c00::/54
 AzureCloud.chilec,2603:1061:170b::/48
 AzureCloud.chilec,2603:1061:2002:d000::/57
@@ -4736,6 +4745,9 @@ AzureCloud.eastus2,2603:1030:401:afd::/64
 AzureCloud.eastus2,2603:1030:401:afe::/63
 AzureCloud.eastus2,2603:1030:401:b00::/60
 AzureCloud.eastus2,2603:1030:401:b10::/61
+AzureCloud.eastus2,2603:1030:401:b1f::/64
+AzureCloud.eastus2,2603:1030:401:b20::/62
+AzureCloud.eastus2,2603:1030:401:b24::/64
 AzureCloud.eastus2,2603:1030:402::/47
 AzureCloud.eastus2,2603:1030:406::/47
 AzureCloud.eastus2,2603:1030:408::/48
@@ -4885,6 +4897,7 @@ AzureCloud.eastus2euap,2603:1030:401:448::/63
 AzureCloud.eastus2euap,2603:1030:401:44a::/64
 AzureCloud.eastus2euap,2603:1030:401:450::/61
 AzureCloud.eastus2euap,2603:1030:401:458::/62
+AzureCloud.eastus2euap,2603:1030:401:46c::/62
 AzureCloud.eastus2euap,2603:1030:401:47a::/63
 AzureCloud.eastus2euap,2603:1030:401:47c::/62
 AzureCloud.eastus2euap,2603:1030:401:480::/63
@@ -4989,7 +5002,9 @@ AzureCloud.eastus2euap,2603:1030:401:ac4::/64
 AzureCloud.eastus2euap,2603:1030:401:ae9::/64
 AzureCloud.eastus2euap,2603:1030:401:aea::/64
 AzureCloud.eastus2euap,2603:1030:401:afc::/64
-AzureCloud.eastus2euap,2603:1030:401:b18::/64
+AzureCloud.eastus2euap,2603:1030:401:b18::/62
+AzureCloud.eastus2euap,2603:1030:401:b1c::/63
+AzureCloud.eastus2euap,2603:1030:401:b1e::/64
 AzureCloud.eastus2euap,2603:1030:405::/48
 AzureCloud.eastus2euap,2603:1030:409::/48
 AzureCloud.eastus2euap,2603:1030:40a::/64
@@ -5045,7 +5060,8 @@ AzureCloud.eastus3,2603:1037:1:2e0::/59
 AzureCloud.eastus3,2603:1061:101a::/57
 AzureCloud.eastus3,2603:1061:101a:80::/58
 AzureCloud.eastus3,2603:1061:101a:c0::/59
-AzureCloud.eastus3,2603:1061:101a:e0::/64
+AzureCloud.eastus3,2603:1061:101a:e0::/63
+AzureCloud.eastus3,2603:1061:101a:e2::/64
 AzureCloud.eastus3,2603:1061:1312:4000::/54
 AzureCloud.eastus3,2603:1061:174c::/62
 AzureCloud.eastus3,2603:1061:2011:47::/64
@@ -5143,10 +5159,10 @@ AzureCloud.indiasouthcentral,2603:1046:a00:60::/64
 AzureCloud.indiasouthcentral,2603:1046:2000:2a0::/59
 AzureCloud.indiasouthcentral,2603:1047:1:240::/59
 AzureCloud.indiasouthcentral,2603:1061:101b::/57
-AzureCloud.indiasouthcentral,2603:1061:101b:80::/60
-AzureCloud.indiasouthcentral,2603:1061:101b:90::/61
-AzureCloud.indiasouthcentral,2603:1061:101b:98::/62
-AzureCloud.indiasouthcentral,2603:1061:101b:9c::/64
+AzureCloud.indiasouthcentral,2603:1061:101b:80::/59
+AzureCloud.indiasouthcentral,2603:1061:101b:a0::/60
+AzureCloud.indiasouthcentral,2603:1061:101b:b0::/63
+AzureCloud.indiasouthcentral,2603:1061:101b:b2::/64
 AzureCloud.indiasouthcentral,2603:1061:1310:5400::/54
 AzureCloud.indiasouthcentral,2603:1061:1741::/48
 AzureCloud.indiasouthcentral,2603:1061:2010:41::/64
@@ -6325,8 +6341,9 @@ AzureCloud.southeastus5,2603:1030:1504::/47
 AzureCloud.southeastus5,2603:1036:3000:2a0::/59
 AzureCloud.southeastus5,2603:1037:1:2a0::/59
 AzureCloud.southeastus5,2603:1061:1019::/56
-AzureCloud.southeastus5,2603:1061:1019:100::/62
-AzureCloud.southeastus5,2603:1061:1019:104::/64
+AzureCloud.southeastus5,2603:1061:1019:100::/59
+AzureCloud.southeastus5,2603:1061:1019:120::/60
+AzureCloud.southeastus5,2603:1061:1019:130::/64
 AzureCloud.southeastus5,2603:1061:1312:5c00::/54
 AzureCloud.southeastus5,2603:1061:174b::/63
 AzureCloud.southeastus5,2603:1063:2202:74::/64
@@ -8306,6 +8323,7 @@ AzureDataExplorerManagement,2603:1030:c06:400::950/124
 AzureDataExplorerManagement,2603:1030:f05::600/121
 AzureDataExplorerManagement,2603:1030:f05:402::150/124
 AzureDataExplorerManagement,2603:1030:1005:1::380/121
+AzureDataExplorerManagement,2603:1030:1005:13::300/123
 AzureDataExplorerManagement,2603:1030:1005:402::150/124
 AzureDataExplorerManagement,2603:1030:1102:1::1c0/123
 AzureDataExplorerManagement,2603:1030:1202:1::1e0/123
@@ -8551,6 +8569,7 @@ AzureDeviceUpdate,2603:1030:b04:6::770/124
 AzureDeviceUpdate,2603:1030:c06:d::40/124
 AzureDeviceUpdate,2603:1030:f05:4::510/124
 AzureDeviceUpdate,2603:1030:1005:6::1e0/124
+AzureDeviceUpdate,2603:1030:1702:7::2a0/124
 AzureDeviceUpdate,2603:1040:5:9::130/124
 AzureDeviceUpdate,2603:1040:207:6::d0/124
 AzureDeviceUpdate,2603:1040:407:7::410/124
@@ -8570,6 +8589,8 @@ AzureDeviceUpdate,2603:1040:1302:3::510/124
 AzureDeviceUpdate,2603:1040:1402:2::640/124
 AzureDeviceUpdate,2603:1040:1503:3::500/124
 AzureDeviceUpdate,2603:1040:1602:3::580/124
+AzureDeviceUpdate,2603:1040:1a02:7::3d0/124
+AzureDeviceUpdate,2603:1040:1b02:6::660/124
 AzureDeviceUpdate,2603:1050:6:7::60/124
 AzureDeviceUpdate,2603:1050:403:5::50/124
 AzureDigitalTwins,2603:1010:6:7::a0/126
@@ -13171,6 +13192,7 @@ AzureServiceBus,2603:1030:f05:802::150/125
 AzureServiceBus,2603:1030:f05:c02::150/125
 AzureServiceBus,2603:1030:1005::220/123
 AzureServiceBus,2603:1030:1005:1::500/120
+AzureServiceBus,2603:1030:1005:13::280/121
 AzureServiceBus,2603:1030:1005:402::170/125
 AzureServiceBus,2603:1030:1102:1::/121
 AzureServiceBus,2603:1030:1202::780/121
@@ -13297,6 +13319,7 @@ AzureSignalR,2603:1030:b04:1::700/120
 AzureSignalR,2603:1030:c06:2::700/120
 AzureSignalR,2603:1030:f05:2::500/120
 AzureSignalR,2603:1030:1005:2::100/120
+AzureSignalR,2603:1030:1005:13::540/122
 AzureSignalR,2603:1030:1702:7::40/122
 AzureSignalR,2603:1040:5:3::/120
 AzureSignalR,2603:1040:207:2::600/120
@@ -13316,6 +13339,8 @@ AzureSignalR,2603:1040:1302:3::5c0/122
 AzureSignalR,2603:1040:1402:2::580/122
 AzureSignalR,2603:1040:1602:3::5c0/122
 AzureSignalR,2603:1040:1802:4::/122
+AzureSignalR,2603:1040:1a02:7::400/122
+AzureSignalR,2603:1040:1b02:6::680/122
 AzureSignalR,2603:1050:6:2::300/120
 AzureSignalR,2603:1050:301:5::600/122
 AzureSignalR,2603:1050:403:2::100/120
@@ -14616,6 +14641,7 @@ AzureWebPubSub,2603:1030:b04:3::/120
 AzureWebPubSub,2603:1030:c06:5::/120
 AzureWebPubSub,2603:1030:f05:2::600/120
 AzureWebPubSub,2603:1030:1005:2::200/120
+AzureWebPubSub,2603:1030:1005:13::580/122
 AzureWebPubSub,2603:1030:1702:7::80/122
 AzureWebPubSub,2603:1040:5:3::100/120
 AzureWebPubSub,2603:1040:207:2::700/120
@@ -14635,6 +14661,8 @@ AzureWebPubSub,2603:1040:1302:3::580/122
 AzureWebPubSub,2603:1040:1402:2::540/122
 AzureWebPubSub,2603:1040:1602:2::c0/122
 AzureWebPubSub,2603:1040:1802:4::80/122
+AzureWebPubSub,2603:1040:1a02:7::440/122
+AzureWebPubSub,2603:1040:1b02:6::6c0/122
 AzureWebPubSub,2603:1050:6:2::400/120
 AzureWebPubSub,2603:1050:301:5::640/122
 AzureWebPubSub,2603:1050:403:2::200/120
