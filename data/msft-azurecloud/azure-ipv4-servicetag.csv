@@ -5652,13 +5652,9 @@ AzureCloud,52.112.24.0/23
 AzureCloud,52.112.26.0/24
 AzureCloud,52.112.32.0/24
 AzureCloud,52.112.34.0/23
-AzureCloud,52.112.37.0/24
-AzureCloud,52.112.38.0/23
+AzureCloud,52.112.36.0/22
 AzureCloud,52.112.40.0/21
-AzureCloud,52.112.48.0/22
-AzureCloud,52.112.53.0/24
-AzureCloud,52.112.54.0/23
-AzureCloud,52.112.56.0/21
+AzureCloud,52.112.48.0/20
 AzureCloud,52.112.65.0/24
 AzureCloud,52.112.66.0/24
 AzureCloud,52.112.68.0/23
@@ -6401,14 +6397,7 @@ AzureCloud.australiaeast,40.100.73.0/26
 AzureCloud.australiaeast,40.107.39.0/24
 AzureCloud.australiaeast,40.107.40.0/23
 AzureCloud.australiaeast,40.112.37.128/26
-AzureCloud.australiaeast,40.120.176.0/24
-AzureCloud.australiaeast,40.120.177.0/26
-AzureCloud.australiaeast,40.120.177.64/28
-AzureCloud.australiaeast,40.120.177.80/29
-AzureCloud.australiaeast,40.120.177.88/30
-AzureCloud.australiaeast,40.120.177.94/31
-AzureCloud.australiaeast,40.120.177.96/27
-AzureCloud.australiaeast,40.120.177.128/25
+AzureCloud.australiaeast,40.120.176.0/23
 AzureCloud.australiaeast,40.120.178.0/24
 AzureCloud.australiaeast,40.120.179.0/27
 AzureCloud.australiaeast,40.120.179.32/29
@@ -6466,6 +6455,7 @@ AzureCloud.australiaeast,52.239.226.0/24
 AzureCloud.australiaeast,52.245.16.0/22
 AzureCloud.australiaeast,57.150.46.0/23
 AzureCloud.australiaeast,57.150.210.0/23
+AzureCloud.australiaeast,57.163.90.0/23
 AzureCloud.australiaeast,57.171.0.0/24
 AzureCloud.australiaeast,57.171.4.0/24
 AzureCloud.australiaeast,57.171.8.0/24
@@ -6698,6 +6688,7 @@ AzureCloud.belgiumcentral,20.20.121.0/25
 AzureCloud.belgiumcentral,20.20.121.128/26
 AzureCloud.belgiumcentral,20.20.121.192/27
 AzureCloud.belgiumcentral,20.20.121.224/28
+AzureCloud.belgiumcentral,20.20.121.240/30
 AzureCloud.belgiumcentral,20.33.113.0/24
 AzureCloud.belgiumcentral,20.38.49.0/24
 AzureCloud.belgiumcentral,20.143.96.0/23
@@ -7143,6 +7134,9 @@ AzureCloud.canadaeast,40.107.198.0/24
 AzureCloud.canadaeast,40.126.11.128/25
 AzureCloud.canadaeast,40.126.34.0/24
 AzureCloud.canadaeast,48.208.28.0/24
+AzureCloud.canadaeast,48.208.96.0/24
+AzureCloud.canadaeast,48.208.98.0/24
+AzureCloud.canadaeast,48.208.100.0/24
 AzureCloud.canadaeast,48.212.25.0/24
 AzureCloud.canadaeast,48.212.129.0/24
 AzureCloud.canadaeast,48.213.25.0/24
@@ -7394,6 +7388,9 @@ AzureCloud.centralindia,20.20.84.0/24
 AzureCloud.centralindia,20.20.85.0/25
 AzureCloud.centralindia,20.20.85.128/26
 AzureCloud.centralindia,20.20.85.192/27
+AzureCloud.centralindia,20.20.85.224/29
+AzureCloud.centralindia,20.20.85.232/30
+AzureCloud.centralindia,20.20.85.236/31
 AzureCloud.centralindia,20.33.9.0/24
 AzureCloud.centralindia,20.33.19.0/24
 AzureCloud.centralindia,20.33.28.0/24
@@ -7920,10 +7917,7 @@ AzureCloud.centralus,40.123.169.140/30
 AzureCloud.centralus,40.123.169.144/29
 AzureCloud.centralus,40.123.169.152/30
 AzureCloud.centralus,40.123.169.158/31
-AzureCloud.centralus,40.123.169.160/28
-AzureCloud.centralus,40.123.169.176/31
-AzureCloud.centralus,40.123.169.180/30
-AzureCloud.centralus,40.123.169.184/29
+AzureCloud.centralus,40.123.169.160/27
 AzureCloud.centralus,40.123.169.192/26
 AzureCloud.centralus,40.123.170.0/29
 AzureCloud.centralus,40.123.170.8/30
@@ -7937,8 +7931,7 @@ AzureCloud.centralus,40.123.170.70/31
 AzureCloud.centralus,40.123.170.72/30
 AzureCloud.centralus,40.123.170.76/31
 AzureCloud.centralus,40.123.170.84/30
-AzureCloud.centralus,40.123.170.88/30
-AzureCloud.centralus,40.123.170.92/31
+AzureCloud.centralus,40.123.170.88/29
 AzureCloud.centralus,40.123.170.116/30
 AzureCloud.centralus,40.123.170.120/29
 AzureCloud.centralus,40.123.170.130/31
@@ -8676,6 +8669,7 @@ AzureCloud.eastasia,168.63.148.0/22
 AzureCloud.eastasia,168.63.152.0/22
 AzureCloud.eastasia,168.63.156.0/24
 AzureCloud.eastasia,168.63.192.0/19
+AzureCloud.eastasia,172.145.0.0/17
 AzureCloud.eastasia,191.234.2.0/23
 AzureCloud.eastasia,191.234.16.0/20
 AzureCloud.eastasia,191.237.238.0/24
@@ -9224,6 +9218,7 @@ AzureCloud.eastus,168.61.32.0/20
 AzureCloud.eastus,168.61.48.0/21
 AzureCloud.eastus,168.62.32.0/19
 AzureCloud.eastus,168.62.160.0/19
+AzureCloud.eastus,172.143.0.0/17
 AzureCloud.eastus,172.171.32.0/19
 AzureCloud.eastus,172.171.64.0/19
 AzureCloud.eastus,172.171.128.0/17
@@ -10112,6 +10107,8 @@ AzureCloud.eastus2,57.157.50.88/30
 AzureCloud.eastus2,57.157.50.92/31
 AzureCloud.eastus2,57.157.50.108/30
 AzureCloud.eastus2,57.157.50.112/29
+AzureCloud.eastus2,57.157.50.120/30
+AzureCloud.eastus2,57.157.50.124/31
 AzureCloud.eastus2,57.162.0.0/17
 AzureCloud.eastus2,57.163.20.0/23
 AzureCloud.eastus2,57.163.52.0/23
@@ -10236,6 +10233,7 @@ AzureCloud.eastus2,157.55.55.144/29
 AzureCloud.eastus2,157.55.55.160/28
 AzureCloud.eastus2,157.56.2.128/25
 AzureCloud.eastus2,157.56.3.0/25
+AzureCloud.eastus2,172.139.128.0/17
 AzureCloud.eastus2,172.172.0.0/17
 AzureCloud.eastus2,172.175.0.0/16
 AzureCloud.eastus2,172.176.0.0/15
@@ -10633,11 +10631,9 @@ AzureCloud.eastus3,40.98.7.0/24
 AzureCloud.eastus3,51.57.128.0/17
 AzureCloud.eastus3,52.106.121.0/27
 AzureCloud.eastus3,57.150.249.0/24
-AzureCloud.eastus3,57.157.24.0/24
-AzureCloud.eastus3,57.157.25.0/25
-AzureCloud.eastus3,57.157.25.128/26
-AzureCloud.eastus3,57.157.25.192/29
-AzureCloud.eastus3,57.157.25.200/30
+AzureCloud.eastus3,57.157.24.0/23
+AzureCloud.eastus3,57.157.26.0/25
+AzureCloud.eastus3,57.157.26.128/31
 AzureCloud.eastus3,57.163.32.0/23
 AzureCloud.eastus3,57.163.70.0/23
 AzureCloud.eastus3,134.138.0.0/17
@@ -10648,6 +10644,7 @@ AzureCloud.eastus3,135.130.220.0/24
 AzureCloud.eastus3,145.190.167.0/24
 AzureCloud.eastus3,145.190.176.0/24
 AzureCloud.eastus3,145.190.189.0/24
+AzureCloud.eastus3,172.140.0.0/17
 AzureCloud.eastus3,209.199.33.224/28
 AzureCloud.eastus3,209.199.35.0/25
 AzureCloud.eastus3,209.199.45.96/27
@@ -10836,7 +10833,7 @@ AzureCloud.germanywc,57.150.218.0/23
 AzureCloud.germanywc,57.157.60.0/24
 AzureCloud.germanywc,57.157.61.0/26
 AzureCloud.germanywc,57.157.61.64/28
-AzureCloud.germanywc,57.157.61.80/31
+AzureCloud.germanywc,57.157.61.80/29
 AzureCloud.germanywc,70.152.12.0/24
 AzureCloud.germanywc,72.144.0.0/16
 AzureCloud.germanywc,74.154.0.0/16
@@ -10872,10 +10869,10 @@ AzureCloud.indiasouthcentral,40.100.70.0/25
 AzureCloud.indiasouthcentral,52.106.216.224/27
 AzureCloud.indiasouthcentral,52.123.22.0/24
 AzureCloud.indiasouthcentral,57.157.92.0/24
-AzureCloud.indiasouthcentral,57.157.93.0/26
-AzureCloud.indiasouthcentral,57.157.93.64/27
-AzureCloud.indiasouthcentral,57.157.93.96/29
-AzureCloud.indiasouthcentral,57.157.93.104/31
+AzureCloud.indiasouthcentral,57.157.93.0/25
+AzureCloud.indiasouthcentral,57.157.93.128/28
+AzureCloud.indiasouthcentral,57.157.93.144/30
+AzureCloud.indiasouthcentral,57.157.93.148/31
 AzureCloud.indiasouthcentral,57.163.2.0/23
 AzureCloud.indiasouthcentral,135.130.87.0/24
 AzureCloud.indiasouthcentral,135.130.94.0/23
@@ -10959,12 +10956,7 @@ AzureCloud.israelcentral,13.105.106.128/27
 AzureCloud.israelcentral,13.105.106.208/28
 AzureCloud.israelcentral,13.105.107.0/26
 AzureCloud.israelcentral,20.20.36.0/24
-AzureCloud.israelcentral,20.20.104.0/25
-AzureCloud.israelcentral,20.20.104.128/26
-AzureCloud.israelcentral,20.20.104.192/27
-AzureCloud.israelcentral,20.20.104.224/28
-AzureCloud.israelcentral,20.20.104.240/30
-AzureCloud.israelcentral,20.20.104.244/31
+AzureCloud.israelcentral,20.20.104.0/24
 AzureCloud.israelcentral,20.33.129.0/24
 AzureCloud.israelcentral,20.33.169.0/24
 AzureCloud.israelcentral,20.38.18.0/24
@@ -10998,6 +10990,9 @@ AzureCloud.israelcentral,40.100.65.128/25
 AzureCloud.israelcentral,40.100.66.0/26
 AzureCloud.israelcentral,40.107.173.0/24
 AzureCloud.israelcentral,40.107.174.0/23
+AzureCloud.israelcentral,40.123.137.0/27
+AzureCloud.israelcentral,40.123.137.32/30
+AzureCloud.israelcentral,40.123.137.36/31
 AzureCloud.israelcentral,40.123.173.0/24
 AzureCloud.israelcentral,48.212.29.0/24
 AzureCloud.israelcentral,48.212.155.0/24
@@ -12093,6 +12088,7 @@ AzureCloud.newzealandnorth,40.120.175.0/26
 AzureCloud.newzealandnorth,40.120.175.64/29
 AzureCloud.newzealandnorth,40.120.175.72/30
 AzureCloud.newzealandnorth,40.120.175.76/31
+AzureCloud.newzealandnorth,48.208.103.0/24
 AzureCloud.newzealandnorth,48.212.21.0/24
 AzureCloud.newzealandnorth,48.212.149.0/24
 AzureCloud.newzealandnorth,48.213.21.0/24
@@ -12320,8 +12316,8 @@ AzureCloud.northcentralus,57.157.64.0/23
 AzureCloud.northcentralus,57.157.66.0/24
 AzureCloud.northcentralus,57.157.67.0/26
 AzureCloud.northcentralus,57.157.67.64/27
-AzureCloud.northcentralus,57.157.67.96/30
-AzureCloud.northcentralus,57.157.67.100/31
+AzureCloud.northcentralus,57.157.67.96/29
+AzureCloud.northcentralus,57.157.67.104/31
 AzureCloud.northcentralus,64.236.128.0/17
 AzureCloud.northcentralus,65.52.0.0/19
 AzureCloud.northcentralus,65.52.48.0/20
@@ -13044,11 +13040,14 @@ AzureCloud.polandcentral,40.101.112.128/25
 AzureCloud.polandcentral,40.107.154.0/23
 AzureCloud.polandcentral,40.107.156.0/24
 AzureCloud.polandcentral,40.123.138.0/24
-AzureCloud.polandcentral,40.123.139.0/26
-AzureCloud.polandcentral,40.123.139.64/27
-AzureCloud.polandcentral,40.123.139.96/29
+AzureCloud.polandcentral,40.123.139.0/25
+AzureCloud.polandcentral,40.123.139.128/28
+AzureCloud.polandcentral,40.123.139.144/30
 AzureCloud.polandcentral,40.123.172.0/24
 AzureCloud.polandcentral,48.208.38.0/24
+AzureCloud.polandcentral,48.208.95.0/24
+AzureCloud.polandcentral,48.208.97.0/24
+AzureCloud.polandcentral,48.208.99.0/24
 AzureCloud.polandcentral,48.212.39.0/24
 AzureCloud.polandcentral,48.212.166.0/24
 AzureCloud.polandcentral,48.213.38.0/24
@@ -13570,9 +13569,7 @@ AzureCloud.southcentralus,40.123.164.0/25
 AzureCloud.southcentralus,40.123.164.128/29
 AzureCloud.southcentralus,40.123.164.136/31
 AzureCloud.southcentralus,40.123.164.144/28
-AzureCloud.southcentralus,40.123.164.160/29
-AzureCloud.southcentralus,40.123.164.168/30
-AzureCloud.southcentralus,40.123.164.174/31
+AzureCloud.southcentralus,40.123.164.160/28
 AzureCloud.southcentralus,40.123.164.176/30
 AzureCloud.southcentralus,40.123.164.190/31
 AzureCloud.southcentralus,40.123.164.192/31
@@ -13809,7 +13806,8 @@ AzureCloud.southcentralus2,20.20.72.0/25
 AzureCloud.southcentralus2,20.20.72.128/26
 AzureCloud.southcentralus2,20.20.72.192/27
 AzureCloud.southcentralus2,20.20.72.224/28
-AzureCloud.southcentralus2,20.20.72.240/31
+AzureCloud.southcentralus2,20.20.72.240/30
+AzureCloud.southcentralus2,20.20.72.244/31
 AzureCloud.southcentralus2,20.33.220.0/24
 AzureCloud.southcentralus2,20.38.29.0/24
 AzureCloud.southcentralus2,20.143.236.0/23
@@ -14060,6 +14058,7 @@ AzureCloud.southeastus,20.20.51.0/24
 AzureCloud.southeastus,20.20.68.0/26
 AzureCloud.southeastus,20.20.68.64/27
 AzureCloud.southeastus,20.20.68.96/30
+AzureCloud.southeastus,20.20.68.100/31
 AzureCloud.southeastus,20.33.65.0/24
 AzureCloud.southeastus,20.33.215.0/24
 AzureCloud.southeastus,20.38.28.0/24
@@ -14321,6 +14320,8 @@ AzureCloud.southwestus,52.106.121.224/27
 AzureCloud.southwestus,57.150.174.0/23
 AzureCloud.southwestus,57.150.176.0/24
 AzureCloud.southwestus,57.150.254.0/23
+AzureCloud.southwestus,57.163.62.0/23
+AzureCloud.southwestus,57.163.88.0/23
 AzureCloud.southwestus,135.130.210.0/23
 AzureCloud.southwestus,145.190.146.0/23
 AzureCloud.southwestus,209.199.33.192/28
@@ -14357,8 +14358,10 @@ AzureCloud.spaincentral,40.102.17.128/25
 AzureCloud.spaincentral,40.102.18.0/26
 AzureCloud.spaincentral,40.120.144.0/23
 AzureCloud.spaincentral,40.120.146.0/25
-AzureCloud.spaincentral,40.120.146.128/29
-AzureCloud.spaincentral,40.120.146.136/30
+AzureCloud.spaincentral,40.120.146.128/28
+AzureCloud.spaincentral,40.120.146.144/29
+AzureCloud.spaincentral,40.120.146.152/30
+AzureCloud.spaincentral,40.120.146.156/31
 AzureCloud.spaincentral,48.208.40.0/24
 AzureCloud.spaincentral,48.212.43.0/24
 AzureCloud.spaincentral,48.212.170.0/24
@@ -14527,12 +14530,9 @@ AzureCloud.swedencentral,52.123.214.0/23
 AzureCloud.swedencentral,52.253.187.0/24
 AzureCloud.swedencentral,52.253.188.0/23
 AzureCloud.swedencentral,57.150.58.0/23
-AzureCloud.swedencentral,57.157.68.0/23
-AzureCloud.swedencentral,57.157.70.0/24
-AzureCloud.swedencentral,57.157.71.0/25
-AzureCloud.swedencentral,57.157.71.128/26
-AzureCloud.swedencentral,57.157.71.192/27
-AzureCloud.swedencentral,57.157.71.224/28
+AzureCloud.swedencentral,57.157.68.0/22
+AzureCloud.swedencentral,57.157.188.0/26
+AzureCloud.swedencentral,57.157.188.64/27
 AzureCloud.swedencentral,57.163.6.0/23
 AzureCloud.swedencentral,57.174.0.0/16
 AzureCloud.swedencentral,70.152.27.0/24
@@ -14554,6 +14554,7 @@ AzureCloud.swedencentral,151.206.112.0/24
 AzureCloud.swedencentral,151.206.128.0/24
 AzureCloud.swedencentral,172.130.0.0/16
 AzureCloud.swedencentral,172.135.0.0/16
+AzureCloud.swedencentral,172.141.0.0/17
 AzureCloud.swedencentral,172.160.0.0/16
 AzureCloud.swedensouth,13.105.75.160/27
 AzureCloud.swedensouth,13.105.75.192/28
@@ -14700,6 +14701,7 @@ AzureCloud.switzerlandn,52.253.176.0/24
 AzureCloud.switzerlandn,57.157.156.0/27
 AzureCloud.switzerlandn,57.157.156.32/28
 AzureCloud.switzerlandn,57.157.156.48/30
+AzureCloud.switzerlandn,57.157.156.52/31
 AzureCloud.switzerlandn,70.152.29.0/24
 AzureCloud.switzerlandn,74.161.0.0/16
 AzureCloud.switzerlandn,74.242.128.0/17
@@ -15242,12 +15244,10 @@ AzureCloud.uksouth,52.239.231.0/24
 AzureCloud.uksouth,52.245.64.0/22
 AzureCloud.uksouth,52.253.162.0/23
 AzureCloud.uksouth,57.150.236.0/23
-AzureCloud.uksouth,57.157.40.0/25
-AzureCloud.uksouth,57.157.40.128/26
-AzureCloud.uksouth,57.157.40.192/27
-AzureCloud.uksouth,57.157.40.224/28
-AzureCloud.uksouth,57.157.40.240/29
-AzureCloud.uksouth,57.157.40.248/31
+AzureCloud.uksouth,57.157.40.0/24
+AzureCloud.uksouth,57.157.41.0/27
+AzureCloud.uksouth,57.157.41.32/30
+AzureCloud.uksouth,57.157.41.36/31
 AzureCloud.uksouth,57.163.64.0/23
 AzureCloud.uksouth,70.152.33.0/24
 AzureCloud.uksouth,70.152.237.0/24
@@ -15262,6 +15262,7 @@ AzureCloud.uksouth,145.133.0.0/16
 AzureCloud.uksouth,145.190.156.0/24
 AzureCloud.uksouth,151.206.111.0/24
 AzureCloud.uksouth,151.206.136.0/24
+AzureCloud.uksouth,172.144.0.0/17
 AzureCloud.uksouth,172.165.0.0/16
 AzureCloud.uksouth,172.166.0.0/15
 AzureCloud.uksouth,172.187.64.0/18
@@ -15443,6 +15444,7 @@ AzureCloud.usstagee,40.67.40.0/21
 AzureCloud.usstagee,40.67.48.0/20
 AzureCloud.usstagee,40.67.64.0/19
 AzureCloud.usstagee,40.67.96.0/20
+AzureCloud.usstagee,40.81.97.10/32
 AzureCloud.usstagee,40.82.80.0/22
 AzureCloud.usstagee,40.90.18.16/28
 AzureCloud.usstagee,40.90.31.32/27
@@ -15605,6 +15607,8 @@ AzureCloud.westcentralus,52.108.202.0/24
 AzureCloud.westcentralus,52.109.136.0/22
 AzureCloud.westcentralus,52.111.206.0/24
 AzureCloud.westcentralus,52.112.19.0/24
+AzureCloud.westcentralus,52.112.36.0/24
+AzureCloud.westcentralus,52.112.52.0/24
 AzureCloud.westcentralus,52.112.75.0/24
 AzureCloud.westcentralus,52.112.93.0/24
 AzureCloud.westcentralus,52.113.207.0/24
@@ -15623,9 +15627,9 @@ AzureCloud.westcentralus,52.239.244.0/23
 AzureCloud.westcentralus,52.245.60.0/22
 AzureCloud.westcentralus,52.253.128.0/20
 AzureCloud.westcentralus,57.151.128.0/19
-AzureCloud.westcentralus,57.157.80.0/24
-AzureCloud.westcentralus,57.157.81.0/25
-AzureCloud.westcentralus,57.157.81.128/27
+AzureCloud.westcentralus,57.157.80.0/23
+AzureCloud.westcentralus,57.157.82.0/28
+AzureCloud.westcentralus,57.157.82.16/31
 AzureCloud.westcentralus,57.163.30.0/23
 AzureCloud.westcentralus,57.163.50.0/23
 AzureCloud.westcentralus,57.163.84.0/23
@@ -16132,7 +16136,7 @@ AzureCloud.westeurope,157.55.8.144/28
 AzureCloud.westeurope,168.61.56.0/21
 AzureCloud.westeurope,168.63.0.0/19
 AzureCloud.westeurope,168.63.96.0/19
-AzureCloud.westeurope,172.138.0.0/17
+AzureCloud.westeurope,172.138.0.0/16
 AzureCloud.westeurope,172.199.0.0/16
 AzureCloud.westeurope,172.201.0.0/16
 AzureCloud.westeurope,172.205.128.0/17
@@ -16856,6 +16860,7 @@ AzureCloud.westus2,48.204.0.0/17
 AzureCloud.westus2,48.208.73.0/24
 AzureCloud.westus2,48.208.74.0/23
 AzureCloud.westus2,48.208.76.0/24
+AzureCloud.westus2,48.208.102.0/24
 AzureCloud.westus2,48.212.7.0/24
 AzureCloud.westus2,48.212.135.0/24
 AzureCloud.westus2,48.213.7.0/24
@@ -16943,9 +16948,7 @@ AzureCloud.westus2,57.150.118.0/23
 AzureCloud.westus2,57.150.148.0/23
 AzureCloud.westus2,57.150.234.0/23
 AzureCloud.westus2,57.157.72.0/24
-AzureCloud.westus2,57.157.73.0/26
-AzureCloud.westus2,57.157.73.64/28
-AzureCloud.westus2,57.157.73.80/29
+AzureCloud.westus2,57.157.73.0/25
 AzureCloud.westus2,57.163.44.0/23
 AzureCloud.westus2,57.163.72.0/23
 AzureCloud.westus2,57.166.0.0/17
@@ -17031,6 +17034,7 @@ AzureCloud.westus2,157.56.3.128/25
 AzureCloud.westus2,157.56.80.0/25
 AzureCloud.westus2,168.62.64.0/19
 AzureCloud.westus2,172.139.0.0/17
+AzureCloud.westus2,172.140.128.0/17
 AzureCloud.westus2,172.171.96.0/19
 AzureCloud.westus2,172.179.0.0/16
 AzureCloud.westus2,172.193.128.0/17
@@ -21391,6 +21395,7 @@ AzureFrontDoor.Backend,68.221.93.128/29
 AzureFrontDoor.Backend,69.15.0.0/16
 AzureFrontDoor.Backend,74.147.18.120/30
 AzureFrontDoor.Backend,74.147.18.124/32
+AzureFrontDoor.Backend,74.152.14.160/29
 AzureFrontDoor.Backend,74.161.246.242/31
 AzureFrontDoor.Backend,74.161.246.248/29
 AzureFrontDoor.Backend,74.225.54.90/31
@@ -21549,6 +21554,7 @@ AzureFrontDoor.Frontend,172.186.128.152/29
 AzureFrontDoor.Frontend,172.192.197.0/30
 AzureFrontDoor.Frontend,172.192.205.92/31
 AzureFrontDoor.Frontend,172.192.208.96/29
+AzureFrontDoor.Frontend,172.192.235.160/30
 AzureFrontDoor.Frontend,172.204.165.104/29
 AzureFrontDoor.Frontend,191.233.9.112/29
 AzureFrontDoor.Frontend,191.235.224.88/29
@@ -25664,6 +25670,7 @@ AzureMonitor,48.200.141.64/26
 AzureMonitor,48.202.71.0/26
 AzureMonitor,48.203.152.176/28
 AzureMonitor,48.203.174.48/28
+AzureMonitor,48.206.201.0/25
 AzureMonitor,48.215.146.8/29
 AzureMonitor,48.215.146.112/28
 AzureMonitor,48.215.167.96/27
@@ -26178,6 +26185,7 @@ AzureMonitor,74.146.151.160/27
 AzureMonitor,74.146.196.64/26
 AzureMonitor,74.146.202.224/27
 AzureMonitor,74.146.230.0/25
+AzureMonitor,74.146.240.128/25
 AzureMonitor,74.148.7.0/24
 AzureMonitor,74.148.21.0/26
 AzureMonitor,74.149.6.192/26
@@ -26189,6 +26197,7 @@ AzureMonitor,74.151.232.128/26
 AzureMonitor,74.153.3.64/26
 AzureMonitor,74.155.40.128/25
 AzureMonitor,74.159.69.192/26
+AzureMonitor,74.159.238.0/25
 AzureMonitor,74.160.6.64/28
 AzureMonitor,74.160.9.96/28
 AzureMonitor,74.161.189.192/26
@@ -26369,6 +26378,7 @@ AzureMonitor,172.129.95.224/29
 AzureMonitor,172.129.96.0/26
 AzureMonitor,172.129.177.128/25
 AzureMonitor,172.131.106.64/26
+AzureMonitor,172.134.20.128/25
 AzureMonitor,172.160.153.128/26
 AzureMonitor,172.160.153.240/28
 AzureMonitor,172.160.223.224/27
@@ -28836,6 +28846,7 @@ AzureSentinel,72.152.38.32/28
 AzureSentinel,72.152.38.48/30
 AzureSentinel,74.7.51.32/29
 AzureSentinel,74.7.183.176/29
+AzureSentinel,74.159.237.139/32
 AzureSentinel,74.163.73.84/31
 AzureSentinel,74.176.2.246/31
 AzureSentinel,74.177.105.30/31
@@ -33773,6 +33784,7 @@ DataFactory,74.7.198.208/28
 DataFactory,74.7.198.224/27
 DataFactory,74.7.218.208/28
 DataFactory,74.144.162.0/25
+DataFactory,74.144.163.0/27
 DataFactory,74.224.33.160/27
 DataFactory,74.240.195.144/28
 DataFactory,74.240.195.160/29
@@ -39800,6 +39812,7 @@ PowerBI,9.205.43.244/30
 PowerBI,9.205.43.248/29
 PowerBI,9.205.58.176/28
 PowerBI,9.205.58.192/28
+PowerBI,9.205.223.80/28
 PowerBI,9.234.62.208/28
 PowerBI,9.234.69.192/27
 PowerBI,13.73.248.4/31
@@ -40273,6 +40286,7 @@ PowerBI,57.162.135.0/25
 PowerBI,57.162.135.128/28
 PowerBI,57.162.213.0/26
 PowerBI,57.167.180.64/26
+PowerBI,57.170.20.48/28
 PowerBI,57.173.22.128/28
 PowerBI,68.155.79.224/27
 PowerBI,68.155.128.0/28
@@ -40287,6 +40301,7 @@ PowerBI,68.211.13.48/30
 PowerBI,68.211.13.56/29
 PowerBI,68.211.24.16/28
 PowerBI,68.211.24.32/28
+PowerBI,68.211.211.48/28
 PowerBI,68.218.123.134/31
 PowerBI,68.218.134.44/30
 PowerBI,68.219.160.0/25
@@ -40314,6 +40329,15 @@ PowerBI,74.7.53.64/29
 PowerBI,74.7.188.74/31
 PowerBI,74.7.188.112/30
 PowerBI,74.7.188.120/29
+PowerBI,74.146.233.217/32
+PowerBI,74.146.233.220/30
+PowerBI,74.146.240.0/26
+PowerBI,74.146.240.64/29
+PowerBI,74.148.21.240/28
+PowerBI,74.151.91.80/28
+PowerBI,74.152.14.224/28
+PowerBI,74.156.26.80/29
+PowerBI,74.158.67.96/27
 PowerBI,74.161.139.160/28
 PowerBI,74.163.54.96/28
 PowerBI,74.163.234.64/26
@@ -40328,6 +40352,7 @@ PowerBI,74.224.37.216/30
 PowerBI,74.224.224.224/27
 PowerBI,74.226.38.112/28
 PowerBI,74.226.38.160/27
+PowerBI,74.240.18.64/29
 PowerBI,74.242.4.32/27
 PowerBI,74.242.177.144/28
 PowerBI,74.243.127.224/27
