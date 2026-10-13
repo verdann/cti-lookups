@@ -1,4 +1,625 @@
 first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
+2026-10-13 08:49:15,1962952,https://n.6r6r6.org/tz,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 08:48:13,1962950,https://n.6r6r6.org/mu,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 08:45:48,1962949,https://n.6r6r6.org/p5i/,botnet_cc,Vidar,vidar
+2026-10-13 08:45:05,1962939,https://fileserver.devin-hk.shop/api/file-share/6300dae9-a167-418e-9f6c-db02e0f005f4/download,payload_delivery,Overlord RAT,"overlord,RAT"
+2026-10-13 08:45:02,1962943,https://github.com/mariaaefyw/fileserver/releases/download/v1005/fileserver-update.dat,payload_delivery,Overlord RAT,"Github,overlord,RAT"
+2026-10-13 08:44:28,1962948,https://n.6r6r6.org/p5i,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 08:42:31,1962947,https://n.6r6r6.org/tv,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 08:40:48,1962940,https://n.6r6r6.org/q/,botnet_cc,Vidar,vidar
+2026-10-13 08:38:51,1962938,https://n.6r6r6.org/r6,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 08:36:54,1962936,https://n.6r6r6.org/rd,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 08:35:48,1962935,https://n.6r6r6.org/fr/,botnet_cc,Vidar,vidar
+2026-10-13 08:34:22,1962934,https://n.6r6r6.org/fr,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 08:32:19,1962933,https://n.6r6r6.org/e,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 08:31:18,1962932,https://n.6r6r6.org/t,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 08:30:48,1962931,https://n.6r6r6.org/t/,botnet_cc,Vidar,vidar
+2026-10-13 08:28:34,1962930,https://n.6r6r6.org/h,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 08:26:56,1962929,https://n.6r6r6.org/io,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 08:25:48,1962928,https://n.6r6r6.org/d/,botnet_cc,Vidar,vidar
+2026-10-13 08:25:38,1962927,https://n.6r6r6.org/d,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 08:23:05,1962926,https://n.6r6r6.org/w3,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 08:21:23,1962923,https://n.6r6r6.org/f6,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 08:20:48,1962922,https://n.6r6r6.org/f6/,botnet_cc,Vidar,vidar
+2026-10-13 08:18:22,1962921,https://n.6r6r6.org/y,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 08:16:53,1962920,https://n.6r6r6.org/tm,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 08:15:48,1962919,https://n.6r6r6.org/hhk/,botnet_cc,Vidar,vidar
+2026-10-13 08:14:41,1962915,https://n.6r6r6.org/hhk,botnet_cc,Vidar,"1718e0679220166cf123fbe6e40c635c,c2,loader,stealer,Vidar"
+2026-10-13 08:12:32,1962914,https://n.6r6r6.org/im,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 08:10:48,1962913,https://n.6r6r6.org/m5/,botnet_cc,Vidar,vidar
+2026-10-13 08:10:30,1962912,https://n.6r6r6.org/m5,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 08:08:55,1962910,https://n.6r6r6.org/kr,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 08:06:43,1962909,https://n.6r6r6.org/pi,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 08:05:48,1962908,https://n.6r6r6.org/zq/,botnet_cc,Vidar,vidar
+2026-10-13 08:04:13,1962906,https://n.6r6r6.org/zq,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-13 08:02:23,1962905,https://n.6r6r6.org/zjy,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 08:01:30,1962904,https://n.6r6r6.org,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 08:00:48,1962903,https://ji.6r6r6.org/bd/,botnet_cc,Vidar,vidar
+2026-10-13 08:00:37,1962902,https://ji.6r6r6.org/bd,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 07:58:30,1962901,https://ji.6r6r6.org/xz,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 07:56:36,1962900,https://ji.6r6r6.org/rs,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 07:55:48,1962899,https://ji.6r6r6.org/mx/,botnet_cc,Vidar,vidar
+2026-10-13 07:54:16,1962898,https://ji.6r6r6.org/mx,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 07:52:14,1962896,https://ji.6r6r6.org/m,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-13 07:50:48,1962895,https://ji.6r6r6.org/jb/,botnet_cc,Vidar,vidar
+2026-10-13 07:50:14,1962894,https://ji.6r6r6.org/jb,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 07:48:40,1962892,https://ji.6r6r6.org/uf,botnet_cc,Vidar,"1718e0679220166cf123fbe6e40c635c,c2,loader,stealer,Vidar"
+2026-10-13 07:46:35,1962891,https://ji.6r6r6.org/eb,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 07:45:48,1962890,https://ji.6r6r6.org/xy/,botnet_cc,Vidar,vidar
+2026-10-13 07:44:54,1962889,https://ji.6r6r6.org/xy,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 07:42:28,1962888,https://ji.6r6r6.org/w7q,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-13 07:40:48,1962887,https://ji.6r6r6.org/x8/,botnet_cc,Vidar,vidar
+2026-10-13 07:40:15,1962886,https://ji.6r6r6.org/x8,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 07:39:40,1962885,https://ji.6r6r6.org/gx,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 07:36:17,1962884,https://ji.6r6r6.org/tk,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 07:35:48,1962883,https://ji.6r6r6.org/x0/,botnet_cc,Vidar,vidar
+2026-10-13 07:34:18,1962882,https://ji.6r6r6.org/x0,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 07:34:12,1962881,https://ji.6r6r6.org/rm,botnet_cc,Vidar,"1718e0679220166cf123fbe6e40c635c,c2,loader,stealer,Vidar"
+2026-10-13 07:31:10,1962879,https://ji.6r6r6.org/j4,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 07:30:48,1962878,https://ji.6r6r6.org/j4/,botnet_cc,Vidar,vidar
+2026-10-13 07:28:45,1962875,https://ji.6r6r6.org/s4,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 07:26:28,1962874,https://ji.6r6r6.org/s,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-13 07:26:04,1962873,https://ji.6r6r6.org/vs,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 07:26:03,1962871,http://straely.biz:8531/reports,botnet_cc,Remus,remus
+2026-10-13 07:26:03,1962872,http://glolsbs.top:5621/articles,botnet_cc,Remus,remus
+2026-10-13 07:25:48,1962870,https://ji.6r6r6.org/vs/,botnet_cc,Vidar,vidar
+2026-10-13 07:22:27,1962869,https://ji.6r6r6.org/ne,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 07:20:48,1962868,https://ji.6r6r6.org/hl/,botnet_cc,Vidar,vidar
+2026-10-13 07:20:15,1962867,https://ji.6r6r6.org/hl,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-13 07:18:14,1962866,https://ji.6r6r6.org/eg,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 07:16:26,1962865,https://ji.6r6r6.org/mmm,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 07:15:48,1962864,https://ji.6r6r6.org/sg/,botnet_cc,Vidar,vidar
+2026-10-13 07:14:53,1962863,https://ji.6r6r6.org/sg,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-13 07:12:49,1962862,https://ji.6r6r6.org/cy,botnet_cc,Vidar,"1718e0679220166cf123fbe6e40c635c,c2,loader,stealer,Vidar"
+2026-10-13 07:10:53,1962860,http://cruahop.shop:8213/contacts,botnet_cc,Remus,remus
+2026-10-13 07:10:53,1962861,http://spiohop.shop:9932/reviews,botnet_cc,Remus,remus
+2026-10-13 07:10:48,1962859,https://ji.6r6r6.org/j/,botnet_cc,Vidar,vidar
+2026-10-13 07:10:33,1962858,https://ji.6r6r6.org/j,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 07:08:35,1962857,https://ji.6r6r6.org/o7,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 07:06:48,1962856,https://ji.6r6r6.org/zr2,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 07:05:48,1962855,https://ji.6r6r6.org/um/,botnet_cc,Vidar,vidar
+2026-10-13 07:05:24,1962854,https://ji.6r6r6.org/um,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 07:02:20,1962851,https://ji.6r6r6.org/w,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 07:01:56,1962850,https://ji.6r6r6.org,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 07:00:48,1962849,https://vr.6r6r6.org/v5/,botnet_cc,Vidar,vidar
+2026-10-13 07:00:15,1962848,https://vr.6r6r6.org/v5,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 06:58:43,1962846,https://vr.6r6r6.org/b,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-13 06:56:34,1962845,https://vr.6r6r6.org/mz,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 06:55:48,1962844,https://vr.6r6r6.org/p/,botnet_cc,Vidar,vidar
+2026-10-13 06:54:35,1962843,https://vr.6r6r6.org/p,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 06:53:31,1962842,https://vr.6r6r6.org/ew,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-13 06:50:48,1962826,https://vr.6r6r6.org/ua/,botnet_cc,Vidar,vidar
+2026-10-13 06:50:18,1962825,https://vr.6r6r6.org/ua,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 06:48:25,1962823,https://vr.6r6r6.org/qe,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-13 06:45:48,1962822,https://vr.6r6r6.org/kn/,botnet_cc,Vidar,vidar
+2026-10-13 06:44:34,1962820,https://vr.6r6r6.org/kn,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-13 06:43:16,1962819,https://vr.6r6r6.org/q,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-13 06:40:48,1962818,https://vr.6r6r6.org/v9/,botnet_cc,Vidar,vidar
+2026-10-13 06:38:23,1962817,https://vr.6r6r6.org/bn,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 06:38:06,1962816,https://vr.6r6r6.org/wc,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-13 06:35:48,1962815,https://vr.6r6r6.org/pq/,botnet_cc,Vidar,vidar
+2026-10-13 06:34:20,1962814,https://vr.6r6r6.org/pq,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 06:32:58,1962813,https://vr.6r6r6.org/nl,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-13 06:31:08,1962812,https://65.109.255.31,botnet_cc,Vidar,Vidar
+2026-10-13 06:30:48,1962811,https://vr.6r6r6.org/u/,botnet_cc,Vidar,vidar
+2026-10-13 06:28:22,1962808,https://vr.6r6r6.org/wm,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 06:27:35,1962807,https://vr.6r6r6.org/yv,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-13 06:25:48,1962806,https://vr.6r6r6.org/qwj/,botnet_cc,Vidar,vidar
+2026-10-13 06:22:17,1962803,https://vr.6r6r6.org/rm2,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 06:20:54,1962802,https://vr.6r6r6.org/e,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-13 06:20:48,1962801,https://vr.6r6r6.org/e/,botnet_cc,Vidar,vidar
+2026-10-13 06:19:39,1962798,http://103.203.88.64:59446/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
+2026-10-13 06:19:39,1962799,http://39.34.143.221:60098/Mozi.7,payload_delivery,Mozi,"elf,iot,Mozi"
+2026-10-13 06:19:39,1962800,http://39.34.188.177:37027/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
+2026-10-13 06:18:23,1962797,https://vr.6r6r6.org/on,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-13 06:16:32,1962795,https://vr.6r6r6.org/xl,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 06:15:48,1962794,https://vr.6r6r6.org/pus/,botnet_cc,Vidar,vidar
+2026-10-13 06:15:45,1962793,https://vr.6r6r6.org/pus,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-13 06:12:23,1962791,https://vr.6r6r6.org/i4i,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 06:10:48,1962790,https://vr.6r6r6.org/kk/,botnet_cc,Vidar,vidar
+2026-10-13 06:10:36,1962789,https://vr.6r6r6.org/kk,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 06:08:39,1962788,https://vr.6r6r6.org/l8,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 06:06:25,1962787,https://vr.6r6r6.org/co,botnet_cc,Vidar,"1718e0679220166cf123fbe6e40c635c,c2,loader,stealer,Vidar"
+2026-10-13 06:05:48,1962786,https://vr.6r6r6.org/z5/,botnet_cc,Vidar,vidar
+2026-10-13 06:04:53,1962783,https://vr.6r6r6.org/z5,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 06:02:20,1962782,https://vr.6r6r6.org/x4v,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 06:01:01,1962781,https://lk.6r6r6.org/zo,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-13 06:00:48,1962780,https://lk.6r6r6.org/zo/,botnet_cc,Vidar,vidar
+2026-10-13 05:59:02,1962778,https://lk.6r6r6.org/lq,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 05:56:18,1962777,https://lk.6r6r6.org/jq,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 05:55:48,1962776,https://lk.6r6r6.org/eo/,botnet_cc,Vidar,vidar
+2026-10-13 05:54:26,1962775,https://lk.6r6r6.org/eo,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 05:52:33,1962751,https://lk.6r6r6.org/rz,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-13 05:50:48,1962750,https://lk.6r6r6.org/rd/,botnet_cc,Vidar,vidar
+2026-10-13 05:50:28,1962749,https://lk.6r6r6.org/rd,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-13 05:48:49,1962748,https://lk.6r6r6.org/ql,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 05:46:38,1962746,https://lk.6r6r6.org/te,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 05:45:48,1962742,https://lk.6r6r6.org/co/,botnet_cc,Vidar,vidar
+2026-10-13 05:45:07,1962741,https://lk.6r6r6.org/co,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 05:43:13,1962739,https://lk.6r6r6.org/zi,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 05:40:49,1962737,https://lk.6r6r6.org/lu,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 05:40:48,1962736,https://lk.6r6r6.org/lu/,botnet_cc,Vidar,vidar
+2026-10-13 05:39:01,1962734,https://lk.6r6r6.org/ec,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 05:37:28,1962733,https://lk.6r6r6.org/as,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 05:35:48,1962732,https://lk.6r6r6.org/bd/,botnet_cc,Vidar,vidar
+2026-10-13 05:35:43,1962731,https://lk.6r6r6.org/bd,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 05:33:10,1962730,https://lk.6r6r6.org/ze,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 05:30:48,1962729,https://lk.6r6r6.org/wq/,botnet_cc,Vidar,vidar
+2026-10-13 05:30:33,1962728,https://lk.6r6r6.org/wq,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 05:28:23,1962725,https://lk.6r6r6.org/h0,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-13 05:26:28,1962724,https://lk.6r6r6.org/ch,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 05:25:48,1962723,https://lk.6r6r6.org/kh/,botnet_cc,Vidar,vidar
+2026-10-13 05:24:56,1962722,https://lk.6r6r6.org/kh,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 05:22:44,1962720,https://lk.6r6r6.org/so,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 05:21:25,1962127,https://id-dns.net/,payload_delivery,IClickFix,None
+2026-10-13 05:21:11,1962567,https://stat.bestcompliance.net/s,payload_delivery,IClickFix,None
+2026-10-13 05:21:10,1962568,https://vine-reserve-club-bakup-prod.s3.us-east-1.amazonaws.com/p.ps1,payload_delivery,IClickFix,None
+2026-10-13 05:21:09,1962569,https://stat.bestcompliance.net/p,payload_delivery,IClickFix,None
+2026-10-13 05:20:48,1962719,https://lk.6r6r6.org/z2/,botnet_cc,Vidar,vidar
+2026-10-13 05:20:19,1962718,https://lk.6r6r6.org/z2,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 05:18:26,1962717,https://lk.6r6r6.org/lj,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 05:16:30,1962716,https://lk.6r6r6.org/h7,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-13 05:15:48,1962715,https://lk.6r6r6.org/wu/,botnet_cc,Vidar,vidar
+2026-10-13 05:15:13,1962714,https://lk.6r6r6.org/wu,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 05:12:46,1962713,https://lk.6r6r6.org/z,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 05:10:48,1962712,https://lk.6r6r6.org/li/,botnet_cc,Vidar,vidar
+2026-10-13 05:10:28,1962711,https://lk.6r6r6.org/li,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-13 05:08:15,1962710,https://lk.6r6r6.org/f0,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-13 05:07:04,1962709,https://lk.6r6r6.org/o,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 05:05:48,1962708,https://lk.6r6r6.org/r/,botnet_cc,Vidar,vidar
+2026-10-13 05:04:19,1962706,https://lk.6r6r6.org/r,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 05:02:33,1962705,https://lk.6r6r6.org/w,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-13 05:01:13,1962704,https://lk.6r6r6.org,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 05:00:48,1962703,https://zj.666iapk.net/t4c/,botnet_cc,Vidar,vidar
+2026-10-13 05:00:27,1962702,https://zj.666iapk.net/t4c,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-13 04:58:14,1962701,https://zj.666iapk.net/ii,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 04:56:14,1962699,https://zj.666iapk.net/z7,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 04:55:48,1962698,https://zj.666iapk.net/jq/,botnet_cc,Vidar,vidar
+2026-10-13 04:54:19,1962697,https://zj.666iapk.net/jq,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 04:52:51,1962695,https://zj.666iapk.net/ti,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 04:52:49,1962694,http://it-solutions-bayern.com:6431,botnet_cc,Remus,remus
+2026-10-13 04:51:35,1962693,https://zj.666iapk.net/op,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 04:50:48,1962692,https://zj.666iapk.net/op/,botnet_cc,Vidar,vidar
+2026-10-13 04:48:26,1962691,https://zj.666iapk.net/tp,botnet_cc,Vidar,"1718e0679220166cf123fbe6e40c635c,c2,loader,stealer,Vidar"
+2026-10-13 04:47:42,1962690,http://acefotos.com:6431,botnet_cc,Remus,remus
+2026-10-13 04:46:14,1962689,https://zj.666iapk.net/b1,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 04:45:48,1962688,https://zj.666iapk.net/d1/,botnet_cc,Vidar,vidar
+2026-10-13 04:44:24,1962687,https://zj.666iapk.net/d1,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 04:42:56,1962686,https://zj.666iapk.net/gv,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-13 04:40:48,1962685,https://zj.666iapk.net/brs/,botnet_cc,Vidar,vidar
+2026-10-13 04:40:37,1962684,https://zj.666iapk.net/brs,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 04:38:35,1962682,https://zj.666iapk.net/jz,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 04:36:15,1962681,https://zj.666iapk.net/bw,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 04:35:48,1962680,https://zj.666iapk.net/b8/,botnet_cc,Vidar,vidar
+2026-10-13 04:35:16,1962679,https://zj.666iapk.net/b8,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 04:32:19,1962678,https://zj.666iapk.net/x,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-13 04:30:48,1962677,https://zj.666iapk.net/y/,botnet_cc,Vidar,vidar
+2026-10-13 04:30:26,1962676,https://zj.666iapk.net/y,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 04:28:31,1962675,https://zj.666iapk.net/cf,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-13 04:26:15,1962671,https://zj.666iapk.net/gp,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-13 04:25:48,1962669,https://zj.666iapk.net/see/,botnet_cc,Vidar,vidar
+2026-10-13 04:24:35,1962668,https://zj.666iapk.net/see,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 04:22:21,1962667,https://zj.666iapk.net/nl,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 04:20:48,1962666,https://zj.666iapk.net/u/,botnet_cc,Vidar,vidar
+2026-10-13 04:20:40,1962665,https://zj.666iapk.net/u,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-13 04:18:17,1962662,https://zj.666iapk.net/fw,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-13 04:17:23,1962661,http://genuskox.biz:4378,botnet_cc,Remus,remus
+2026-10-13 04:16:30,1962660,https://zj.666iapk.net/js,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 04:15:48,1962659,https://zj.666iapk.net/qm/,botnet_cc,Vidar,vidar
+2026-10-13 04:15:39,1962658,http://ruihankj.top/getinstall64,botnet_cc,ValleyRAT,"RAT,ValleyRAT"
+2026-10-13 04:15:29,1962657,http://cv428350.tw1.ru/L1nc0In.php,botnet_cc,DCRat,"DCRat,RAT"
+2026-10-13 04:14:28,1962651,https://zj.666iapk.net/qm,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 04:12:48,1962650,https://zj.666iapk.net/e7,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 04:10:48,1962649,https://zj.666iapk.net/k/,botnet_cc,Vidar,vidar
+2026-10-13 04:10:31,1962648,https://zj.666iapk.net/k,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-13 04:08:33,1962647,https://zj.666iapk.net/qq,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 04:06:17,1962646,https://zj.666iapk.net/fi,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 04:05:47,1962645,https://zj.666iapk.net/w4/,botnet_cc,Vidar,vidar
+2026-10-13 04:05:00,1962644,https://zj.666iapk.net/w4,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-13 04:02:29,1962643,https://zj.666iapk.net/wk,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 04:01:11,1962642,https://zj.666iapk.net,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 04:00:47,1962641,https://n9.666iapk.net/dj/,botnet_cc,Vidar,vidar
+2026-10-13 04:00:29,1962640,https://n9.666iapk.net/dj,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-13 03:58:33,1962639,https://n9.666iapk.net/qb,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-13 03:56:19,1962638,https://n9.666iapk.net/m3n,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 03:55:48,1962637,https://n9.666iapk.net/i4/,botnet_cc,Vidar,vidar
+2026-10-13 03:54:31,1962636,https://n9.666iapk.net/i4,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 03:52:15,1962634,https://n9.666iapk.net/q0,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 03:50:48,1962633,https://n9.666iapk.net/cp/,botnet_cc,Vidar,vidar
+2026-10-13 03:50:20,1962632,https://n9.666iapk.net/cp,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 03:47:08,1962631,https://n9.666iapk.net/j,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 03:45:48,1962629,https://n9.666iapk.net/fg/,botnet_cc,Vidar,vidar
+2026-10-13 03:44:31,1962628,https://n9.666iapk.net/fg,botnet_cc,Vidar,"1718e0679220166cf123fbe6e40c635c,c2,loader,stealer,Vidar"
+2026-10-13 03:42:28,1962626,https://n9.666iapk.net/fe,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-13 03:40:48,1962625,https://n9.666iapk.net/nx/,botnet_cc,Vidar,vidar
+2026-10-13 03:40:43,1962624,https://n9.666iapk.net/nx,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 03:38:15,1962622,https://n9.666iapk.net/on,botnet_cc,Vidar,"1718e0679220166cf123fbe6e40c635c,c2,loader,stealer,Vidar"
+2026-10-13 03:36:42,1962621,https://n9.666iapk.net/ev,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 03:35:48,1962620,https://n9.666iapk.net/xw/,botnet_cc,Vidar,vidar
+2026-10-13 03:34:47,1962619,https://n9.666iapk.net/xw,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-13 03:32:37,1962618,https://n9.666iapk.net/b5,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 03:30:48,1962617,https://n9.666iapk.net/sq/,botnet_cc,Vidar,vidar
+2026-10-13 03:30:29,1962616,https://n9.666iapk.net/sq,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 03:28:50,1962614,https://n9.666iapk.net/icr,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-13 03:26:24,1962613,https://n9.666iapk.net/dlc,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 03:25:48,1962612,https://n9.666iapk.net/iq/,botnet_cc,Vidar,vidar
+2026-10-13 03:25:22,1962611,https://n9.666iapk.net/iq,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 03:22:21,1962610,https://n9.666iapk.net/cf,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-13 03:20:48,1962609,https://n9.666iapk.net/msm/,botnet_cc,Vidar,vidar
+2026-10-13 03:20:21,1962608,https://n9.666iapk.net/msm,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-13 03:18:19,1962607,https://n9.666iapk.net/al,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-13 03:16:37,1962606,https://n9.666iapk.net/lg,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 03:15:48,1962605,https://n9.666iapk.net/kcb/,botnet_cc,Vidar,vidar
+2026-10-13 03:14:23,1962604,https://n9.666iapk.net/kcb,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 03:12:58,1962603,https://n9.666iapk.net/tmk,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-13 03:10:48,1962602,https://n9.666iapk.net/zi/,botnet_cc,Vidar,vidar
+2026-10-13 03:10:16,1962601,https://n9.666iapk.net/zi,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 03:08:43,1962600,https://n9.666iapk.net/gf,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 03:06:45,1962599,https://n9.666iapk.net/sd,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-13 03:05:48,1962598,https://n9.666iapk.net/z4/,botnet_cc,Vidar,vidar
+2026-10-13 03:04:41,1962594,https://n9.666iapk.net/z4,botnet_cc,Vidar,"1718e0679220166cf123fbe6e40c635c,c2,loader,stealer,Vidar"
+2026-10-13 03:02:35,1962593,https://n9.666iapk.net/fz,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 03:01:39,1962592,https://n9.666iapk.net,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-13 03:00:48,1962591,https://noa.666iapk.net/qf4/,botnet_cc,Vidar,vidar
+2026-10-13 03:00:22,1962590,https://noa.666iapk.net/qf4,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 02:58:26,1962589,https://noa.666iapk.net/bi,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 02:56:21,1962587,https://noa.666iapk.net/jm,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 02:55:48,1962586,https://noa.666iapk.net/nf/,botnet_cc,Vidar,vidar
+2026-10-13 02:54:34,1962585,https://noa.666iapk.net/nf,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 02:52:47,1962584,https://noa.666iapk.net/os,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 02:50:48,1962583,https://noa.666iapk.net/ap/,botnet_cc,Vidar,vidar
+2026-10-13 02:50:17,1962582,https://noa.666iapk.net/ap,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 02:48:56,1962581,https://noa.666iapk.net/pkl,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 02:46:22,1962580,https://noa.666iapk.net/oo,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 02:45:49,1962579,https://noa.666iapk.net/gaq,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-13 02:45:48,1962578,https://noa.666iapk.net/gaq/,botnet_cc,Vidar,vidar
+2026-10-13 02:42:43,1962577,https://noa.666iapk.net/w6,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-13 02:40:48,1962575,https://noa.666iapk.net/cje/,botnet_cc,Vidar,vidar
+2026-10-13 02:40:37,1962574,https://noa.666iapk.net/cje,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-13 02:38:27,1962573,https://noa.666iapk.net/q,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 02:36:25,1962572,https://noa.666iapk.net/u,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 02:35:48,1962571,https://noa.666iapk.net/oqx/,botnet_cc,Vidar,vidar
+2026-10-13 02:35:12,1962570,https://noa.666iapk.net/oqx,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 02:30:48,1962565,https://noa.666iapk.net/mc/,botnet_cc,Vidar,vidar
+2026-10-13 02:25:48,1962564,https://noa.666iapk.net/xo/,botnet_cc,Vidar,vidar
+2026-10-13 02:20:48,1962562,https://noa.666iapk.net/my/,botnet_cc,Vidar,vidar
+2026-10-13 02:15:48,1962560,https://noa.666iapk.net/dz/,botnet_cc,Vidar,vidar
+2026-10-13 02:10:48,1962559,https://noa.666iapk.net/vo/,botnet_cc,Vidar,vidar
+2026-10-13 02:05:48,1962552,https://noa.666iapk.net/pf/,botnet_cc,Vidar,vidar
+2026-10-13 02:00:49,1962551,https://te.666iapk.net/gi/,botnet_cc,Vidar,vidar
+2026-10-13 01:55:48,1962550,https://te.666iapk.net/w/,botnet_cc,Vidar,vidar
+2026-10-13 01:51:39,1962547,https://te.666iapk.net/gm,botnet_cc,Vidar,"2ea6dc6bf3e951745c08efe9f8214187,c2,loader,stealer,Vidar"
+2026-10-13 01:50:48,1962546,https://te.666iapk.net/gm/,botnet_cc,Vidar,vidar
+2026-10-13 01:49:21,1962545,https://te.666iapk.net/rr,botnet_cc,Vidar,"7e8a7f985c98fda597f67244fb56e735,c2,loader,stealer,Vidar"
+2026-10-13 01:48:11,1962543,https://te.666iapk.net/f7,botnet_cc,Vidar,"1718e0679220166cf123fbe6e40c635c,c2,loader,stealer,Vidar"
+2026-10-13 01:45:55,1962541,https://te.666iapk.net/k1w,botnet_cc,Vidar,"2ea6dc6bf3e951745c08efe9f8214187,c2,loader,stealer,Vidar"
+2026-10-13 01:45:48,1962540,https://te.666iapk.net/k1w/,botnet_cc,Vidar,vidar
+2026-10-13 01:42:50,1962539,https://te.666iapk.net/al,botnet_cc,Vidar,"1718e0679220166cf123fbe6e40c635c,c2,loader,stealer,Vidar"
+2026-10-13 01:40:48,1962538,https://te.666iapk.net/bt/,botnet_cc,Vidar,vidar
+2026-10-13 01:35:48,1962537,https://b.666iapk.net/,botnet_cc,Vidar,vidar
+2026-10-13 01:32:20,1962535,https://m.6r6r6.org/nz,botnet_cc,Vidar,"1718e0679220166cf123fbe6e40c635c,c2,loader,stealer,Vidar"
+2026-10-13 01:30:48,1962534,https://m.6r6r6.org/s4/,botnet_cc,Vidar,vidar
+2026-10-13 01:30:29,1962533,https://m.6r6r6.org/s4,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 01:29:17,1962532,https://m.6r6r6.org/bo,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 01:27:00,1962531,https://m.6r6r6.org/re,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 01:25:48,1962530,https://m.6r6r6.org/mo/,botnet_cc,Vidar,vidar
+2026-10-13 01:24:27,1962529,https://m.6r6r6.org/mo,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 01:23:23,1962528,https://m.6r6r6.org/wf,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 01:20:48,1962527,https://m.6r6r6.org/pl/,botnet_cc,Vidar,vidar
+2026-10-13 01:20:22,1962526,https://m.6r6r6.org/pl,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-13 01:18:19,1962525,https://m.6r6r6.org/hkf,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 01:16:13,1962524,https://m.6r6r6.org/c4,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-13 01:15:48,1962522,https://m.6r6r6.org/qb/,botnet_cc,Vidar,vidar
+2026-10-13 01:14:33,1962521,https://m.6r6r6.org/qb,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 01:12:21,1962520,https://m.6r6r6.org/r9,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 01:10:48,1962519,https://m.6r6r6.org/nl/,botnet_cc,Vidar,vidar
+2026-10-13 01:10:20,1962518,https://m.6r6r6.org/nl,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 01:09:09,1962517,https://m.6r6r6.org/du9,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-13 01:06:36,1962516,https://m.6r6r6.org/uw,botnet_cc,Vidar,"1718e0679220166cf123fbe6e40c635c,c2,loader,stealer,Vidar"
+2026-10-13 01:05:48,1962515,https://m.6r6r6.org/o5s/,botnet_cc,Vidar,vidar
+2026-10-13 01:04:21,1962512,https://m.6r6r6.org/o5s,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 01:03:46,1962511,https://m.6r6r6.org/dl,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-13 01:00:48,1962508,https://m.6r6r6.org/sr/,botnet_cc,Vidar,vidar
+2026-10-13 01:00:16,1962507,https://m.6r6r6.org/sr,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 00:58:30,1962506,https://m.6r6r6.org/wv,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 00:57:24,1962505,https://m.6r6r6.org/hp,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 00:55:48,1962504,https://m.6r6r6.org/ybd/,botnet_cc,Vidar,vidar
+2026-10-13 00:54:35,1962502,https://m.6r6r6.org/ybd,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 00:52:48,1962491,https://m.6r6r6.org/ss,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-13 00:52:04,1962490,https://m.6r6r6.org/tc,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 00:50:48,1962489,https://m.6r6r6.org/tc/,botnet_cc,Vidar,vidar
+2026-10-13 00:48:42,1962488,https://m.6r6r6.org/fg,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 00:47:13,1962487,https://m.6r6r6.org/ax,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 00:45:48,1962486,https://m.6r6r6.org/yi/,botnet_cc,Vidar,vidar
+2026-10-13 00:44:15,1962485,https://m.6r6r6.org/yi,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-13 00:43:37,1962484,https://m.6r6r6.org/y2,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 00:41:14,1962482,https://m.6r6r6.org/t,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 00:40:48,1962481,https://m.6r6r6.org/t/,botnet_cc,Vidar,vidar
+2026-10-13 00:38:17,1962480,https://m.6r6r6.org/j3,botnet_cc,Vidar,"1718e0679220166cf123fbe6e40c635c,c2,loader,stealer,Vidar"
+2026-10-13 00:36:36,1962478,https://m.6r6r6.org/ib,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 00:35:48,1962477,https://m.6r6r6.org/kxz/,botnet_cc,Vidar,vidar
+2026-10-13 00:35:23,1962476,https://m.6r6r6.org/kxz,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 00:32:57,1962475,https://m.6r6r6.org/fz,botnet_cc,Vidar,"1718e0679220166cf123fbe6e40c635c,c2,loader,stealer,Vidar"
+2026-10-13 00:30:48,1962474,https://m.6r6r6.org/eh/,botnet_cc,Vidar,vidar
+2026-10-13 00:30:37,1962473,https://m.6r6r6.org/eh,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 00:28:55,1962472,https://m.6r6r6.org/v92,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 00:26:21,1962471,https://m.6r6r6.org/xz,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-13 00:25:48,1962470,https://m.6r6r6.org/b43/,botnet_cc,Vidar,vidar
+2026-10-13 00:24:57,1962469,https://m.6r6r6.org/b43,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 00:22:15,1962468,https://m.6r6r6.org/ih3,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-13 00:20:48,1962467,https://m.6r6r6.org/qu/,botnet_cc,Vidar,vidar
+2026-10-13 00:20:34,1962466,https://m.6r6r6.org/qu,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 00:19:38,1962465,https://m.6r6r6.org/w,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 00:18:33,1962464,http://153.117.13.103:45177/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
+2026-10-13 00:18:32,1962462,http://216.126.80.56:43357/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
+2026-10-13 00:18:32,1962463,http://175.153.133.229:44327/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
+2026-10-13 00:16:20,1962461,https://m.6r6r6.org/ru,botnet_cc,Vidar,"1718e0679220166cf123fbe6e40c635c,c2,loader,stealer,Vidar"
+2026-10-13 00:15:48,1962460,https://m.6r6r6.org/d8/,botnet_cc,Vidar,vidar
+2026-10-13 00:14:18,1962459,https://m.6r6r6.org/d8,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 00:10:59,1962458,https://m.6r6r6.org/nu,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-13 00:10:48,1962457,https://m.6r6r6.org/nu/,botnet_cc,Vidar,vidar
+2026-10-13 00:08:16,1962456,https://m.6r6r6.org/iv,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 00:06:24,1962455,https://m.6r6r6.org/a8,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-13 00:05:48,1962454,https://m.6r6r6.org/wus/,botnet_cc,Vidar,vidar
+2026-10-13 00:04:20,1962453,https://m.6r6r6.org/wus,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-13 00:02:35,1962452,https://m.6r6r6.org/cq,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-13 00:00:48,1962451,https://v75.666iapk.net/xyz/,botnet_cc,Vidar,vidar
+2026-10-13 00:00:23,1962450,https://v75.666iapk.net/xyz,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-12 23:58:50,1962449,https://v75.666iapk.net/yo,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 23:56:19,1962448,https://v75.666iapk.net/va,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-12 23:55:48,1962447,https://v75.666iapk.net/gr/,botnet_cc,Vidar,vidar
+2026-10-12 23:54:30,1962446,https://v75.666iapk.net/gr,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-12 23:53:41,1962445,https://v75.666iapk.net/uyx,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 23:50:48,1962443,https://v75.666iapk.net/ch/,botnet_cc,Vidar,vidar
+2026-10-12 23:50:23,1962441,https://v75.666iapk.net/ch,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 23:46:19,1962440,https://v75.666iapk.net/xs,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 23:45:48,1962439,https://v75.666iapk.net/aw/,botnet_cc,Vidar,vidar
+2026-10-12 23:42:22,1962437,https://v75.666iapk.net/yb,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 23:40:48,1962436,https://v75.666iapk.net/pk/,botnet_cc,Vidar,vidar
+2026-10-12 23:39:26,1962435,https://v75.666iapk.net/s,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 23:36:53,1962434,https://v75.666iapk.net/nl,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 23:35:48,1962433,https://v75.666iapk.net/gt/,botnet_cc,Vidar,vidar
+2026-10-12 23:34:35,1962432,https://v75.666iapk.net/gt,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-12 23:32:56,1962431,https://v75.666iapk.net/bv,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-12 23:31:20,1962430,https://v75.666iapk.net/ak,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 23:30:48,1962429,https://v75.666iapk.net/ak/,botnet_cc,Vidar,vidar
+2026-10-12 23:28:27,1962428,https://v75.666iapk.net/m8,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 23:26:26,1962427,https://v75.666iapk.net/tw,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-12 23:25:48,1962426,https://v75.666iapk.net/g7/,botnet_cc,Vidar,vidar
+2026-10-12 23:24:22,1962425,https://v75.666iapk.net/g7,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-12 23:22:19,1962424,https://v75.666iapk.net/cm,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 23:20:48,1962423,https://v75.666iapk.net/my/,botnet_cc,Vidar,vidar
+2026-10-12 23:20:15,1962422,https://v75.666iapk.net/my,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 23:19:02,1962420,https://v75.666iapk.net/v,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 23:16:55,1962419,https://v75.666iapk.net/lkb,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 23:15:48,1962418,https://v75.666iapk.net/vj1/,botnet_cc,Vidar,vidar
+2026-10-12 23:14:23,1962417,https://v75.666iapk.net/vj1,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 23:12:20,1962416,https://v75.666iapk.net/ifa,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-12 23:10:52,1962415,https://v75.666iapk.net/mn,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 23:10:48,1962414,https://v75.666iapk.net/mn/,botnet_cc,Vidar,vidar
+2026-10-12 23:08:29,1962412,https://v75.666iapk.net/d,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-12 23:06:46,1962411,https://v75.666iapk.net/z,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 23:05:48,1962410,https://v75.666iapk.net/dt/,botnet_cc,Vidar,vidar
+2026-10-12 23:04:41,1962409,https://v75.666iapk.net/dt,botnet_cc,Vidar,"1718e0679220166cf123fbe6e40c635c,c2,loader,stealer,Vidar"
+2026-10-12 23:03:25,1962408,https://v75.666iapk.net/da,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 23:00:48,1962407,https://v75.666iapk.net/uf7/,botnet_cc,Vidar,vidar
+2026-10-12 23:00:30,1962406,https://v75.666iapk.net/uf7,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-12 22:58:34,1962405,https://v75.666iapk.net/y3,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 22:56:24,1962404,https://v75.666iapk.net/fq,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-12 22:55:49,1962403,https://v75.666iapk.net/y/,botnet_cc,Vidar,vidar
+2026-10-12 22:54:25,1962316,https://v75.666iapk.net/y,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 22:52:55,1962187,https://v75.666iapk.net/ef,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 22:50:48,1962186,https://v75.666iapk.net/u5/,botnet_cc,Vidar,vidar
+2026-10-12 22:50:43,1962185,https://v75.666iapk.net/u5,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 22:48:27,1962184,https://v75.666iapk.net/w,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 22:47:05,1962183,https://v75.666iapk.net/uh,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 22:45:48,1962182,https://v75.666iapk.net/ad/,botnet_cc,Vidar,vidar
+2026-10-12 22:45:17,1962181,https://v75.666iapk.net/ad,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-12 22:42:29,1962180,https://v75.666iapk.net/x,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-12 22:41:03,1962179,https://v75.666iapk.net/h,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 22:40:48,1962178,https://v75.666iapk.net/h/,botnet_cc,Vidar,vidar
+2026-10-12 22:39:14,1962177,https://v75.666iapk.net/m,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 22:36:21,1962176,https://v75.666iapk.net/h4,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 22:35:48,1962175,https://v75.666iapk.net/q9/,botnet_cc,Vidar,vidar
+2026-10-12 22:34:20,1962174,https://v75.666iapk.net/q9,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 22:34:01,1962173,https://v75.666iapk.net/pr,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 22:30:48,1962172,https://v75.666iapk.net/x4/,botnet_cc,Vidar,vidar
+2026-10-12 22:30:39,1962171,https://v75.666iapk.net/x4,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 22:28:19,1962170,https://v75.666iapk.net/vb,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 22:26:33,1962169,https://v75.666iapk.net/aw,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-12 22:25:48,1962168,https://v75.666iapk.net/sj/,botnet_cc,Vidar,vidar
+2026-10-12 22:24:37,1962167,https://v75.666iapk.net/sj,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 22:22:51,1962166,https://v75.666iapk.net/by,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 22:21:18,1962164,https://v75.666iapk.net/fys,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 22:20:48,1962163,https://v75.666iapk.net/fys/,botnet_cc,Vidar,vidar
+2026-10-12 22:19:08,1962162,https://v75.666iapk.net/o4,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 22:16:28,1962161,https://v75.666iapk.net/bo,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 22:15:48,1962160,https://v75.666iapk.net/di/,botnet_cc,Vidar,vidar
+2026-10-12 22:14:34,1962159,https://v75.666iapk.net/di,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-12 22:13:12,1962158,https://v75.666iapk.net/ox,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 22:10:48,1962156,https://v75.666iapk.net/l2/,botnet_cc,Vidar,vidar
+2026-10-12 22:10:48,1962157,https://v75.666iapk.net/l2,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 22:08:15,1962155,https://v75.666iapk.net/vf,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 22:07:04,1962154,https://v75.666iapk.net/j3,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-12 22:05:56,1962153,https://tis.676i.org,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-12 22:05:47,1962152,https://v75.666iapk.net/d4/,botnet_cc,Vidar,vidar
+2026-10-12 22:05:35,1962151,https://v75.666iapk.net/d4,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 22:02:31,1962149,https://v75.666iapk.net/hs,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 22:01:18,1962146,https://dasdase13.icu/,payload_delivery,Unknown malware,ClickFix
+2026-10-12 22:01:17,1962144,https://ecodation.com/,payload_delivery,Unknown malware,ClickFix
+2026-10-12 22:01:17,1962145,https://intgspace.com/,payload_delivery,Unknown malware,ClickFix
+2026-10-12 22:00:48,1962143,https://bra.666iapk.net/r/,botnet_cc,Vidar,vidar
+2026-10-12 22:00:15,1962141,https://bra.666iapk.net/r,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 21:58:39,1962140,https://bra.666iapk.net/z,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 21:56:30,1962138,https://bra.666iapk.net/o,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 21:55:48,1962137,https://bra.666iapk.net/vq/,botnet_cc,Vidar,vidar
+2026-10-12 21:54:44,1962136,https://bra.666iapk.net/vq,botnet_cc,Vidar,"1718e0679220166cf123fbe6e40c635c,c2,loader,stealer,Vidar"
+2026-10-12 21:52:23,1962135,https://bra.666iapk.net/s4,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 21:50:48,1962134,https://bra.666iapk.net/nr/,botnet_cc,Vidar,vidar
+2026-10-12 21:50:17,1962133,https://bra.666iapk.net/nr,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-12 21:48:47,1962132,https://bra.666iapk.net/efn,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 21:46:35,1962131,https://bra.666iapk.net/ft,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-12 21:45:48,1962130,https://bra.666iapk.net/y2/,botnet_cc,Vidar,vidar
+2026-10-12 21:44:26,1962129,https://bra.666iapk.net/y2,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-12 21:43:31,1962128,https://bra.666iapk.net/h8,botnet_cc,Vidar,"1718e0679220166cf123fbe6e40c635c,c2,loader,stealer,Vidar"
+2026-10-12 21:40:48,1962126,https://bra.666iapk.net/dp/,botnet_cc,Vidar,vidar
+2026-10-12 21:40:22,1962125,https://bra.666iapk.net/dp,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 21:38:13,1962124,https://bra.666iapk.net/sv,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 21:36:19,1962123,https://bra.666iapk.net/b1,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-12 21:35:48,1962122,https://bra.666iapk.net/a/,botnet_cc,Vidar,vidar
+2026-10-12 21:34:33,1962121,https://bra.666iapk.net/a,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 21:32:23,1962118,https://bra.666iapk.net/m6,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 21:30:48,1962117,https://bra.666iapk.net/f2/,botnet_cc,Vidar,vidar
+2026-10-12 21:30:16,1962116,https://bra.666iapk.net/f2,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 21:28:15,1962115,https://bra.666iapk.net/ae,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-12 21:26:14,1962114,https://bra.666iapk.net/p,botnet_cc,Vidar,"5ecaf10790d5f89db8606b207b2143e4,c2,loader,stealer,Vidar"
+2026-10-12 21:25:48,1962113,https://bra.666iapk.net/lbr/,botnet_cc,Vidar,vidar
+2026-10-12 21:24:23,1962112,https://bra.666iapk.net/lbr,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-12 21:23:07,1962111,https://bra.666iapk.net/g,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-12 21:20:48,1962110,https://bra.666iapk.net/cn/,botnet_cc,Vidar,vidar
+2026-10-12 21:20:16,1962109,https://bra.666iapk.net/cn,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 21:19:04,1962108,https://bra.666iapk.net/i8y,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-12 21:17:45,1962107,https://bra.666iapk.net/x5,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-12 21:15:48,1962106,https://bra.666iapk.net/djx/,botnet_cc,Vidar,vidar
+2026-10-12 21:14:15,1962105,https://bra.666iapk.net/djx,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 21:12:39,1962104,https://bra.666iapk.net/wyo,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-12 21:10:48,1962103,https://bra.666iapk.net/d4w/,botnet_cc,Vidar,vidar
+2026-10-12 21:08:17,1962102,https://bra.666iapk.net/cz2,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 21:07:03,1962101,https://bra.666iapk.net/et,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-12 21:05:48,1962099,https://bra.666iapk.net/pev/,botnet_cc,Vidar,vidar
+2026-10-12 21:02:47,1962098,https://bra.666iapk.net/hw,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 21:01:23,1962097,https://bra.666iapk.net/rh,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-12 21:00:54,1962096,https://magkaisacentre.org/,payload_delivery,Unknown malware,ClickFix
+2026-10-12 21:00:48,1962095,https://bra.666iapk.net/rh/,botnet_cc,Vidar,vidar
+2026-10-12 20:58:18,1962094,https://bra.666iapk.net/bt,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 20:56:13,1962092,https://bra.666iapk.net/pe,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 20:55:48,1962091,https://bra.666iapk.net/to/,botnet_cc,Vidar,vidar
+2026-10-12 20:54:30,1962090,https://bra.666iapk.net/to,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-12 20:52:18,1962089,https://bra.666iapk.net/ix,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 20:50:48,1962086,https://bra.666iapk.net/t3/,botnet_cc,Vidar,vidar
+2026-10-12 20:49:11,1962085,https://bra.666iapk.net/kh,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-12 20:45:48,1962084,https://bra.666iapk.net/mm/,botnet_cc,Vidar,vidar
+2026-10-12 20:44:16,1962083,https://bra.666iapk.net/mm,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 20:43:31,1962082,https://bra.666iapk.net/z0,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-12 20:40:48,1962081,https://bra.666iapk.net/x/,botnet_cc,Vidar,vidar
+2026-10-12 20:40:26,1962080,https://bra.666iapk.net/x,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 20:38:17,1962079,https://bra.666iapk.net/at,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-12 20:35:48,1962077,https://bra.666iapk.net/tc/,botnet_cc,Vidar,vidar
+2026-10-12 20:34:49,1962076,https://bra.666iapk.net/tc,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 20:33:03,1962075,https://bra.666iapk.net/s1,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 20:31:49,1962073,https://bra.666iapk.net/bx,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-12 20:30:48,1962072,https://bra.666iapk.net/bx/,botnet_cc,Vidar,vidar
+2026-10-12 20:29:15,1962071,https://bra.666iapk.net/w7,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 20:25:48,1962070,https://bra.666iapk.net/c9/,botnet_cc,Vidar,vidar
+2026-10-12 20:25:27,1962069,https://bra.666iapk.net/c9,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 20:05:48,1962066,https://bra.666iapk.net/,botnet_cc,Vidar,vidar
+2026-10-12 20:02:37,1962062,https://bra.666iapk.net,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-12 19:55:48,1962061,https://jui.666iapk.net/ha/,botnet_cc,Vidar,vidar
+2026-10-12 19:55:20,1962060,https://jui.666iapk.net/ha,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-12 19:50:48,1962054,https://get.666iapk.net/ye/,botnet_cc,Vidar,vidar
+2026-10-12 19:49:57,1962053,https://get.666iapk.net/ye,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 19:30:52,1962027,https://priors-staking.cfd/,payload_delivery,Unknown malware,ClickFix
+2026-10-12 19:20:10,1962026,https://jui.666iapk.net,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 19:05:48,1962023,https://jui.666iapk.net/,botnet_cc,Vidar,vidar
+2026-10-12 19:00:55,1962013,https://sevabrigade.org/,payload_delivery,Unknown malware,ClickFix
+2026-10-12 19:00:17,1962012,https://u1u.676i.org,botnet_cc,Vidar,"c2,d852ede598d72f2b3a4050576466ec62,loader,stealer,Vidar"
+2026-10-12 18:57:21,1962007,https://apisue.click/app.exe,payload_delivery,Unknown Loader,"etherhiding,fake-ai-tool,payload-delivery"
+2026-10-12 18:57:21,1962010,https://apisue.click/zip.php,payload_delivery,Unknown Loader,"etherhiding,fake-ai-tool,payload-delivery"
+2026-10-12 18:57:20,1962011,https://apisue.click/dll.php,payload_delivery,Unknown Loader,"etherhiding,fake-ai-tool,payload-delivery"
+2026-10-12 18:45:45,1961980,https://runelite.is/launch.php,botnet_cc,Unknown malware,"OSRS,RuneLite,stealer"
+2026-10-12 18:45:44,1961981,https://runelite.is/updater_version.php,botnet_cc,Unknown malware,"OSRS,RuneLite,stealer"
+2026-10-12 18:45:44,1961982,https://runelite.is/plugins_version.php,botnet_cc,Unknown malware,"OSRS,RuneLite,stealer"
+2026-10-12 18:45:43,1961985,https://client-runelite.is/3.php,botnet_cc,Unknown malware,"OSRS,RuneLite,stealer"
+2026-10-12 18:45:42,1961983,https://client-runelite.is/1.php,botnet_cc,Unknown malware,"OSRS,RuneLite,stealer"
+2026-10-12 18:45:41,1961984,https://client-runelite.is/2.php,botnet_cc,Unknown malware,"OSRS,RuneLite,stealer"
+2026-10-12 18:45:40,1961986,https://client-runelite.is/4.php,botnet_cc,Unknown malware,"OSRS,RuneLite,stealer"
+2026-10-12 18:45:20,1961987,https://client-runelite.is/5.php,botnet_cc,Unknown malware,"OSRS,RuneLite,stealer"
+2026-10-12 18:18:44,1961973,http://27.71.85.207:34284/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
+2026-10-12 18:10:01,1961957,http://146.103.101.229/Lurowuf,payload_delivery,AMOS,"AMOS,ClickFix,macOS"
+2026-10-12 18:10:01,1961958,http://146.103.101.229/Tucoyodel,payload_delivery,AMOS,"AMOS,ClickFix,macOS"
+2026-10-12 18:05:48,1961966,https://get.666iapk.net/,botnet_cc,Vidar,vidar
+2026-10-12 17:31:08,1961951,https://74.208.248.39/,payload_delivery,Unknown malware,ClickFix
+2026-10-12 17:31:08,1961952,https://updates.howclens.com/,payload_delivery,Unknown malware,ClickFix
+2026-10-12 17:31:08,1961953,https://metricairdrop.cfd/,payload_delivery,Unknown malware,ClickFix
+2026-10-12 16:31:34,1961835,https://45.59.122.85/api/browser-session/authorize,botnet_cc,Unknown RAT,"aitm,c2"
+2026-10-12 16:30:53,1961942,https://ufabet168.wiki/,payload_delivery,Unknown malware,ClickFix
+2026-10-12 16:27:53,1961941,https://uiu.676i.org,botnet_cc,Vidar,vidar
+2026-10-12 16:05:48,1961830,https://foi.666iapk.net/,botnet_cc,Vidar,vidar
+2026-10-12 16:02:28,1961828,https://foi.666iapk.net,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 15:55:48,1961807,https://des.666iapk.net/,botnet_cc,Vidar,vidar
+2026-10-12 15:43:10,1961802,https://bob.6666k.org,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 15:40:48,1961801,https://bob.6666k.org/,botnet_cc,Vidar,vidar
+2026-10-12 15:35:48,1961799,https://x3a.6666k.org/,botnet_cc,Vidar,vidar
+2026-10-12 15:34:33,1961796,http://cocuktekstil.com/r,payload_delivery,DeerStealer,"ClickFix,ps1,stager"
+2026-10-12 15:34:31,1961797,http://172.236.199.34/r,payload_delivery,DeerStealer,"ClickFix,stager"
+2026-10-12 15:32:11,1961792,https://x3a.6666k.org,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 15:20:48,1961787,https://nyr.6666k.org/,botnet_cc,Vidar,vidar
+2026-10-12 15:20:31,1961785,https://nyr.6666k.org,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 15:02:13,1961771,https://q6.6666k.org,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 15:00:49,1961770,https://q6.6666k.org/,botnet_cc,Vidar,vidar
+2026-10-12 15:00:13,1961768,https://104.105.24.45,botnet_cc,Vidar,"6b073c5802343e9f6357cdd8a77bb026,c2,loader,stealer,Vidar"
+2026-10-12 14:45:48,1961758,https://zpz.6666k.org/,botnet_cc,Vidar,vidar
+2026-10-12 14:25:48,1961740,https://msm.6666k.org/,botnet_cc,Vidar,vidar
+2026-10-12 14:05:48,1961733,https://lra.6666k.org/,botnet_cc,Vidar,vidar
+2026-10-12 14:05:13,1961731,https://lra.6666k.org,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 14:00:36,1961726,https://217.60.103.181,botnet_cc,Vidar,"9086805e5199f7cefb00002892296daa,c2,loader,stealer,Vidar"
+2026-10-12 13:58:29,1961703,https://browse-veriid.beer,payload_delivery,Unknown malware,"ClickFix,ErrTraffic,EtherHiding,Polygon"
+2026-10-12 13:58:28,1961724,http://browse-veriid.beer/p/ae5193faf1cea1874f7c68e5c20dc103a7638c4796c119e04a08c476312313bc,payload_delivery,IClickFix,None
+2026-10-12 13:46:04,1961706,https://mgs.6666k.org,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 13:45:48,1961705,https://mgs.6666k.org/,botnet_cc,Vidar,vidar
+2026-10-12 13:33:17,1961701,https://dp1.6666k.org,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 13:30:48,1961700,https://dp1.6666k.org/,botnet_cc,Vidar,vidar
+2026-10-12 13:17:02,1961696,https://nnf.6666k.org,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 13:15:48,1961695,https://nnf.6666k.org/,botnet_cc,Vidar,vidar
+2026-10-12 13:00:48,1961686,https://n34.6666k.org/,botnet_cc,Vidar,vidar
+2026-10-12 13:00:39,1961684,https://n34.6666k.org,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
+2026-10-12 12:55:22,1961683,https://steamcommunity.com/profiles/76561198622044578,botnet_cc,Vidar,vidar
+2026-10-12 12:55:21,1961682,https://t.me/scii0n,botnet_cc,Vidar,vidar
+2026-10-12 12:54:26,1961681,https://b6y.6666k.org,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
+2026-10-12 12:45:48,1961663,https://b6y.6666k.org/,botnet_cc,Vidar,vidar
+2026-10-12 12:42:08,1961638,https://escapeai.live/api/build_config,botnet_cc,Unknown malware,"ICMacOS,STRU"
+2026-10-12 12:42:07,1961639,https://escapeai.live/icmacos_run_v2.command,botnet_cc,Unknown malware,"ICMacOS,STRU"
+2026-10-12 12:42:07,1961642,https://escapeai.live/ICMacOs?arch=amd64,botnet_cc,Unknown malware,"ICMacOS,STRU"
+2026-10-12 12:42:05,1961640,http://escapeai.live/loader_v2.sh,botnet_cc,Unknown malware,"ICMacOS,STRU"
+2026-10-12 12:42:05,1961641,https://escapeai.live/ICMacOs?arch=arm64,botnet_cc,Unknown malware,"ICMacOS,STRU"
+2026-10-12 12:42:02,1961643,https://escapeai.live/payload.py,botnet_cc,Unknown malware,"ICMacOS,STRU"
+2026-10-12 12:42:02,1961644,https://escapeai.live/upload,botnet_cc,Unknown malware,"ICMacOS,STRU"
+2026-10-12 12:36:11,1961612,https://profile.turquoisequadrant.info/dashboard/endpoint-effect,payload_delivery,SmartApeSG,SmartApeSG
+2026-10-12 12:36:10,1961614,https://profile.turquoisequadrant.info/dashboard/role-asset.js,payload_delivery,SmartApeSG,SmartApeSG
+2026-10-12 12:25:48,1961626,https://sik.6666k.org/,botnet_cc,Vidar,vidar
+2026-10-12 12:18:28,1961623,http://190.196.253.18:11342/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
+2026-10-12 12:18:28,1961624,http://124.29.226.120:45435/Mozi.a,payload_delivery,Mozi,"elf,iot,Mozi"
+2026-10-12 12:18:27,1961622,http://223.123.43.69:39969/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
+2026-10-12 12:10:48,1961611,https://mke.6666k.org/,botnet_cc,Vidar,vidar
+2026-10-12 12:02:34,1961608,https://vty.6666k.org,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-12 11:55:48,1961600,https://vty.6666k.org/,botnet_cc,Vidar,vidar
+2026-10-12 11:49:38,1961573,https://heartbeatyardpoint.com,payload_delivery,ClearFake,"ClearFake,ClickFix,EtherHiding"
+2026-10-12 11:49:37,1961572,https://ingestwebneo.com,payload_delivery,ClearFake,"ClearFake,ClickFix,EtherHiding"
+2026-10-12 11:49:12,1961571,https://efq.6666k.org,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 11:40:48,1961569,https://efq.6666k.org/,botnet_cc,Vidar,vidar
+2026-10-12 11:20:48,1961564,https://bty.6666k.org/,botnet_cc,Vidar,vidar
+2026-10-12 11:05:48,1961561,https://mgu.6666k.org/,botnet_cc,Vidar,vidar
+2026-10-12 10:51:11,1961543,https://fif.6666k.org,botnet_cc,Vidar,"ab0a59f4970a96fd6e8daa4f6f8e22cd,c2,loader,stealer,Vidar"
+2026-10-12 10:50:48,1961542,https://fif.6666k.org/,botnet_cc,Vidar,vidar
+2026-10-12 10:46:35,1961527,http://45.198.224.34/0upx86,payload_delivery,Mirai,"honeypot,shardlure"
+2026-10-12 10:46:34,1961529,http://45.198.224.34/0upspc,payload_delivery,Mirai,"honeypot,shardlure"
+2026-10-12 10:46:33,1961531,http://45.198.224.34/0upsh4,payload_delivery,Mirai,"honeypot,shardlure"
+2026-10-12 10:46:32,1961532,http://45.198.224.34/0upppc,payload_delivery,Mirai,"honeypot,shardlure"
+2026-10-12 10:46:32,1961533,http://45.198.224.34/0upm68k,payload_delivery,Mirai,"honeypot,shardlure"
+2026-10-12 10:46:31,1961534,http://45.198.224.34/0upmpsl,payload_delivery,Mirai,"honeypot,shardlure"
+2026-10-12 10:46:31,1961535,http://45.198.224.34/0uparm7,payload_delivery,Mirai,"honeypot,shardlure"
+2026-10-12 10:46:30,1961536,http://45.198.224.34/0uparm5,payload_delivery,Mirai,"honeypot,shardlure"
+2026-10-12 10:46:30,1961537,http://45.198.224.34/0uparm6,payload_delivery,Mirai,"honeypot,shardlure"
+2026-10-12 10:46:30,1961538,http://45.198.224.34/0uparm,payload_delivery,Mirai,"honeypot,shardlure"
+2026-10-12 10:46:29,1961539,http://45.198.224.34/0upx64,payload_delivery,Mirai,"honeypot,shardlure"
+2026-10-12 10:46:29,1961540,http://45.198.224.34/0upmips,payload_delivery,Mirai,"honeypot,shardlure"
+2026-10-12 10:37:43,1961526,https://vtr.6666k.org,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 10:00:54,1961522,https://agricropmarket.com/,payload_delivery,Unknown malware,ClickFix
+2026-10-12 09:40:48,1961447,https://vtr.6666k.org/,botnet_cc,Vidar,vidar
+2026-10-12 08:51:05,1961431,https://policysync.pro/1kzpao/m1al0QPUVeJU,payload_delivery,IClickFix,None
+2026-10-12 08:51:05,1961432,https://policysync.pro/1kzpao/0G7Xcm07FD8I,payload_delivery,IClickFix,None
+2026-10-12 08:36:45,1961429,https://xsl.6666k.org,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
+2026-10-12 08:30:52,1961427,https://derltraliqruidity.lat/,payload_delivery,Unknown malware,ClickFix
 2026-10-12 08:25:48,1961426,https://xsl.6666k.org/,botnet_cc,Vidar,vidar
 2026-10-12 08:10:48,1961419,https://fqa.6666k.org/,botnet_cc,Vidar,vidar
 2026-10-12 07:55:48,1961407,https://mim.6666k.org/,botnet_cc,Vidar,vidar
@@ -251,199 +872,28 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-10-11 12:18:59,1960651,http://223.123.38.94:58644/Mozi.a,payload_delivery,Mozi,"elf,iot,Mozi"
 2026-10-11 10:05:48,1960613,https://hs.4-win.org/,botnet_cc,Vidar,vidar
 2026-10-11 10:00:49,1960608,https://hs.54toto.org/,botnet_cc,Vidar,vidar
-2026-10-11 07:12:05,1960492,https://mathang.club/,botnet_cc,Unknown Stealer,WARDENStealer
-2026-10-11 07:02:58,1960088,https://fh.4-win.org,botnet_cc,Vidar,"6713982832fdd0efe07912b12c5c5b2b,c2,loader,stealer,Vidar"
 2026-10-11 07:02:56,1960104,https://217.60.103.161,botnet_cc,Vidar,"c2,c73d7597f88e3372738ace4ab1ffa3c2,loader,stealer,Vidar"
-2026-10-11 07:02:51,1960374,https://fable-shine.com/curl/g0xsutkb0/iwsnry04os3w6i7z3ufc.dat,payload_delivery,AMOS,"AMOS,ClickFix,Foxveil,macOS"
-2026-10-11 07:02:50,1960375,https://fable-shine.com/f/9ksbxnvwoj7pts0uxop4sa/01pemlfd,payload_delivery,AMOS,"AMOS,ClickFix,Foxveil,macOS"
-2026-10-11 07:02:37,1960434,http://110.42.232.120:8897/?h=110.42.232.120&p=8897&t=tcp&a=a64&stage=true&k=b41bfef6tcp,payload_delivery,VShell,VShell
-2026-10-11 07:02:36,1960432,http://110.42.232.120:8897/?h=110.42.232.120&p=8897&t=tcp&a=l64&stage=true&k=b41bfef6tcp,payload_delivery,VShell,VShell
-2026-10-11 07:02:36,1960435,http://110.42.232.120:8897/?h=110.42.232.120&p=8897&t=tcp&a=a32&stage=true&k=b41bfef6tcp,payload_delivery,VShell,VShell
-2026-10-11 07:02:35,1960433,http://110.42.232.120:8897/?h=110.42.232.120&p=8897&t=tcp&a=l32&stage=true&k=b41bfef6tcp,payload_delivery,VShell,VShell
-2026-10-11 07:02:34,1960436,http://148.66.17.125:60003/?a=w32&h=148.66.17.125&t=ws_&p=60003,payload_delivery,VShell,VShell
-2026-10-11 07:02:31,1960448,https://gp.4-win.org,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
 2026-10-11 07:02:30,1960449,https://172.104.228.244,botnet_cc,Vidar,"c2,e76c218ff82c61f1af8c87600d956e3e,loader,stealer,Vidar"
-2026-10-11 07:02:29,1960452,https://wssc.flavorroute.cc/,botnet_cc,Unknown malware,"HijackLoader,ZigClipper"
-2026-10-11 07:02:22,1960478,https://gp.54toto.org,botnet_cc,Vidar,"c2,c7a50169dbc6d842a7e7d349513f88f1,loader,stealer,Vidar"
-2026-10-11 06:31:23,1960485,http://saganlive.com:5747,botnet_cc,Remus,remus
-2026-10-11 06:18:51,1960482,http://59.103.119.88:58644/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
-2026-10-11 06:00:07,1960479,http://arqtsop.shop:9932/reviews,botnet_cc,Remus,remus
-2026-10-11 05:30:54,1960474,https://web.aloha-hk.com/,payload_delivery,Unknown malware,ClickFix
-2026-10-11 04:30:54,1960463,https://trazoseguro.com/,payload_delivery,Unknown malware,ClickFix
-2026-10-11 03:30:53,1960443,https://taazaproducts.com/,payload_delivery,Unknown malware,ClickFix
-2026-10-11 03:08:58,1960442,https://blaze-x.com/Brazzers.msi,payload_delivery,Unknown malware,ClickFix
-2026-10-11 02:00:54,1960415,https://orlaproperties.com/,payload_delivery,Unknown malware,ClickFix
-2026-10-11 01:30:53,1960395,https://miit-s.com/,payload_delivery,Unknown malware,ClickFix
-2026-10-11 01:30:53,1960396,https://comomudarsuamente.com/,payload_delivery,Unknown malware,ClickFix
-2026-10-11 01:30:53,1960397,https://amberbriefs.au/,payload_delivery,Unknown malware,ClickFix
-2026-10-11 01:30:53,1960398,https://activesummary.us/,payload_delivery,Unknown malware,ClickFix
-2026-10-11 01:30:53,1960399,https://asongforyou.cool/,payload_delivery,Unknown malware,ClickFix
-2026-10-11 01:30:53,1960400,https://deception52.com/cgi-sys/defaultwebpage.cgi,payload_delivery,Unknown malware,ClickFix
-2026-10-11 01:30:53,1960401,https://kohxiv.com/,payload_delivery,Unknown malware,ClickFix
-2026-10-11 01:30:53,1960402,https://www.miei.education/,payload_delivery,Unknown malware,ClickFix
-2026-10-11 01:30:53,1960403,https://interiorhomedesignsbylianna.com/,payload_delivery,Unknown malware,ClickFix
-2026-10-11 01:30:53,1960404,https://parajulis.com.np/,payload_delivery,Unknown malware,ClickFix
-2026-10-11 01:30:53,1960405,https://revumaster.com/,payload_delivery,Unknown malware,ClickFix
-2026-10-11 01:30:53,1960406,https://tcea.top/,payload_delivery,Unknown malware,ClickFix
-2026-10-11 01:30:53,1960407,https://realestateeg.com/,payload_delivery,Unknown malware,ClickFix
-2026-10-11 01:30:53,1960408,https://playasdealmeria.com/,payload_delivery,Unknown malware,ClickFix
-2026-10-11 01:30:53,1960409,https://tennis-forecast.com/,payload_delivery,Unknown malware,ClickFix
-2026-10-11 01:30:53,1960410,https://bakarmandi.online/?i=1,payload_delivery,Unknown malware,ClickFix
-2026-10-11 00:55:48,1960389,https://gp.4-win.org/,botnet_cc,Vidar,vidar
-2026-10-11 00:40:48,1960386,https://gp.54toto.org/,botnet_cc,Vidar,vidar
-2026-10-11 00:18:48,1960380,http://153.117.66.231:54098/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
-2026-10-11 00:18:48,1960381,http://118.175.206.237:56655/Mozi.a,payload_delivery,Mozi,"elf,iot,Mozi"
-2026-10-10 23:30:52,1960371,https://boxingready.com/,payload_delivery,Unknown malware,ClickFix
-2026-10-10 23:30:52,1960372,https://unigadgetz.com/,payload_delivery,Unknown malware,ClickFix
-2026-10-10 23:07:04,1960345,http://31.77.144.86:49104/ddb64.dll,payload_delivery,Coinminer,"Coinminer,exe"
-2026-10-10 22:35:23,1960342,http://hkealop.shop:9932/sessions,botnet_cc,Remus,remus
-2026-10-10 22:30:57,1960341,https://lydigital.com.br/,payload_delivery,Unknown malware,ClickFix
-2026-10-10 21:05:39,1960168,https://sosaiem217.pages.dev/Sosaiem-Miner.exe,payload_delivery,Unknown malware,"coinminer,exe"
-2026-10-10 19:25:48,1960126,https://tr.4-win.org/,botnet_cc,Vidar,vidar
-2026-10-10 19:20:48,1960124,https://tr.54toto.org/,botnet_cc,Vidar,vidar
-2026-10-10 18:18:45,1960109,http://202.47.49.125:56345/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
-2026-10-10 18:18:44,1960108,http://45.2.24.40:59399/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
-2026-10-10 18:10:48,1960106,https://nz.54toto.org/,botnet_cc,Vidar,vidar
-2026-10-10 17:10:08,1960099,http://208.167.245.124:18884/?h=208.167.245.124&p=18884&t=ws&a=w64&stage=true,payload_delivery,VShell,"exe,VShell"
-2026-10-10 17:10:07,1960098,http://208.167.245.124:18884/?h=208.167.245.124&p=18884&t=ws&a=w32&stage=true,payload_delivery,VShell,"exe,VShell"
-2026-10-10 17:09:56,1960097,http://208.167.245.124:9993/?h=208.167.245.124&p=9993&t=tcp&a=w64&stage=true,payload_delivery,VShell,"exe,VShell"
-2026-10-10 17:08:56,1960096,http://208.167.245.124:9993/?h=208.167.245.124&p=9993&t=tcp&a=w32&stage=true,payload_delivery,VShell,"exe,VShell"
-2026-10-10 17:08:55,1960095,http://208.167.245.124:18884/?h=208.167.245.124&p=18884&t=tcp&a=w32&stage=true,payload_delivery,VShell,"exe,VShell"
-2026-10-10 17:06:31,1960094,https://pulse-dtc.pages.dev/download/pulse-installer.exe,payload_delivery,Unknown malware,exe
-2026-10-10 17:06:06,1960093,http://91.92.242.236/files-129312398/files/file_a6357da6a05d7266.exe,payload_delivery,Unknown malware,"54e64e,dropped-by-Amadey,exe,spyware"
-2026-10-10 17:06:04,1960092,http://91.92.242.236/files-129312398/files/file_37b904483beaa60e.exe,payload_delivery,Unknown Loader,"54e64e,dropped-by-Amadey,dropper,exe"
-2026-10-10 17:06:02,1960091,http://77.237.29.219:2027//sshd,payload_delivery,SSHDoor,"elf,SSHdKit,SSHDoor"
-2026-10-10 16:39:15,1960019,https://fh.4toto.net,botnet_cc,Vidar,"b89d843f29af2eed09805e9767a1165f,c2,loader,stealer,Vidar"
 2026-10-10 16:39:13,1960062,https://172.235.183.120,botnet_cc,Vidar,"0a9d3f5b5c13d8baec008af3c894458c,c2,loader,stealer,Vidar"
-2026-10-10 14:22:54,1960051,http://homecor.click:6527/documents,botnet_cc,Remus,remus
-2026-10-10 14:22:54,1960052,http://fgashub.shop:9932/addresses,botnet_cc,Remus,remus
-2026-10-10 14:22:54,1960053,http://phetsre.shop:3452/teams,botnet_cc,Remus,remus
-2026-10-10 13:35:48,1960022,https://fh.4-win.org/,botnet_cc,Vidar,vidar
-2026-10-10 13:35:48,1960024,https://fh.54toto.org/,botnet_cc,Vidar,vidar
-2026-10-10 13:30:48,1960016,https://fh.4toto.net/,botnet_cc,Vidar,vidar
-2026-10-10 13:30:48,1960018,https://fh.33pedia.org/,botnet_cc,Vidar,vidar
-2026-10-10 13:26:23,1960013,https://mathang.pics/,botnet_cc,Unknown Stealer,WARDENStealer
-2026-10-10 13:01:40,1959853,https://7wm8zvijixjvah2obebyh.beer,payload_delivery,Unknown malware,"ClickFix,ErrTraffic,EtherHiding,Polygon"
-2026-10-10 13:01:40,1959859,https://bm45m70ol5ave2fopggr4q.beer,payload_delivery,Unknown malware,"ClickFix,ErrTraffic,EtherHiding,Polygon"
-2026-10-10 13:01:39,1959861,https://rur3c58hk2l6b4wspfaewp.beer,payload_delivery,Unknown malware,"ClickFix,ErrTraffic,EtherHiding,Polygon"
-2026-10-10 13:01:39,1959863,https://2ti34h1lzcapw2f3rt8mfs.beer,payload_delivery,Unknown malware,"ClickFix,ErrTraffic,EtherHiding,Polygon"
-2026-10-10 13:01:38,1959865,https://aoclbl1a7jy7swo9b0kk.beer,payload_delivery,Unknown malware,"ClickFix,ErrTraffic,EtherHiding,Polygon"
-2026-10-10 13:01:38,1959867,https://4dm3itrtps8m2grskrqygf.beer,payload_delivery,Unknown malware,"ClickFix,ErrTraffic,EtherHiding,Polygon"
-2026-10-10 13:01:37,1959873,https://pastebin.com/raw/V8ESQmNy,botnet_cc,XWorm,"dead-drop,shrike,silentnet,xwormlab"
-2026-10-10 13:01:36,1959869,https://3o3irtt8p0eztfqlkeso.beer,payload_delivery,Unknown malware,"ClickFix,ErrTraffic,EtherHiding,Polygon"
-2026-10-10 13:01:36,1959871,https://jqpss3yzn9n3mqqkukhfs.beer,payload_delivery,Unknown malware,"ClickFix,ErrTraffic,EtherHiding,Polygon"
-2026-10-10 13:01:35,1959872,http://45.141.27.27/dll/,payload_delivery,XWorm,"shrike,silentnet,xwormlab"
-2026-10-10 13:01:34,1959875,https://kd06s98zp58kxcst0zywt9.beer,payload_delivery,Unknown malware,"ClickFix,ErrTraffic,EtherHiding,Polygon"
-2026-10-10 13:01:34,1959877,https://njgymyclrf1pntn06lgjm.beer,payload_delivery,Unknown malware,"ClickFix,ErrTraffic,EtherHiding,Polygon"
-2026-10-10 13:01:33,1959879,https://xwezrnmm0tf1vd3llbdwl.beer,payload_delivery,Unknown malware,"ClickFix,ErrTraffic,EtherHiding,Polygon"
-2026-10-10 13:01:33,1959883,https://832nw30kq5rb0j4onh9tfw.beer,payload_delivery,Unknown malware,"ClickFix,ErrTraffic,EtherHiding,Polygon"
-2026-10-10 13:01:32,1959881,https://7ujni7galhy2l8y6431l.beer,payload_delivery,Unknown malware,"ClickFix,ErrTraffic,EtherHiding,Polygon"
-2026-10-10 12:18:56,1959991,http://105.184.158.253:37135/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
-2026-10-10 12:18:55,1959989,http://125.40.153.124:36333/Mozi.a,payload_delivery,Mozi,"elf,iot,Mozi"
-2026-10-10 12:18:55,1959990,http://144.48.130.194:47077/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
-2026-10-10 12:18:54,1959987,http://139.135.40.51:47099/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
-2026-10-10 12:18:54,1959988,http://117.134.206.218:41681/Mozi.m,payload_delivery,Mozi,"elf,iot,Mozi"
-2026-10-10 11:09:45,1959954,http://118.69.157.212:9111/sshd,payload_delivery,SSHDoor,"elf,SSHdKit,SSHDoor"
-2026-10-10 10:38:52,1959944,http://rvweldedmesh.com:4219,botnet_cc,Remus,remus
-2026-10-10 09:45:22,1959911,https://188.245.3.116/,botnet_cc,Vidar,Vidar
-2026-10-10 09:45:22,1959912,https://167.233.107.104/,botnet_cc,Vidar,Vidar
-2026-10-10 09:45:22,1959913,https://217.60.102.185/,botnet_cc,Vidar,Vidar
-2026-10-10 09:45:22,1959914,https://188.245.114.219/,botnet_cc,Vidar,Vidar
-2026-10-10 09:45:22,1959915,https://188.245.11.133/,botnet_cc,Vidar,Vidar
-2026-10-10 09:45:22,1959916,https://212.147.244.162/,botnet_cc,Vidar,Vidar
-2026-10-10 09:45:22,1959917,https://77.42.10.33/,botnet_cc,Vidar,Vidar
-2026-10-10 09:45:22,1959918,https://94.237.14.115/,botnet_cc,Vidar,Vidar
-2026-10-10 09:30:55,1959892,https://clward.com/,payload_delivery,Unknown malware,ClickFix
-2026-10-10 06:02:09,1959437,https://hp.3toto.com,botnet_cc,Vidar,"b98dd86b169ec45dd28e99dcad12402a,c2,loader,stealer,Vidar"
-2026-10-10 06:01:56,1959640,https://brows-check.codes,payload_delivery,Unknown malware,"ClickFix,ErrTraffic,EtherHiding,Polygon"
-2026-10-10 06:01:55,1959644,https://xt.33pedia.org/,botnet_cc,Vidar,"c2,vidar"
-2026-10-10 06:01:54,1959645,https://xt.4toto.net/,botnet_cc,Vidar,"c2,vidar"
 2026-10-10 06:01:50,1959672,https://hp.333vip.org,botnet_cc,Vidar,"c2,de4cf22e4d9de058fc3cfd2267ee4cc9,loader,stealer,Vidar"
 2026-10-09 19:32:50,1958935,https://77.42.10.33,botnet_cc,Vidar,"963c380fb63052aa256c33180f42398b,c2,loader,stealer,Vidar"
-2026-10-09 19:15:35,1958959,https://steamcommunity.com/profiles/76561198628246386,botnet_cc,Vidar,vidar
-2026-10-09 19:15:34,1958958,https://telegram.me/scii0n,botnet_cc,Vidar,vidar
-2026-10-09 18:29:43,1958619,https://nr.333vip.org,botnet_cc,Vidar,"18094918b35ccec7caaf0b129e6d0490,c2,loader,stealer,Vidar"
-2026-10-09 17:28:52,1958798,https://xt.33pedia.org,botnet_cc,Vidar,vidar
-2026-10-09 17:28:52,1958799,https://xt.4toto.net,botnet_cc,Vidar,vidar
-2026-10-09 06:04:55,1957899,https://kl.3toto.com,botnet_cc,Vidar,"2f3c6fb2d82ed66e2e45208cd1c7edd1,c2,loader,stealer,Vidar"
 2026-10-09 06:04:52,1957976,http://193.178.158.71/b894jfjw/index.php,botnet_cc,Amadey,"amadey,c2,ce6e4f"
 2026-10-09 06:04:50,1958024,https://172.105.93.106,botnet_cc,Vidar,"22528fe54e097936120ba50e16c6a235,c2,loader,stealer,Vidar"
 2026-10-09 06:04:49,1958105,https://172.238.108.43,botnet_cc,Vidar,"c2,e388d47768eb76b50f1e463971fc7294,loader,stealer,Vidar"
-2026-10-09 06:04:47,1958111,https://ik.333vip.org,botnet_cc,Vidar,"62c0c8e44e6a373d8d66802e4ab16faf,c2,loader,stealer,Vidar"
-2026-10-09 06:04:46,1958133,https://ik.3toto.com,botnet_cc,Vidar,"18094918b35ccec7caaf0b129e6d0490,c2,loader,stealer,Vidar"
-2026-10-08 05:34:00,1956882,https://gy.333vip.org,botnet_cc,Vidar,"5259d515f2c8cc65b29ec1b9814990b7,c2,loader,stealer,Vidar"
-2026-10-08 05:33:50,1956936,https://kl.333vip.org,botnet_cc,Vidar,"2f3c6fb2d82ed66e2e45208cd1c7edd1,c2,loader,stealer,Vidar"
-2026-10-08 05:33:49,1956997,https://gy.3toto.com,botnet_cc,Vidar,"5259d515f2c8cc65b29ec1b9814990b7,c2,loader,stealer,Vidar"
-2026-10-07 16:58:53,1956622,https://xs.333vip.org,botnet_cc,Vidar,vidar
 2026-10-07 15:24:51,1956382,https://seerdfu.com/,botnet_cc,Unknown Stealer,YapStealer
-2026-10-07 14:27:33,1956304,https://xs.3toto.com,botnet_cc,Vidar,"b98dd86b169ec45dd28e99dcad12402a,c2,loader,stealer,Vidar"
 2026-10-07 11:08:02,1956271,https://95.182.97.240,botnet_cc,Vidar,"300d903d05d62a85efd0ca8bd247c97e,c2,loader,stealer,Vidar"
-2026-10-07 10:38:20,1956226,https://fo.3toto.com,botnet_cc,Vidar,"0db1ad10080756ea9ff93c3d332165e4,c2,loader,stealer,Vidar"
-2026-10-07 04:37:31,1956134,https://fo.333vip.org,botnet_cc,Vidar,"0db1ad10080756ea9ff93c3d332165e4,c2,loader,stealer,Vidar"
 2026-10-07 01:45:22,1956098,http://91.92.241.109/78297b2fa2ac49ca8eb0.php,botnet_cc,Stealc,stealc
-2026-10-06 16:18:33,1955687,https://hi.3toto.com,botnet_cc,Vidar,"b98dd86b169ec45dd28e99dcad12402a,c2,loader,stealer,Vidar"
-2026-10-06 15:21:44,1955677,https://hi.333vip.org,botnet_cc,Vidar,"b98dd86b169ec45dd28e99dcad12402a,c2,loader,stealer,Vidar"
-2026-10-06 11:18:14,1954614,https://wruser.org/sa1at/,botnet_cc,SalatStealer,salatstealer
-2026-10-06 11:18:13,1954615,https://wruser.org:992/sa1at/,botnet_cc,SalatStealer,salatstealer
-2026-10-06 05:28:13,1953319,https://fu.333pwk.org,botnet_cc,Vidar,"b98dd86b169ec45dd28e99dcad12402a,c2,loader,stealer,Vidar"
-2026-10-06 05:28:12,1953342,https://fu.396zk.net,botnet_cc,Vidar,"18639d8e3c129270e4d9f4328b3819a1,c2,loader,stealer,Vidar"
-2026-10-06 05:27:21,1954077,https://xg.333pwk.org,botnet_cc,Vidar,"c2,e4ff87b25096e0f9d334a8d53cc6b039,loader,stealer,Vidar"
-2026-10-05 09:54:58,1952634,https://ax.396zk.net,botnet_cc,Vidar,"4c6319a44020ed3dbc97141112251a61,c2,loader,stealer,Vidar"
-2026-10-05 06:15:33,1951535,https://kh.333pwk.org,botnet_cc,Vidar,"18639d8e3c129270e4d9f4328b3819a1,c2,loader,stealer,Vidar"
-2026-10-04 08:00:40,1949876,https://al.396zk.net,botnet_cc,Vidar,"c2,de4cf22e4d9de058fc3cfd2267ee4cc9,loader,stealer,Vidar"
-2026-10-04 07:17:55,1949811,https://al.333pwk.org,botnet_cc,Vidar,"c2,de4cf22e4d9de058fc3cfd2267ee4cc9,loader,stealer,Vidar"
-2026-10-03 06:04:05,1946053,https://rz.333pwk.org,botnet_cc,Vidar,"65e82f936ed593b809cc507d7ad114e5,c2,loader,stealer,Vidar"
-2026-10-03 06:04:05,1946109,https://rz.396zk.net,botnet_cc,Vidar,"65e82f936ed593b809cc507d7ad114e5,c2,loader,stealer,Vidar"
 2026-10-03 06:03:56,1946243,https://104.105.28.52,botnet_cc,Vidar,"a2986ad16988a9513a3d08d0c842ae18,c2,loader,stealer,Vidar"
-2026-10-02 20:44:42,1945530,https://ti.369jk.org,botnet_cc,Vidar,"43c9f02b8b98cfc9c3e446da473793a2,c2,loader,stealer,Vidar"
-2026-10-02 20:44:41,1945535,https://ti.332toto.net,botnet_cc,Vidar,"2f18de214042c96f5cddd8c9b9563da6,c2,loader,stealer,Vidar"
-2026-10-02 09:42:43,1945253,http://43.246.210.160:443/?h=43.246.210.160&p=443&t=tcp&a=w32&stage=true,payload_delivery,Unknown Loader,"exe,loader"
-2026-10-02 08:27:46,1945218,https://zu.332toto.net,botnet_cc,Vidar,"43c9f02b8b98cfc9c3e446da473793a2,c2,loader,stealer,Vidar"
-2026-10-02 06:31:04,1944969,https://zu.369jk.org,botnet_cc,Vidar,"43c9f02b8b98cfc9c3e446da473793a2,c2,loader,stealer,Vidar"
-2026-10-02 06:30:52,1944249,https://st.369jk.org,botnet_cc,Vidar,"43c9f02b8b98cfc9c3e446da473793a2,c2,loader,stealer,Vidar"
-2026-10-02 06:30:51,1944246,https://st.332toto.net,botnet_cc,Vidar,"4c6319a44020ed3dbc97141112251a61,c2,loader,stealer,Vidar"
-2026-10-01 11:03:49,1943710,https://zi.369jk.org,botnet_cc,Vidar,"4c6319a44020ed3dbc97141112251a61,c2,loader,stealer,Vidar"
-2026-10-01 11:03:46,1943779,https://zi.332toto.net,botnet_cc,Vidar,"2f18de214042c96f5cddd8c9b9563da6,c2,loader,stealer,Vidar"
-2026-10-01 08:14:22,1943618,https://af.332toto.net,botnet_cc,Vidar,"43c9f02b8b98cfc9c3e446da473793a2,c2,loader,stealer,Vidar"
-2026-10-01 05:17:55,1943239,https://lo.369jk.org,botnet_cc,Vidar,"43c9f02b8b98cfc9c3e446da473793a2,c2,loader,stealer,Vidar"
-2026-10-01 05:17:44,1943366,https://lo.332toto.net,botnet_cc,Vidar,"c2,e3cbc03b68edf5a9406e35280bab2438,loader,stealer,Vidar"
-2026-10-01 05:17:28,1943438,https://up.369jk.org,botnet_cc,Vidar,"4c6319a44020ed3dbc97141112251a61,c2,loader,stealer,Vidar"
-2026-10-01 05:17:23,1943507,https://up.332toto.net,botnet_cc,Vidar,"4c6319a44020ed3dbc97141112251a61,c2,loader,stealer,Vidar"
-2026-09-30 17:06:38,1943028,https://x2.369jk.org,botnet_cc,Vidar,"43c9f02b8b98cfc9c3e446da473793a2,c2,loader,stealer,Vidar"
-2026-09-30 14:49:40,1942921,https://x2.332toto.net,botnet_cc,Vidar,"06b5cfefd856c63c42a482c60c61bed0,c2,loader,stealer,Vidar"
 2026-09-30 09:28:46,1942766,http://bescaphoto.ga/,botnet_cc,SmokeLoader,"c2,SmokeLoader"
-2026-09-30 05:49:50,1942050,https://bw.32naga.net,botnet_cc,Vidar,"2f18de214042c96f5cddd8c9b9563da6,c2,loader,stealer,Vidar"
 2026-09-30 05:49:38,1942167,http://144.31.151.8/,botnet_cc,Stealc,"6k,c2,loader,StealC,stealer"
-2026-09-29 12:10:35,1941664,https://ed.32naga.net,botnet_cc,Vidar,"908e92a444cdc82ce182612d2f929eb2,c2,loader,stealer,Vidar"
-2026-09-29 06:28:38,1941251,https://bh.32naga.net,botnet_cc,Vidar,"c2,dd459308485752b72e79103d8df6ebbe,loader,stealer,Vidar"
-2026-09-29 06:28:38,1941252,https://pz.32naga.net,botnet_cc,Vidar,"2f18de214042c96f5cddd8c9b9563da6,c2,loader,stealer,Vidar"
-2026-09-26 15:32:09,1934828,https://xx.234-e.com,botnet_cc,Vidar,"97a607fe4ad928b6d1096ccfa8de4e3d,c2,loader,stealer,Vidar"
-2026-09-26 15:06:17,1934804,https://hj.234-e.com,botnet_cc,Vidar,"c2,d10941da55166a8af5a9dd28a13ac9b5,loader,stealer,Vidar"
 2026-09-26 12:20:26,1934711,http://31.56.19.29/,botnet_cc,Stealc,"c2,loader,Saif1,StealC,stealer"
 2026-09-26 12:20:25,1934702,https://2.29.15.189,botnet_cc,Vidar,"89f97204cff0dbc175025ced3e9ff499,c2,loader,stealer,Vidar"
 2026-09-26 12:20:24,1934692,https://2.29.7.186,botnet_cc,Vidar,"c2,c4365025bf4905e4621f91972fe4429c,loader,stealer,Vidar"
-2026-09-26 12:20:23,1934700,https://az.hg77.org,botnet_cc,Vidar,"a40329ae164d29bf87ed3f80245b7fb1,c2,loader,stealer,Vidar"
-2026-09-26 12:20:23,1934703,https://bg.177betwin.org,botnet_cc,Vidar,"905052239b6df9bd7baab24dc3e50f49,c2,loader,stealer,Vidar"
-2026-09-26 12:20:22,1934683,https://ge.hg77.org,botnet_cc,Vidar,"061839e0c6a29ac1f895ba8d39fb0f78,c2,loader,stealer,Vidar"
-2026-09-26 12:20:21,1934707,https://ku.16dewaslot.org,botnet_cc,Vidar,"c2,fa77cf3e42d5fa799429aa24c7f70a45,loader,stealer,Vidar"
-2026-09-26 12:13:13,1934688,https://lb.334v.org,botnet_cc,Vidar,"26c683c10c410c36c2309a0d9d57d5c7,c2,loader,stealer,Vidar"
-2026-09-26 12:13:12,1934686,https://ms.hg77.org,botnet_cc,Vidar,"c2,dad063e1b3e18547663d394a4a1b0ccf,loader,stealer,Vidar"
-2026-09-26 12:13:11,1934687,https://nw.hg77.org,botnet_cc,Vidar,"c2,fc99bd8607c97081de7780968727c206,loader,stealer,Vidar"
-2026-09-26 12:13:11,1934729,https://nu.234-e.com,botnet_cc,Vidar,"c2,cabc94c22ee1322a94ae30f7e787f859,loader,stealer,Vidar"
-2026-09-26 12:13:10,1934710,https://nx.hg77.org,botnet_cc,Vidar,"a49d5556ccfa93cdcdb7f001e04476e0,c2,loader,stealer,Vidar"
-2026-09-26 12:13:08,1934699,https://ze.zk89.net,botnet_cc,Vidar,"7cd64d42378edfb891c2791caca0f4cb,c2,loader,stealer,Vidar"
-2026-09-26 12:13:08,1934704,https://xx.hg77.org,botnet_cc,Vidar,"0b705364e922593496da62f2c6e1174c,c2,loader,stealer,Vidar"
-2026-09-26 12:13:08,1934709,https://sm.hg77.org,botnet_cc,Vidar,"c2,cea0c7054e603e996c91478c2d026ecb,loader,stealer,Vidar"
-2026-09-24 08:07:24,1931306,https://gt.234-e.com,botnet_cc,Vidar,"c2,e1b6418988f8ba8c0f55f99490d0591a,loader,stealer,Vidar"
 2026-09-22 06:39:09,1927208,http://178.16.54.165/,botnet_cc,Stealc,"21Sept,c2,loader,StealC,stealer"
-2026-09-20 16:36:19,1925903,https://xd.hg77.org,botnet_cc,Vidar,"061839e0c6a29ac1f895ba8d39fb0f78,c2,loader,stealer,Vidar"
-2026-09-20 14:52:20,1925881,https://oi.hg77.org,botnet_cc,Vidar,"c2,fc99bd8607c97081de7780968727c206,loader,stealer,Vidar"
 2026-09-20 14:52:03,1924906,http://193.178.158.107/Bjsw3DlG1/index.php,botnet_cc,Amadey,"579cd0,amadey,c2"
-2026-09-19 06:25:37,1924357,https://ma.1hoki.org,botnet_cc,Vidar,"bf33027f37759641887481194ff9b944,c2,loader,stealer,Vidar"
 2026-09-19 05:52:21,1924325,https://192.142.37.129,botnet_cc,Vidar,"7347836807ad35a478daa982b6a56e60,c2,loader,stealer,Vidar"
-2026-09-18 17:23:47,1924001,https://ma.zk89.net,botnet_cc,Vidar,"c2,d11f5c04051e332b9cfaabcb37c2ada9,loader,stealer,Vidar"
 2026-09-17 05:41:36,1921459,http://91.92.242.57/,botnet_cc,Stealc,"c2,hurimurib3,loader,StealC,stealer"
-2026-09-16 16:43:51,1921176,https://k3.zk89.net,botnet_cc,Vidar,"c2,d11f5c04051e332b9cfaabcb37c2ada9,loader,stealer,Vidar"
+2026-09-16 16:45:24,1921183,http://teculse.click:9210/tokens,botnet_cc,Remus,remus
 2026-09-16 15:07:01,1921148,https://fide45felhs.com/work/,botnet_cc,Latrodectus,"c2,Latrodectus"
 2026-09-07 05:44:33,1903145,https://aplihartom.com/live/,botnet_cc,Latrodectus,"c2,Latrodectus"
 2026-09-07 05:44:20,1903236,https://agrygamger.com/live/,botnet_cc,Latrodectus,"c2,Latrodectus"
@@ -453,7 +903,7 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-08-25 09:41:59,1886720,http://31.76.30.6/,botnet_cc,Stealc,"c2,loader,StealC,stealer,tst100"
 2026-08-12 17:32:12,1873148,http://95.135.181.73/,botnet_cc,Stealc,"c2,loader,Mewwski,StealC,stealer"
 2026-07-05 09:50:45,1844960,http://91.202.233.134/4d95d68e3fc64f3bbbf5.php,botnet_cc,Stealc,stealc
-2026-07-04 04:21:01,1844400,http://tolail.xyz:7538,botnet_cc,Remus,remus
+2026-06-22 13:56:09,1835842,https://thisisafalsepositive.st/shard/submitMinecraftLog,botnet_cc,Unknown malware,"c2,SilentNet"
 2026-04-26 18:11:00,1800411,http://91.92.242.236/oPvjr94jfe/index.php,botnet_cc,Amadey,"54e64e,amadey,c2"
 2026-04-23 04:45:34,1796426,http://196.251.107.248/kont2rt/index.php,botnet_cc,Amadey,Amadey
 2026-03-05 06:17:58,1758456,http://213.5.130.197,botnet_cc,Unknown malware,"c2,REMPROXY"
@@ -495,4 +945,3 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2024-08-30 07:05:10,1317377,https://indepahote.com/test/,botnet_cc,Latrodectus,None
 2024-02-18 08:49:17,1240775,https://antyparkov.site/live/,botnet_cc,Unidentified 111 (Latrodectus),Latrodectus
 2024-02-18 08:49:16,1240774,https://saicetyapy.space/live/,botnet_cc,Unidentified 111 (Latrodectus),Latrodectus
-2022-08-07 13:15:28,841794,http://89.185.85.53/,botnet_cc,RecordBreaker,RecordBreaker
