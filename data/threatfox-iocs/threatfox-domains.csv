@@ -1,4 +1,439 @@
 first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
+2026-10-16 06:34:49,1968955,u.86idn.com,botnet_cc,Vidar,"c2,vidar"
+2026-10-16 06:34:46,1968967,m3.888-fw.com,botnet_cc,Vidar,"c2,vidar"
+2026-10-16 06:10:45,1968499,rexacheat.com,botnet_cc,Unknown malware,"DDoS,huggingface,SpacesForRent,stresser"
+2026-10-16 06:10:45,1968500,rexastress.com,botnet_cc,Unknown malware,"DDoS,huggingface,SpacesForRent,stresser"
+2026-10-16 06:10:42,1968538,krilion.io,payload_delivery,IClickFix,None
+2026-10-16 06:10:31,1968846,api.failproxy.space,botnet_cc,Stealc,"github,loader,Stealc"
+2026-10-16 05:50:26,1968926,legubofa.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-16 05:45:21,1968922,77nm4x7se1.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-16 04:57:58,1968884,missietricky.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-16 04:44:30,1968867,244.129.238.35.bc.googleusercontent.com,payload_delivery,php.shin_webshell,"GIF,PHP,webshell,WordPress,wp-admin"
+2026-10-16 04:10:18,1968827,0jye42ba.socop.space,payload_delivery,ClearFake,"ClearFake,mac-0xdcf2,macos"
+2026-10-16 03:52:55,1968811,gkalx2i1c9.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-16 03:45:46,1968805,ninypy.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-16 03:01:59,1968763,3pink.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-16 02:30:24,1968729,google-proxy-66-249-88-64.google.com,payload_delivery,php.shin_webshell,"GIF,PHP,webshell,WordPress,wp-admin"
+2026-10-16 02:24:32,1968724,49.74.199.35.bc.googleusercontent.com,payload_delivery,php.shin_webshell,"GIF,PHP,webshell,WordPress,wp-admin"
+2026-10-16 01:54:22,1968701,zadivy.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-16 01:53:19,1968700,148.20.176.34.bc.googleusercontent.com,payload_delivery,php.shin_webshell,"GIF,PHP,webshell,WordPress,wp-admin"
+2026-10-16 01:48:39,1968694,zylobeza.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-16 01:05:20,1968659,qatinaci.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-16 00:42:34,1968631,wsip-72-194-152-157.ph.ph.cox.net,payload_delivery,php.shin_webshell,"GIF,PHP,webshell,WordPress,wp-admin"
+2026-10-15 23:57:37,1968586,km0gj1ovc5.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 23:53:06,1968582,rcn2co2t.socop.org,payload_delivery,ClearFake,"ClearFake,mac-0xdcf2,macos"
+2026-10-15 23:51:56,1968580,iscc.com.mx,payload_delivery,ClearFake,ClearFake
+2026-10-15 23:51:08,1968579,vazupi.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 23:06:53,1968544,lqfyq28438.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 22:04:21,1968486,turquoise109.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 21:58:01,1968479,sfg20tip6u.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 21:38:26,1968463,google-proxy-74-125-212-68.google.com,payload_delivery,php.shin_webshell,"GIF,PHP,webshell,WordPress,wp-admin"
+2026-10-15 21:31:39,1968457,mdaasesorias.com.mx,payload_delivery,ClearFake,ClearFake
+2026-10-15 21:10:58,1968439,hcq44wvzf7.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 20:08:10,1968388,dysaxaju.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 20:00:29,1968381,plummanon.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 19:36:48,1968318,3gcsxtjl.beterbewegenmetyael.blog,payload_delivery,ClearFake,"ClearFake,mac-0xdcf2,macos"
+2026-10-15 19:11:53,1968296,votiguko.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 19:00:48,1968262,pulsge.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:48,1968263,skahfy.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:48,1968264,sodsce.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:48,1968265,sparfk.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:48,1968266,stpata.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:48,1968267,straely.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:48,1968268,summxif.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:48,1968269,synerfy.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:48,1968270,trexnd.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:48,1968271,vangrd.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:48,1968272,vedfex.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:48,1968273,veldty.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:48,1968274,vfrtegx.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:48,1968275,vistda.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:48,1968276,vtoodor.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:48,1968277,wavhfe.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:48,1968278,yielxgd.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:48,1968279,zsfith.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968232,algdha.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968233,allanpe.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968234,assetvs.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968235,axidom.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968236,befdon.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968237,capitpl.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968238,clsaty.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968239,crahft.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968240,deltga.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968241,echjho.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968242,equigfy.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968243,fdsion.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968244,fldfow.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968245,fldpox.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968246,focopxs.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968247,globgal.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968248,grofwgh.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968249,heartcode.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968250,hordafo.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968251,infiht.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968252,lindgk.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968253,markfet.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968254,mhgage.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968255,momdum.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968256,nexujcs.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968257,ocdgga.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968258,odotima.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968259,pianle.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968260,popeak.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:47,1968261,primofa.biz,botnet_cc,Remus,RemusStealer
+2026-10-15 19:00:31,1968229,qh88n.com,botnet_cc,AsyncRAT,asyncrat
+2026-10-15 18:54:09,1968223,x0ihfh5u.asesoriamerenlinea.com,payload_delivery,ClearFake,"ClearFake,mac-0x0f14,macos"
+2026-10-15 18:37:44,1967643,vonolet.wrdn.su,botnet_cc,WARDENStealer,"c2,panel"
+2026-10-15 18:37:44,1967644,curihep.wrdn.su,botnet_cc,WARDENStealer,"c2,panel"
+2026-10-15 18:37:43,1967664,chapaan.lol,payload_delivery,KongTuke,KongTuke
+2026-10-15 18:37:37,1967846,g.obrn.cc,botnet_cc,Unknown malware,"c2,Cloudflare,pycached,python,RAT,socketio,websocket"
+2026-10-15 18:37:36,1967847,mini-kit.nashstuder.com,botnet_cc,FAKEUPDATES,SocGholish
+2026-10-15 18:37:26,1968024,internetmissouri.com,payload_delivery,MacSync,"ClickFix,macOS,MacSync"
+2026-10-15 18:06:15,1967988,qaketyzo.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 18:00:35,1967979,batuwumy.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 17:54:15,1967969,vyaparapp.xyz,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:15,1967970,wespro.ca,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:15,1967971,yenimahallepirsultan.org.tr,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:15,1967972,zehrademirel.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:15,1967973,zoldvilag.hu,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967929,indigenoushomeloans.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967930,jorgemachado.org,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967931,keenconsultancy.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967932,kelmetna.org,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967933,klauschtransporte.de,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967934,lab-grown-diamond-ring.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967935,lemontv.tv,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967936,majesticvoyagelogistics.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967937,mallorcavipcar.es,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967938,mhu-gmbh.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967939,mijnhondopvoeden.nl,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967940,msarats.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967941,musedesignstaging.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967942,musikchamber.de,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967943,napoli-sanitary-ware.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967944,nbcoachings.in,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967945,netaruja.com.br,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967946,ngeyetrekkingsafaris.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967947,nttusoft.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967948,p-az.it,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967949,pacificachicago.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967950,panificiomagda.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967951,penpromedia.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967952,produtoracenahum.com.br,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967953,publicity.com.bd,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967954,raghavroadlines.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967955,rotary4littlehearts.org,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967956,schmuckaufwunsch.de,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967957,squareseafoodtrading.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967958,swadeshi-brands.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967959,tacom.site,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967960,trainelectrics.co.uk,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967961,transvisiontech.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967962,tropicaltelhas.com.br,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967963,ufath1.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967964,uhro-sl.org,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967965,unitsol.nl,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967966,vially.consulting,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967967,videntecuranderoafricano.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:14,1967968,vriendenvandeknau.nl,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967887,360s-travel.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967888,aescenavientoymarea.es,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967889,alaradyre.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967890,alvisoft.in,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967891,amirhosseinfarzam.ir,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967892,archipelagos.nyc,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967893,ardenpeaksolutions.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967894,asases.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967895,asianamericansir.org,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967896,asmalawyersinpakistan.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967897,atelierdejulie.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967898,atozstorepk.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967899,aulaprogram.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967900,auroramyanmar.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967901,bakadirtour.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967902,carolynhannaford.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967903,chatrise.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967904,chefdanielepriori.it,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967905,comptabilitejoseefortin.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967906,creativecameracompany.co.uk,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967907,creatorsmedianetwork.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967908,cricnews247.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967909,daotaodaynghespa.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967910,decachemir.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967911,deolano.es,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967912,duniaberita.online,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967913,eco-strom.gr,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967914,ecohimprom.bg,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967915,edbconsulting.id,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967916,edufreebie2.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967917,edusim-solutions.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967918,erickculasso.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967919,f200.com.br,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967920,faircares.org,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967921,feloconstruction.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967922,goalprojects.co.za,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967923,goldenbuildersca.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967924,goldenelevadores.com.br,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967925,gonzaguehavet.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967926,hamrahkooh.com,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967927,hostfeatures.website,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:54:13,1967928,igambiloyouth.or.tz,payload_delivery,Unknown Loader,etherhiding
+2026-10-15 17:19:51,1967856,dusukesy.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 16:50:52,1967825,chloesteph.com,payload_delivery,ClearFake,ClearFake
+2026-10-15 16:16:26,1967780,www.readinghabit.com.au,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:26,1967781,www.readinkbooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:26,1967782,www.remnantbooks.org,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:26,1967783,www.robertsbookshop.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:26,1967784,www.roundtablebooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:26,1967785,www.stroudbooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:26,1967786,www.thebooktique.org,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:26,1967787,www.thewrightcollection.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:26,1967788,www.vagabondbooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:26,1967789,www.vintage-books.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:26,1967790,www.whitefoxrarebooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:25,1967758,www.bookrackjackson.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:25,1967759,www.bookson7thave.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:25,1967760,www.chaparralbooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:25,1967761,www.chathambookseller.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:25,1967762,www.crossroadbookstore.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:25,1967763,www.fosterbooks.co.uk,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:25,1967764,www.gastonrenard.com.au,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:25,1967765,www.gibsonbooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:25,1967766,www.greensleevesbooks.co.uk,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:25,1967767,www.jlawton.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:25,1967768,www.lectioz.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:25,1967769,www.literarycatbooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:25,1967770,www.manyhillsbooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:25,1967771,www.mcdowellsemporium.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:25,1967772,www.mcinbooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:25,1967773,www.midtownscholar.us,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:25,1967774,www.mostlyusefulfictions.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:25,1967775,www.navalandmaritimebooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:25,1967776,www.oddballbooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:25,1967777,www.oldscrolls.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:25,1967778,www.puddletownbookshop.co.uk,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:25,1967779,www.rbookmark.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967729,bookrackjackson.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967730,booksofparadise.net,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967731,brooklynbooks.us,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967732,chaparralbooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967733,confettibooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967734,kathmandubooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967735,kellerbooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967736,leurabooks.com.au,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967737,mcdowellsemporium.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967738,mcinbooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967739,mysticlink.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967740,navalandmaritimebooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967741,needleworkbooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967742,rarechristianbooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967743,readinghabit.com.au,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967744,readinkbooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967745,remnantbooks.org,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967746,renaissancebooks.co.nz,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967747,rudolfsteinerbookcentre.com.au,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967748,theridgebooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967749,whitefoxrarebooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967750,www.adamsanglingbooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967751,www.adelaidebooksellers.com.au,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967752,www.anglophilebooks.net,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967753,www.antiquarianbooks.biz,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967754,www.antiquemallbookstore.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967755,www.bagbooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967756,www.barnerbooks.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:24,1967757,www.bookhousecatalog.com,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:16:23,1967728,author-author.net,cc_skimming,vSkimmer,"skimming,victim"
+2026-10-15 16:12:25,1967724,wtbgr96212.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 16:09:16,1967721,tamuguga.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 16:03:12,1967716,google-proxy-66-249-88-68.google.com,payload_delivery,php.shin_webshell,"GIF,PHP,webshell,WordPress,wp-admin"
+2026-10-15 15:42:11,1967695,x2sj7x7t.diorauction.com,payload_delivery,ClearFake,"ClearFake,mac-0xdcf2,macos"
+2026-10-15 15:33:30,1967689,zen-agent-oil-comic.xyz,payload_delivery,ClearFake,"ClearFake,ClickFix,ErrTraffic,EtherHiding"
+2026-10-15 15:26:38,1967681,proxy.cloudload.cc,botnet_cc,ACR Stealer,ClearFake
+2026-10-15 15:24:36,1967678,sqhbp95699.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 14:59:30,1967653,2n2iket3.alkaleejia.wiki,payload_delivery,ClearFake,"ClearFake,mac-0x0f14,macos"
+2026-10-15 14:30:31,1967629,buhu.site,payload_delivery,ClearFake,ClearFake
+2026-10-15 14:11:03,1967623,520karla.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 14:05:48,1967619,rc.7dewaslot.org,botnet_cc,Vidar,vidar
+2026-10-15 13:45:48,1967601,cp2.7dewaslot.org,botnet_cc,Vidar,vidar
+2026-10-15 13:29:28,1967587,google-proxy-64-233-173-136.google.com,payload_delivery,php.shin_webshell,"GIF,PHP,webshell,WordPress,wp-admin"
+2026-10-15 13:29:18,1967586,google-proxy-64-233-173-163.google.com,payload_delivery,php.shin_webshell,"GIF,PHP,webshell,WordPress,wp-admin"
+2026-10-15 13:26:35,1967581,zzyowym8yb.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 13:25:21,1967579,lorrisnopro.co,botnet_cc,AsyncRAT,asyncrat
+2026-10-15 13:23:14,1967576,5fe48034.roseanne.id,payload_delivery,ClearFake,"ClearFake,ClickFix,EtherHiding"
+2026-10-15 13:22:56,1967510,fluoriterefrectory.info,payload_delivery,SmartApeSG,SmartApeSG
+2026-10-15 12:38:13,1967534,incop.zenithtrack.cc,payload_delivery,Unknown malware,ZigClipper
+2026-10-15 12:29:35,1967526,h5x6ijt1.kulonprogo.org,payload_delivery,ClearFake,"ClearFake,mac-0x0f14,macos"
+2026-10-15 12:20:34,1967519,1774colossal.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 12:13:59,1967513,wywoba.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 12:05:20,1967502,abubra.zanity.net,botnet_cc,AsyncRAT,asyncrat
+2026-10-15 12:05:20,1967503,abubra.jo3.org,botnet_cc,AsyncRAT,asyncrat
+2026-10-15 11:24:50,1967469,w1lefe83.cyclingjordan.co,payload_delivery,ClearFake,"ClearFake,mac-0xdcf2,macos"
+2026-10-15 10:51:30,1967398,bbv-vkbv1.nl,payload_delivery,ClearFake,ClearFake
+2026-10-15 10:49:03,1967396,150.66.24.34.bc.googleusercontent.com,payload_delivery,php.shin_webshell,"GIF,PHP,webshell,WordPress,wp-admin"
+2026-10-15 10:26:27,1967130,xanaze.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 10:19:37,1967124,johohu.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 10:05:25,1967113,hail.cocova.co,payload_delivery,ClearFake,"ClearFake,ClickFix,ErrTraffic,EtherHiding"
+2026-10-15 09:34:43,1967073,lugeka.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 09:10:34,1967055,bgw.magn.space,payload_delivery,ClearFake,"compromised,EtherHide"
+2026-10-15 08:34:28,1967003,jb6p5nn8.rtplive-miliarbet.online,payload_delivery,ClearFake,"ClearFake,mac-0x0f14,macos"
+2026-10-15 08:31:09,1967000,basickantoor1.nl,payload_delivery,ClearFake,ClearFake
+2026-10-15 08:28:51,1966998,xolelavi.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 08:26:14,1966996,239.232.231.8.bc.googleusercontent.com,payload_delivery,php.shin_webshell,"GIF,PHP,webshell,WordPress,wp-admin"
+2026-10-15 07:37:33,1966951,lyzuhumu.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
+2026-10-15 07:09:22,1966615,1vv1sa837.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:22,1966616,1wfcfr.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:21,1966617,1whlfn.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:21,1966618,1whmna.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:20,1966619,1whwjp.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:20,1966620,1wirjc.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:19,1966621,1wlasp.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:19,1966622,1wlriq.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:18,1966624,1wneak.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:18,1966625,1wqflo.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:17,1966626,1wtrhi.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:17,1966627,1wtxob.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:16,1966628,1wusjg.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:16,1966629,1wwhue.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:15,1966630,1wxdnt.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:15,1966631,1wzgaf.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:14,1966632,1wzvhu.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:14,1966633,6f3m8.icu,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:13,1966634,7-elang.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:12,1966635,7877group.icu,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:11,1966636,7f8684d4.keratontoto.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:09,1966637,ag971.icu,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:08,1966638,ajaibbetslots33.icu,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:08,1966639,ajaibslot1bos.icu,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:07,1966640,ajaibslotclub.icu,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:06,1966641,akesu.voteable.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:06,1966642,allevi8.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:06,1966643,andala.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:05,1966644,area20bank.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:05,1966645,arsplaywin.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:05,1966646,ateliermaisonfr.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:04,1966647,atinder.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:04,1966648,aztjt12345.wins8game.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:03,1966649,banban888.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:02,1966650,beta.wgestor.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:02,1966651,bethive21.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:09:01,1966652,biggzlar.uber.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:59,1966653,blossomandbloom.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:59,1966654,boundbetter.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:59,1966655,burb.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:59,1966656,chocolaterie-gayraud.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:58,1966657,corelaunchhj.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:58,1966658,craving.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:57,1966661,dr4gonsltn3w.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:56,1966662,durra.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:55,1966659,daftarbolapro.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:54,1966660,dash9926.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:53,1966663,dwterbangbets.icu,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:52,1966664,edgscan.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:50,1966665,edsh.edsky.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:50,1966666,en.skep.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:50,1966667,eraplay88asli.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:49,1966668,eraplay88csn88.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:49,1966669,eraplay88go.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:48,1966670,eraply88team.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:47,1966671,forgevaultstead.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:47,1966672,foxglove-300circus.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:47,1966673,funportal.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:46,1966674,glpark.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:46,1966675,gs1044.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:45,1966676,health.jojo.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:45,1966677,help.hived.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:44,1966678,holyst8strike.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:44,1966679,icon789.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:44,1966680,imamat-static.theismaili.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:42,1966681,indjoswin.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:42,1966682,indoggalpha.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:41,1966683,indoggtangguh.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:41,1966684,indoslotride.icu,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:41,1966685,indoslots.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:08:40,1966686,intersectsoftware.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:44,1966924,uid1q3os.bulkpictureframes.us,payload_delivery,ClearFake,"ClearFake,mac-0xdcf2,macos"
+2026-10-15 07:07:22,1966687,kiln-skioi-c29up.com,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:22,1966688,lunazh.ec-sky.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:21,1966689,maisonatelier.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:21,1966690,mergentest15.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:21,1966691,mergentest17.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:20,1966692,mergentest18.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:20,1966693,minoh.ec-sky.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:19,1966694,moneyhub-adatevuwoxa.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:19,1966695,moneyhub-bejibefowob.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:18,1966696,moneyhub-ewemusiyeji.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:18,1966697,moneyhub-gaganatezuh.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:16,1966698,moneyhub-ijiraxosume.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:15,1966699,moneyhub-ikonezacuxo.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:15,1966700,moneyhub-ilipoyiviyi.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:15,1966701,moneyhub-ipehaxunogu.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:14,1966702,moneyhub-lelaromapap.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:14,1966703,moneyhub-lofotifumik.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:13,1966704,moneyhub-lozatojijay.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:13,1966705,moneyhub-nestdrive.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:12,1966706,moneyhub-nicuceduyen.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:12,1966707,moneyhub-podaqabahof.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:11,1966708,moneyhub-tonurihejiw.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:11,1966710,moneyhub-ucokobovuvi.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:10,1966709,moneyhub-ubopelelevi.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:10,1966711,moneyhub-umepajapave.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:09,1966712,moneyhub-wipejijoxix.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:07,1966713,moneyhub-yuqefowotux.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:07,1966714,moneyhub-zisizoqetih.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:06,1966715,mta-sts.luminal.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:06,1966716,neuralink-investmx.icu,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:06,1966717,northern-ukulele.secureonline.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:05,1966718,notexists7beta.awesome.tiktoktrend.finder.luminal.luminalos.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:04,1966719,one-vv7837.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:03,1966720,overcoynode.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:03,1966721,pfalzhotel.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:03,1966722,pok10.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:02,1966723,pphoki-jp88.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:02,1966724,r1wnbepa.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:01,1966725,redlinebusiness.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:01,1966726,rerrioara.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:00,1966727,santagghk.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:07:00,1966728,sanwariyaxch.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:59,1966729,satta-king-11.site,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:59,1966730,scripture.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:58,1966731,seguro.delivery-cardapio.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:58,1966732,sektorplay.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:57,1966733,seodata.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:57,1966734,sess.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:56,1966735,shiobetgo.icu,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:56,1966736,shiobett.icu,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:55,1966737,skep.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:55,1966738,sl0tsareas.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:54,1966739,slotgalaxy.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:52,1966740,smallbusinessmailservices.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:52,1966741,status.provided.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:52,1966742,structurecluster.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:51,1966743,superoom.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:51,1966744,superwin4d.online,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:50,1966745,tgbnh.icu,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:50,1966746,thriveclubar-mx.icu,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:49,1966747,thunderprive.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:49,1966748,tkkg.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:48,1966749,tokohoki78jp.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:48,1966750,torpeduck.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:47,1966751,u88aud.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:47,1966752,uglycute.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:47,1966753,vv-one890.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:46,1966754,wargapoker5.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:46,1966755,whatsapp-invest.icu,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:45,1966756,www.allevi8.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:45,1966757,www.andala.life,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:44,1966758,www.betya.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:44,1966759,www.burb.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:44,1966760,www.clearoriginxf.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:43,1966761,www.corelaunchhj.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:42,1966762,www.intersectsoftware.space,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:41,1966763,www.kt88npl.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:41,1966764,www.seodata.click,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:40,1966765,zidiiyjrfsyeudjr.b1r6p3q8.live,botnet_cc,IClickFix,"AMOS,C2,ClickFix,FakeUpdates"
+2026-10-15 07:06:34,1966850,789bet.tennis,botnet_cc,AsyncRAT,"botnet,C2,malware"
+2026-10-15 07:06:33,1966913,beatramiro.com,botnet_cc,CloudEyE,CLOUDHAZE
 2026-10-15 06:46:04,1966906,demo.ilan-muffato.fr,payload_delivery,ClearFake,"compromised,EtherHide"
 2026-10-15 06:33:01,1966896,quaintailey.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
 2026-10-15 06:26:11,1966890,khgzh40665.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
@@ -161,598 +596,15 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-10-14 07:33:15,1965123,kmxvvkoq.enlineaempresarial.com.mx,payload_delivery,ClearFake,"ClearFake,mac-0x0f14,macos"
 2026-10-14 06:45:47,1965078,amanahsukses.uk.com,payload_delivery,ClearFake,ClearFake
 2026-10-14 06:38:32,1965072,joqito.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-14 06:33:34,1965063,xuxasi.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-14 06:08:01,1965038,thjduywf.asociadospacifico.com,payload_delivery,ClearFake,"ClearFake,mac-0xdcf2,macos"
-2026-10-14 05:52:57,1965021,gohaxydi.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-14 05:49:20,1965017,jonebo.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-14 05:43:57,1964478,www.4qvjsgir09s5j8saytt0jds.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:56,1964479,www.bl32hm8oxzy3yome193.cc,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:56,1964480,www.d6mb39632ubz4kas62v.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:56,1964481,www.0jy0f773x1e08b68h.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:55,1964482,www.mvgl1ne40s65srdtnlc.info,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:54,1964484,www.efziqo9lqgsakqmvf.cc,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:54,1964486,www.h4sowoxr64rsj5-cpsuhd.cc,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:53,1964483,www.nipreaznltdoof10dsb-so.app,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:51,1964485,www.18sf1ka7leb3sllhlhv.live,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:51,1964487,www.97faid0d4bmpph3wrxhv.org,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:50,1964488,www.wtfdofnoku2s4gn61ub.info,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:50,1964489,www.8qbwoyoeugilmbpiyjx-2cm.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:50,1964490,www.vbix6zw2k7b1tsccegyt4eyn.live,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:49,1964491,www.i9ouovd08z68oi4jluf-z.com,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:49,1964492,www.983htq324matt9ga5.cc,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:49,1964493,www.72twifi6o1x7zs4jag.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:48,1964494,www.4bivqxzwjh8bpoge585.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:48,1964495,www.9u-wediplo9i-ry1gc1k.info,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:47,1964496,www.rg82z9wtgt9b-m61p.cc,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:47,1964497,www.f5u-uhpdrtwj6azysqpud.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:47,1964498,www.gbgzdxue8l3ajj7syni.info,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:46,1964499,www.i1m7mt66vo69eakuu74e.cc,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:46,1964500,www.osh9xntw0spl96bbe.org,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:45,1964501,www.373hf1zy01njyqbz.live,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:44,1964502,www.z40xmimvhbytcnppy1rs3.app,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:43,1964503,www.zrs7b8boubf9y-b1.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:43,1964504,www.canaza7epbbtducao-ve0s.cc,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:42,1964505,www.f9p0blhu2vw6rkwo.com,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:38,1964506,www.a0zajmpz4610-sdfbt.cc,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:38,1964507,www.knrd2up67onim5epfcxgvx.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:37,1964508,www.774a126sz-yyipum1tvcvltl.app,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:36,1964509,www.8lxnx9b3q-dqubl0ca3h.com,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:35,1964510,www.7bh-wy20nkoehf3adcj4kge.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:34,1964511,www.2d2eb-7dzk-akmg1jovs.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:34,1964512,www.aj-vxvadzcbs26gxz.org,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:33,1964513,www.28z9hqqs4tmnettw1dcso4.cc,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:33,1964514,www.8gxp69ooepaf7iyqe3ph56.app,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:32,1964515,www.hu8diut42ogfnb6d.cc,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:32,1964516,www.8opmpgbkd-0w5wg9ofx.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:31,1964518,www.t9ffxu6zhf915fadjv1.app,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:30,1964517,www.0liwevrhxdc3s2xk00.com,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:29,1964519,www.zfu4n4kxgmx32hsqg.cc,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:28,1964520,www.kp2-3ur6pe4r8i2hj5.com,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:27,1964521,www.xtpj2bzxip6iq7n3bnz.info,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:27,1964522,www.jhflt6l0dwminsl494836rb.org,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:25,1964523,www.ljot1cem6jhzfu53yb9aj3h.app,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:25,1964524,www.sx8vuz4smtdol7pg.com,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:24,1964525,www.dlosdekr1u18msmov51.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:24,1964526,www.5wg3w278e3oamlohmcinrkh.live,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:24,1964527,www.zcyw7mxz6r0jzuvdddrlor.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:23,1964528,www.s4p5ms8r4z8907j9o.app,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:23,1964529,www.vutjsf0sd9sdqt2rkzvgzv9a.org,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:22,1964530,www.wt1pa99d7wbd75ic.info,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:22,1964531,www.z6dotx17rqtu6wrngq4.com,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:21,1964532,www.quk222g21jo0s9zrkmwiwwu.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:21,1964533,www.sx3cjniwo1bmtqs0vlj-va2f.app,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:20,1964534,www.kuedltqtddbj-hnf9gd.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:19,1964535,www.ioa7xqmhiz26fv5e.info,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:17,1964536,www.y9m7yr8h6j2stxh1na5vy.com,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:16,1964537,www.w4iunvbdvjof39q-3.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:16,1964538,www.ex0x40vmi8qyccxq.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:15,1964539,www.b-29sn-02vvbpmb0zu3kmq.org,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:14,1964540,www.39rwcybep-20pwozhvdrzzy.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:13,1964541,www.txap5gmcyop0xb0s4ykikmsg.cc,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:12,1964542,www.qdh71-y6j7vxgw046v4cvgga.live,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:12,1964543,www.ov86ayb0fe4ep2b92-645o.com,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:11,1964544,www.ibv7pi89gcy6fq-oc3.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:11,1964545,www.s-w34iusuwt9mdjzen7b.live,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:10,1964546,www.neqbzjio8rflhgwclmpr.app,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:10,1964547,www.utdxr9omtswgfgl5vyz6huj8.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:09,1964548,www.60gs6zhh50fvjnlfy6.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:09,1964549,www.bf2tmwypyvr7un7nmk1vzn.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:08,1964550,www.v71zxahc3jd0txzxs.app,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:07,1964551,www.dclpxlbqzn1l4qsls.org,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:05,1964552,www.lsexctodyiaygkqr2.cc,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:05,1964553,www.9vlqt9g3n0ijfbrs.info,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:04,1964554,www.3rtmi4mknw285dffeu0.org,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:03,1964555,www.4n2nxouwtumend277hcvo.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:02,1964556,www.l9-xf4xzz9g7s9nywuox.app,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:01,1964557,www.lz81ugazc-3rxi-1draiesh.org,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:43:01,1964558,www.oam6g5x6u0hrmhe50mctg.live,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:42:59,1964559,www.b-ui75mia5005x0vinb.cc,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:42:59,1964560,www.llvdtejnjgcz99wlv4z68es1.com,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:42:58,1964561,www.mgmyhys8v6v19e9w5kbizn6i.cc,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:42:58,1964562,www.of6npor1sq1ko7rs.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:42:57,1964563,www.10xddl8puxw5rn3cg8pdus.net,botnet_cc,Coruna,"Coruna,DGA,iOS,PLASMAGRID"
-2026-10-14 05:42:57,1964564,sqwas.shapelie.com,botnet_cc,GHOSTBLADE,"DarkSword,GHOSTBLADE,iOS"
-2026-10-14 05:42:51,1964578,jkonnet.buzz,payload_delivery,GHOSTBLADE,"DarkSword,iOS,web-drive-by"
-2026-10-14 05:42:50,1964579,tronide.cc,payload_delivery,GHOSTBLADE,"DarkSword,iOS,web-drive-by"
-2026-10-14 05:42:50,1964580,myymk.cc,payload_delivery,GHOSTBLADE,"DarkSword,iOS,web-drive-by"
-2026-10-14 05:42:50,1964581,ytl99.vip,payload_delivery,GHOSTBLADE,"DarkSword,iOS,web-drive-by"
-2026-10-14 05:42:49,1964582,dcgfun.top,payload_delivery,GHOSTBLADE,"DarkSword,iOS,web-drive-by"
-2026-10-14 05:42:49,1964583,66ds.lol,botnet_cc,Coruna,"Coruna,DarkSword,iOS"
-2026-10-14 05:42:48,1964584,fc.rsqqq.top,botnet_cc,Coruna,"Coruna,DarkSword,iOS"
-2026-10-14 05:42:47,1964585,st.onlinefc.top,botnet_cc,Coruna,"Coruna,DarkSword,iOS"
-2026-10-14 05:42:45,1964629,rh-ansible-prd.com,botnet_cc,Unknown malware,"Mythic,MythicC2,Poseidon"
-2026-10-14 05:42:44,1964630,soft.unpkg.info,botnet_cc,Unknown malware,"Mythic,MythicC2,Poseidon"
-2026-10-14 05:42:43,1964648,relay.docu-lopab.de,botnet_cc,Unknown RAT,screenconnect
-2026-10-14 05:42:06,1964244,publisher99.com,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:42:04,1964245,redlable1.website,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:42:04,1964246,redlable3.website,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:42:03,1964247,skibidistealer.team,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:42:03,1964248,snacky-time.club,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:42:02,1964249,backtoblack7.com,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:42:02,1964250,bobroviysmex.shop,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:42:01,1964251,diseazhjw.cloud,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:42:01,1964252,hroffice.work,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:42:00,1964253,incoming.rent,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:42:00,1964254,konradkerz40000.work,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:41:59,1964255,library2000.com,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:41:59,1964256,luqiuid91.com,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:41:59,1964257,macfilecloud8.com,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:41:58,1964258,nextlanding.net,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:41:58,1964259,plainhorizon.org,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:41:57,1964260,rabbids-sixseven.cc,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:41:56,1964261,rocks56.com,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:41:56,1964262,sfgiantslive.com,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:41:55,1964263,skibidiclipper.pw,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:41:55,1964264,skibidiproliv.com,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:41:54,1964265,wosback.cc,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:41:54,1964266,zalupka.website,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:41:53,1964267,zxcwork.com,botnet_cc,WARDENStealer,"stealer,WardenStealer,YapStealer"
-2026-10-14 05:41:49,1964040,api.getgoapi.cc,botnet_cc,Coruna,coruna
-2026-10-14 05:41:49,1964041,getgoapi.cc,botnet_cc,Coruna,coruna
-2026-10-14 05:41:48,1964037,aygjqdr4l2s88zi.icu,botnet_cc,Coruna,coruna
-2026-10-14 05:41:48,1964038,b031beafd8f3.net,botnet_cc,Coruna,coruna
-2026-10-14 05:41:48,1964039,ip.faicai888.cc,botnet_cc,Coruna,coruna
-2026-10-14 05:41:47,1964036,go32ip.74rcu0ntwgvtpzn.icu,botnet_cc,Coruna,coruna
-2026-10-14 05:41:20,1964171,pro.oakcanticle.co,payload_delivery,SmartApeSG,SmartApeSG
-2026-10-14 05:40:54,1964707,lkol.dyn,botnet_cc,Mirai,"cowrie,dns-xor,honeypot,Mirai,OpenNIC"
 2026-10-14 05:40:51,1964720,alquilovan.cat,payload_delivery,Unknown malware,ClickFix
-2026-10-14 05:40:50,1964721,js-static.digital,payload_delivery,Unknown malware,ClickFix
-2026-10-14 05:40:49,1964722,js-static.global,payload_delivery,Unknown malware,ClickFix
-2026-10-14 05:40:46,1964726,js-static.icu,payload_delivery,Unknown malware,ClickFix
-2026-10-14 05:40:15,1964998,topsmagnificentgrade.com,botnet_cc,CloudEyE,"c2,dga,rust,tauri"
-2026-10-14 05:40:13,1964999,tabbyottercub.com,botnet_cc,CloudEyE,"c2,dga,rust,tauri"
-2026-10-14 05:40:13,1965000,flawlessgradecheered.com,botnet_cc,CloudEyE,"c2,dga,rust,tauri"
-2026-10-14 05:40:11,1965010,admin.lzgqin.cc.cd,payload_delivery,Unknown malware,ClickFix
-2026-10-14 05:36:46,1965008,vmi3289146.contaboserver.net,payload_delivery,php.shin_webshell,"GIF,PHP,webshell,WordPress,wp-admin"
-2026-10-14 04:39:50,1964955,ahzro54047.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-14 04:33:10,1964950,vyhyculo.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-14 04:25:28,1964940,amanahceria.us.com,payload_delivery,ClearFake,ClearFake
-2026-10-14 03:54:07,1964916,zaqowe.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-14 03:34:56,1964895,browse-codes-enter.beer,payload_delivery,IClickFix,ClickFix
-2026-10-14 03:17:29,1964881,01sz1h97.cita-top.com,payload_delivery,ClearFake,"ClearFake,mac-0x0f14,macos"
-2026-10-14 02:47:21,1964857,dhi2aazeft.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-14 02:43:52,1964853,rizymoka.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-14 02:26:19,1964840,google-proxy-66-249-88-73.google.com,payload_delivery,php.shin_webshell,"GIF,PHP,webshell,WordPress,wp-admin"
-2026-10-14 02:05:16,1964822,alkaleejia.wiki,payload_delivery,ClearFake,ClearFake
-2026-10-14 01:51:45,1964794,xg1iu5w5.asesoriamerenlinea.com,payload_delivery,ClearFake,"ClearFake,mac-0xdcf2,macos"
-2026-10-14 00:55:40,1964745,cykoqazu.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-14 00:49:15,1964736,tejuvila.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-14 00:04:03,1964683,sojf56jebe.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-13 23:44:43,1964653,alkaleejia.com,payload_delivery,ClearFake,ClearFake
-2026-10-13 23:44:13,1964651,www.solis-srl.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 23:44:12,1964650,www.simonacheli.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 23:24:10,1964634,importdoortodoor.id,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 23:09:08,1964617,lagenteruzafa.es,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 22:51:47,1964598,dzwv4rjsj3.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-13 21:59:20,1964229,checkvbbrows39.cc,payload_delivery,IClickFix,ClickFix
-2026-10-13 21:55:45,1964225,hel1uuve.asesoriabamk.com,payload_delivery,ClearFake,"ClearFake,mac-0xdcf2,macos"
-2026-10-13 21:24:17,1964187,agpoferroli1.nl,payload_delivery,ClearFake,ClearFake
-2026-10-13 21:09:06,1964173,deqazy.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-13 20:59:10,1964160,kyduqu.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-13 20:48:12,1964142,www.slighfoxinc.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 20:48:12,1964143,www.stmichaelsway.eu,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 20:38:10,1964133,www.view360.lk,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 20:38:09,1964131,www.solevento.eu,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 20:38:09,1964132,www.sumuttoday.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 20:28:08,1964117,conceitualalbuns.com.br,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 19:57:22,1964086,koqapuqo.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-13 19:33:54,1964028,senturkvincyapi.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 19:33:53,1964027,www.pachamamaroteisland.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 19:33:49,1964026,www.mandarinclassroom.hk,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 19:23:47,1964018,www.joseluislacasta.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 19:11:15,1963993,zsjosefov.cz,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:15,1963994,zwienenberg.nl,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:14,1963974,venunaturopathycentre.org,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:14,1963975,verbrugge.fr,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:14,1963976,vgparis.fr,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:14,1963977,vicibici.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:14,1963978,vinst.fi,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:14,1963979,vormix.nl,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:14,1963980,web-solution.hu,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:14,1963981,webelde.hu,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:14,1963982,webram.ir,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:14,1963983,wemoveidaho.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:14,1963984,whiteflowers.nl,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:14,1963985,wingaraag.com.au,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:14,1963986,wiselipochoice.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:14,1963987,wmid.org,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:14,1963988,xetienchuyenvungtausaigon.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:14,1963990,yachtparts-shop.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:14,1963991,ymkkf.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:14,1963992,zejax.cz,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:13,1963956,sweepin.fr,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:13,1963957,tagvindue.dk,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:13,1963958,tasteinplace-dasos.at,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:13,1963959,tedjcreation.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:13,1963960,tepolymers.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:13,1963961,texasflamebd.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:13,1963962,theatredureel.fr,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:13,1963963,thegreathopembchurch.org,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:13,1963964,theparkcompanies.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:13,1963965,thetsm.in,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:13,1963966,tigerhosts.eu,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:13,1963967,tmm35.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:13,1963968,toivio.info,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:13,1963969,uhg.edu.py,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:13,1963970,ultimateworkwear.co.uk,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:13,1963971,utbyvesten.se,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:13,1963972,utensileria-modenese.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:13,1963973,varamjewels.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:12,1963936,sajadshahrokhi.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:12,1963937,salihtatlicifoundation.org,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:12,1963938,sap.ir,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:12,1963939,satrap.site,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:12,1963940,scarletplume.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:12,1963941,schoenerglauben.jetzt,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:12,1963942,se-rayapi.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:12,1963943,showoff-display.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:12,1963944,siemens-geruestbau.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:12,1963945,sirrikaplama.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:12,1963946,skhormoz.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:12,1963947,skiland.cz,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:12,1963948,sobrietynownetwork.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:12,1963949,soiblossom.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:12,1963950,sonivision.es,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:12,1963951,stempel-art.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:12,1963952,sterlingcredit.co.ke,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:12,1963953,strategyfinders.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:12,1963954,suonheoxongkhoi.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:12,1963955,sussland.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:11,1963920,onepulseafrica.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:11,1963921,orokingauto.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:11,1963922,ovvlieland.nl,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:11,1963923,pfandleih-fuerth.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:11,1963924,phnex.digital,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:11,1963925,photorequestsfromsolitary.org,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:11,1963926,pizzamasterusa.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:11,1963927,profumieco.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:11,1963928,psararadio.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:11,1963929,psisalonkeysi.pl,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:11,1963930,quintagallery.art,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:11,1963931,raik-schmidt.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:11,1963932,reiba-muehlen.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:11,1963933,rockandsearealestate.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:11,1963934,saanvipeddi.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:11,1963935,sagressunstay.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:10,1963907,manaou.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:10,1963908,mattsportclub.pl,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:10,1963909,melney.fr,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:10,1963910,mfelahi.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:10,1963911,minervamontessori.ie,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:10,1963912,miniferez.shop,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:10,1963913,mooivoorjou.nl,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:10,1963914,mythsandarts.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:10,1963915,neumanab.se,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:10,1963916,neurod.nl,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:10,1963917,newsbhadas4india.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:10,1963918,nikabeautyclinic.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:11:10,1963919,novin-sakht.ir,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:27,1963905,mainpipeline.co.uk,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:26,1963887,ipraywithjoy.org,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:26,1963888,jemsysi.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:26,1963889,jeremypeckham.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:26,1963890,kaervangmaterialer.dk,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:26,1963891,karinandringa.nl,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:26,1963892,khanemohandesi.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:26,1963893,khaosprimetech.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:26,1963894,kheradarthouse.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:26,1963895,komindekeet.nl,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:26,1963896,kseniayurevna.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:26,1963897,l2gold.in,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:26,1963898,lamazettedusud.net,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:26,1963899,lampacresciasrl.it,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:26,1963900,lereveildelhumanite.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:26,1963901,lila-lastenrad.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:26,1963902,lipinaroopeshmakeupstudio.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:26,1963903,livelab.pl,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:26,1963904,loreandscience.es,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:25,1963871,eylandstudio.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:25,1963872,fearlessaffiliate.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:25,1963873,fgi-africa.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:25,1963874,foralltheplayers.co.uk,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:25,1963875,fritze-stbgmbh.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:25,1963876,futuregrameen.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:25,1963877,gerts.fund,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:25,1963878,gregorvogt.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:25,1963879,gridint.net,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:25,1963880,groupe-mha.fr,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:25,1963881,happyhealthyhomebody.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:25,1963882,hipposonline.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:25,1963883,hoffmann.org.pl,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:25,1963884,hybrant.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:25,1963885,imdrom.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:25,1963886,immigrationparalegal.us,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:24,1963855,complementsthor.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:24,1963856,cookiestart.pl,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:24,1963857,corso-oss.it,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:24,1963858,ddosp.org,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:24,1963859,dein-dachblech.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:24,1963860,dgmg.xyz,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:24,1963861,doitwithworms.net,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:24,1963862,dr-bettina-tunze.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:24,1963863,dresmatinia.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:24,1963864,drhonarmattress.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:24,1963865,eiweisspulver-test.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:24,1963866,eleasthea.gr,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:24,1963867,elzbietanki.pl,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:24,1963868,ensemble-noisten.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:24,1963869,epicglobalgroup.net,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:24,1963870,estebanmasis.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:23,1963839,battlerally.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:23,1963840,beamtenwatch.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:23,1963841,blackbachelor.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:23,1963842,blog.zonepi.cz,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:23,1963843,borderline-hamburg.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:23,1963844,bornapos.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:23,1963845,bunami.ink,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:23,1963846,byebycar.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:23,1963847,cainmani.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:23,1963848,captainprintservice.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:23,1963849,carpeter.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:23,1963850,cbfincom.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:23,1963851,ccactores.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:23,1963852,centauras.co.uk,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:23,1963853,christen-wilkau-hasslau.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:23,1963854,comabat.be,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:22,1963826,10minutos.com.uy,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:22,1963827,2min.info,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:22,1963828,acrobaticpoly.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:22,1963829,ahnocarbide.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:22,1963830,alexsindler.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:22,1963831,andiefreude.at,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:22,1963832,aranjaya.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:22,1963833,arquersesclanya.cat,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:22,1963834,asltel.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:22,1963835,atelier-maloet.fr,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:22,1963836,ayswteb.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:22,1963837,bangkokhiking.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:10:22,1963838,baradimagingcenter.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-13 19:03:54,1963817,1stmarijuanagrowerspage.com,payload_delivery,ClearFake,ClearFake
-2026-10-13 18:53:53,1963793,www.nicociucci.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 18:53:53,1963794,www.roofmartlk.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 18:53:53,1963795,regnantitsolutions.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 18:53:53,1963796,quadhubtrade.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 18:53:52,1963791,www.nahr-iq.org,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 18:53:52,1963792,www.elpitallerdeflors.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 18:53:51,1963789,www.litoerre.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 18:53:51,1963790,www.ecoflow-shower.fr,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 18:25:45,1963751,capchaprotectcs.com,payload_delivery,Unknown malware,ZigClipper
-2026-10-13 18:24:47,1963748,godewase.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-13 18:19:45,1963744,kingsrxandwellness.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 18:10:17,1963725,kotisine.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-13 18:09:43,1963724,nicolas3007.online,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 18:06:15,1963720,xwaycomunicacao.com.br,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:15,1963721,yilmazbijuteri.com.tr,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963695,satstech.ae,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963696,sdermedique.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963697,searcomgroup.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963698,shifra.org.il,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963699,slighfoxinc.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963700,solevento.eu,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963701,stmichaelsway.eu,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963702,sumuttoday.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963703,sunupackaging.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963704,tabesimag.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963705,technogeek.es,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963706,terrablancamallorca.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963707,thebigjackpotcasino.net,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963708,thetruthaboutmercedes.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963709,tocespecialpresentes.com.br,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963710,toldosortizrd.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963711,topindiandetectiveagency.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963712,unaacademiaonline.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963713,uspackagingllc.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963714,view360.lk,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963715,vitalbusinesservices.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963716,vnbj66.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963717,wehavefeelingstoo.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963718,wingmanbrewers.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:14,1963719,wordforward.org,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963671,moodesign.mu,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963672,moon-vtc.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963673,mybkexperience.onl,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963674,myhostpress.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963675,myosurgetherapy.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963676,nahr-iq.org,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963677,nicociucci.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963678,nursoft.one,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963679,onihaspells.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963680,ostendseaplace.be,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963681,ottawacapitalhomes.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963682,pachamamaroteisland.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963683,pardazeshsazan.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963684,playenglishworld.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963685,podclubmedia.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963686,procuregh.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963687,profi-bg.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963688,propertyexperiencegroup.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963689,protego360.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963690,radiobumerangtv.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963691,redandwhitemagzz.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963692,roofmartlk.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963693,sangagroup.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:13,1963694,sarandaestates.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963645,hoscindia.in,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963646,hotelmadonna.com.ar,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963647,impresadipulizieelmafrouhi.ch,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963648,institutoministerialsion.com.ar,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963649,jasonmooreconsulting.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963650,jda-advies.nl,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963651,joseluislacasta.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963652,junglesurvivalacademy.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963653,kemo-vochtwering.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963654,kurahaastudios.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963655,landfirst.in,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963656,latinaventours.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963657,lawncarebvi.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963658,litoerre.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963659,livinghealthwellnessco.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963660,magnuslegal.in,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963661,manana.com.au,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963662,mandarinclassroom.hk,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963663,maxpaxllc.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963664,meerkatplumbing.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963665,menara62.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963666,mhsohan.site,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963667,mightymastermarketing.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963668,migratemate.co.uk,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963669,mikesrealestate.co.nz,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:12,1963670,milanoengineering.pk,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:11,1963623,casinoluckmatrix.net,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:11,1963624,casinoluckyhits.net,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:11,1963625,casinosupremewin.net,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:11,1963626,centrovertiginitorino.it,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:11,1963627,chandigarhorganics.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:11,1963628,cliniqueveterinairedemazargues.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:11,1963629,craigleahomes.com.au,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:11,1963630,dancingfish.asia,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:11,1963631,danieldewaldgreyfeathers.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:11,1963632,dataempireusa.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:11,1963633,diariodeestoicos.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:11,1963634,energasrj.com.br,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:11,1963635,essexprestigebuildingservicesltd.co.uk,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:11,1963636,eventor.be,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:11,1963637,excavationmc.ca,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:11,1963638,flexxsolutions.nl,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:11,1963639,franceprosecurite.fr,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:11,1963640,greenwellhealthcare.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:11,1963641,grtax.co.za,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:11,1963642,gruposanluis.edu.pe,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:11,1963643,homerinn.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:11,1963644,honeybaenailz.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:10,1963613,3ob.fr,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:10,1963614,albaini.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:10,1963615,antonicelliformazione.it,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:10,1963616,asturigin.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:10,1963617,b-edil.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:10,1963618,bj66.casino,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:10,1963619,blazinggoldcasino.net,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:10,1963620,bloomintegrative-health.com,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:10,1963621,cananewcity.com.vn,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 18:06:10,1963622,casinoedenbet.net,payload_delivery,Unknown Loader,"etherhiding,Polygon"
-2026-10-13 17:54:40,1963603,lincolnfinancialservicesllc.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:54:40,1963604,mauricetalton.com,payload_delivery,ClearFake,"compromised,EtherHide"
 2026-10-13 17:54:38,1963601,webpageclouds.online,payload_delivery,Unknown malware,"ClearFake,ClickFix,EtherHiding"
 2026-10-13 17:54:38,1963602,cloudyredirect.online,payload_delivery,Unknown malware,"ClearFake,ClickFix,EtherHiding"
-2026-10-13 17:44:39,1963578,funktionflooring.co.za,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:34:38,1963569,www.danieldewaldgreyfeathers.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:34:37,1963565,fitneszgoals.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:34:37,1963566,glosamarina.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:34:37,1963567,www.greenwellhealthcare.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:34:37,1963568,www.essexprestigebuildingservicesltd.co.uk,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:34:36,1963562,www.antonicelliformazione.it,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:34:36,1963563,www.centrovertiginitorino.it,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:34:36,1963564,www.3ob.fr,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:34:35,1963560,forteprecatorios.com.br,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:34:35,1963561,www.asturigin.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:24:34,1963551,beyondphotography.vn,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:24:33,1963547,btltrimsaccessories.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:24:33,1963548,algherocar.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:24:33,1963549,adonaicleaningservices.co.za,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:24:33,1963550,almonjid.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:24:32,1963542,bewustconsulting.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:24:32,1963544,a2a-mednet.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:24:32,1963545,chrismooneysingh.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:24:32,1963546,beerbalco.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:24:31,1963540,compujuank.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:24:31,1963541,chessplus.edu.vn,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:24:30,1963539,danialterations.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:14:30,1963531,ahhs.edu.bd,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:14:29,1963527,ajudaai.app.br,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:14:29,1963528,e-mobilitysearch.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:14:29,1963529,alamoxsreal.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:14:29,1963530,afforestintl.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:14:28,1963523,ararchoir.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:14:28,1963524,cinnalogy.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:14:28,1963525,bj66bet.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:14:28,1963526,autoescolavallecar.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:14:27,1963521,cctonami.jp,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:14:27,1963522,andrestaedele.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:04:42,1963513,njpvt59617.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-13 17:04:26,1963511,dunlapconstructionllc.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:04:26,1963512,2legendsnyc.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:04:25,1963507,988wan.me,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:04:25,1963508,cleancorebaltimore.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:04:25,1963509,chanjohnsonmusic.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:04:25,1963510,afrogarnics.us,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:04:24,1963503,bj66khuyenmai.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:04:24,1963504,bj66c1.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:04:24,1963505,arusmrtech.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:04:24,1963506,al-loaloah.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:04:23,1963499,balconyinspectionlosangeles.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:04:23,1963500,bj66.bet,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:04:23,1963501,ava-group.fr,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:04:23,1963502,brandbunch.pk,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:04:22,1963497,explain-it-simple.net,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:04:22,1963498,afconstruc.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 17:01:27,1963495,indigo8087.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-13 16:59:33,1963490,109.167.153.34.bc.googleusercontent.com,payload_delivery,php.shin_webshell,"GIF,PHP,webshell,WordPress,wp-admin"
-2026-10-13 16:54:21,1963486,eneractenergy.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 16:46:00,1963444,serviciosgonzalezmx.com,payload_delivery,ClearFake,ClearFake
-2026-10-13 16:35:54,1963431,raster-87.com,botnet_cc,AMOS,"AMOS,ClickFix,Foxveil,macOS"
-2026-10-13 16:35:54,1963433,karmazarbaza.com,payload_delivery,Unknown malware,ClickFix
-2026-10-13 16:25:17,1963347,f1shh.at,botnet_cc,Unknown malware,"fake-steam-client,phishing,Steam"
-2026-10-13 16:25:17,1963348,8909451279.f1shh.at,botnet_cc,Unknown malware,"fake-steam-client,phishing,Steam"
-2026-10-13 16:25:13,1963408,7834156259.dojiner.at,botnet_cc,Unknown malware,"fake-steam-client,Steam"
-2026-10-13 16:25:12,1963409,8393546939.dojiner.at,botnet_cc,Unknown malware,"fake-steam-client,Steam"
-2026-10-13 16:04:16,1963400,www.aperce.com.co,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 15:16:59,1963343,lhurl39127.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-13 15:10:25,1963336,cyrus.anondns.net,botnet_cc,Quasar RAT,quasar
-2026-10-13 14:46:56,1963317,0zj2voyo.roseanne.id,payload_delivery,ClearFake,"ClearFake,mac-0x0f14,macos"
-2026-10-13 14:37:13,1963310,google-proxy-74-125-212-71.google.com,payload_delivery,php.shin_webshell,"GIF,PHP,webshell,WordPress,wp-admin"
-2026-10-13 14:31:53,1963305,tumiveme.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-13 14:13:42,1963226,new.sunstonewell.info,payload_delivery,SmartApeSG,SmartApeSG
 2026-10-13 14:13:40,1963235,motherotters.com,botnet_cc,Unknown Stealer,"CLOUDHAZE,RAT"
 2026-10-13 14:13:39,1963236,healskills.com,botnet_cc,Unknown Stealer,"CLOUDHAZE,RAT"
-2026-10-13 13:43:06,1963259,stormfangridge.top,cc_skimming,magecart,Magecart
-2026-10-13 13:43:04,1963258,paleanchor.com,cc_skimming,magecart,Magecart
-2026-10-13 13:43:02,1963257,stormwraith.com,cc_skimming,magecart,Magecart
-2026-10-13 13:43:00,1963256,blackthornkeep.top,cc_skimming,magecart,Magecart
-2026-10-13 13:41:15,1963254,willowtransit.com,cc_skimming,magecart,Magecart
-2026-10-13 13:21:15,1963239,ilzmt5ue.chloesteph.com,payload_delivery,ClearFake,"ClearFake,mac-0xdcf2,macos"
-2026-10-13 13:17:18,1963232,kvigx63781.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-13 13:00:55,1963211,noblissime.ch,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 12:50:19,1963199,www.abvision.cam,botnet_cc,XWorm,xworm
-2026-10-13 12:40:53,1963192,clevernurse.ch,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 12:35:18,1963185,98win99m.com,botnet_cc,AsyncRAT,asyncrat
-2026-10-13 12:33:50,1963183,bitne65539.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-13 12:22:29,1963174,70.230.108.136.bc.googleusercontent.com,payload_delivery,php.shin_webshell,"GIF,PHP,webshell,WordPress,wp-admin"
 2026-10-13 12:21:48,1963150,eindgren.lol,payload_delivery,KongTuke,KongTuke
-2026-10-13 12:21:46,1963155,zippis.xyz,payload_delivery,Unknown Loader,"etherhiding,fake-ai-tool,payload-delivery"
-2026-10-13 12:09:16,1963149,google-proxy-66-249-88-67.google.com,payload_delivery,php.shin_webshell,"GIF,PHP,webshell,WordPress,wp-admin"
-2026-10-13 11:58:23,1963137,google-proxy-66-249-88-69.google.com,payload_delivery,php.shin_webshell,"GIF,PHP,webshell,WordPress,wp-admin"
-2026-10-13 11:58:15,1963136,google-proxy-66-249-88-65.google.com,payload_delivery,php.shin_webshell,"GIF,PHP,webshell,WordPress,wp-admin"
-2026-10-13 11:28:40,1963102,majalaganja.cc,payload_delivery,Unknown malware,ZigClipper
-2026-10-13 11:24:16,1963098,emmmi88295.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-13 11:20:31,1963094,qucifopa.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-13 10:43:53,1963064,dc30yzl72d.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-13 10:35:10,1963058,google-proxy-66-249-88-71.google.com,payload_delivery,php.shin_webshell,"GIF,PHP,webshell,WordPress,wp-admin"
-2026-10-13 10:27:53,1963052,lesmueller.ch,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 10:07:51,1963036,www.lesmueller.ch,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 10:01:37,1963031,buildinganime.unaux.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-10-13 09:35:45,1962989,lileduki.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-13 09:29:45,1962983,16s4e82txk.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-13 09:25:27,1962978,dg0x81sh.pattysole.com,payload_delivery,ClearFake,"ClearFake,mac-0xdcf2,macos"
-2026-10-13 08:54:14,1962956,proxy-us-east008-cip4.ahrefs.net,payload_delivery,php.shin_webshell,"GIF,PHP,webshell,WordPress,wp-admin"
-2026-10-13 08:48:35,1962951,biqcs87242.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-13 08:45:06,1962937,fileserver.devin-hk.shop,botnet_cc,Overlord RAT,"c2,overlord,RAT"
-2026-10-13 08:45:04,1962941,dasdase13.icu,payload_delivery,Unknown malware,ClickFix
-2026-10-13 08:45:03,1962942,intgspace.com,payload_delivery,Unknown malware,ClickFix
-2026-10-13 08:45:02,1962944,sevabrigade.org,payload_delivery,Unknown malware,ClickFix
-2026-10-13 08:45:01,1962945,magkaisacentre.org,payload_delivery,Unknown malware,ClickFix
-2026-10-13 08:45:00,1962946,ecodation.com,payload_delivery,Unknown malware,ClickFix
-2026-10-13 08:15:23,1962916,olababamazi.duckdns.org,botnet_cc,Remcos,remcos
-2026-10-13 08:15:23,1962917,www.olababamazinow.com,botnet_cc,Remcos,remcos
-2026-10-13 08:15:23,1962918,www.olababamazinowbackup.com,botnet_cc,Remcos,remcos
-2026-10-13 07:49:30,1962893,178.126.22.34.bc.googleusercontent.com,payload_delivery,php.shin_webshell,"GIF,PHP,webshell,WordPress,wp-admin"
-2026-10-13 07:32:51,1962880,fomeweli.workers.dev,payload_delivery,php.shin_webshell,"Cloudflare,GIF,PHP,webshell,WordPress,workers.dev,wp-admin"
-2026-10-13 07:30:22,1962877,98win.fast,botnet_cc,AsyncRAT,asyncrat
-2026-10-13 06:55:39,1962821,aafesorder.com,botnet_cc,Unknown Stealer,"c2,clickfix"
 2026-10-12 18:22:53,1961975,reed-koaor-tekzr.pro,payload_delivery,IClickFix,"ClickFix,Mac"
 2026-10-12 18:22:53,1961976,seo.codesmithsystems.com,payload_delivery,IClickFix,"ClickFix,Mac"
 2026-10-12 18:22:52,1961974,grove-fiis-y7ua8.pro,payload_delivery,IClickFix,"ClickFix,Mac"
-2026-10-12 14:10:39,1961734,robinsoo.lol,payload_delivery,KongTuke,KongTuke
-2026-10-12 12:36:10,1961613,profile.turquoisequadrant.info,payload_delivery,SmartApeSG,SmartApeSG
 2026-10-11 10:20:18,1960616,braimzaii-rook.pro,payload_delivery,IClickFix,"ClickFix,Mac"
 2026-10-11 10:20:18,1960617,thistle-godbriaum.pro,payload_delivery,IClickFix,"ClickFix,Mac"
 2026-10-10 22:28:45,1960340,zoastklaeon.pro,payload_delivery,IClickFix,"ClickFix,Mac"
@@ -760,276 +612,84 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-10-10 22:28:44,1960338,ochre-roam-rook-geoum.pro,payload_delivery,IClickFix,"ClickFix,Mac"
 2026-10-10 22:28:44,1960339,poalmcreorvelvet.pro,payload_delivery,IClickFix,"ClickFix,Mac"
 2026-10-09 21:17:55,1959487,fern-roam-moss-luio.pro,payload_delivery,IClickFix,"ClickFix,Mac"
-2026-10-08 17:21:33,1957825,zuma789-z.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:33,1957826,zypupmp.xyz,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957797,sunshineswasth.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957798,tepliceapartman.cz,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957799,testnovin9.ir,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957800,theonenightstand.shop,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957801,thiennguyencobonla.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957802,toobusy2clean.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957803,tosee-laser.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957804,trail-and-tour.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957805,tuurintupa.fi,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957806,twiincandle.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957807,ullna.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957808,urputnej.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957809,valepublicitando.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957810,vasex.hu,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957811,vetilicius.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957812,vividstreaming.live,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957814,wartasentral.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957815,whitepearldentalcare.com.au,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957816,widemarsh.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957817,wise-pool.eu,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957818,wizwomen.se,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957819,wjtirex.it,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957820,wonderlandministorage.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957823,zetnets.nl,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:32,1957824,zfl-lernen.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957768,prtimesafrica.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957769,psanipodlelustiga.cz,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957770,pssafety.net,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957771,pulver-sandro.net,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957772,radprofi.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957773,raimond-scheirich.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957774,reentryartsconnection.org,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957775,remasa.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957776,rik-meijer.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957777,rmhbartels.net,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957778,saetspa.it,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957779,saintjeankerdaniel.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957780,salonbeautifulinc.net,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957782,seainternationalcr.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957783,sfinx.dk,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957784,shadetreelearning.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957785,shafajo.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957786,shatranjico.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957787,shidrealestate.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957788,shop.nokill.fr,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957789,skupujemyspolki.pl,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957790,smkandcompany.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957791,smkn2jember.sch.id,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957792,sorko.pro,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957794,starkids.cz,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:31,1957795,stbarnabaslittlelambs.org,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957736,kreidezeitfenster.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957737,latintub.com.ar,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957738,leschampsparadis.fr,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957739,liciaberry.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957740,logisticsinside.nl,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957741,lydneytownafcyouth.co.uk,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957742,maison-cabrit.fr,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957743,mamamachtpause.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957744,martiaart.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957745,mashhadkaver.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957746,masia.com.ve,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957747,matinatlas.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957748,medadaabi.ir,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957749,michellemillerproofreading.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957751,mike-chauffeur.cz,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957752,misteriosx.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957753,modelleriaara.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957754,musicaegioia.it,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957755,novamostra.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957756,openeyesmedia.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957757,osteriailmelograno.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957758,owlstore.eu,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957760,papatty.ir,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957761,pelakhaft.ir,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957762,personaltrainer-wiesbaden.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957764,pingotec.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957765,planetalegal.es,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:30,1957766,pleasantsims.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957706,friendsofoutdoorchattanooga.org,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957707,gabrielleaesthetics.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957708,galleryparian.ir,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957709,greenerealtyflorida.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957710,gtta.co.in,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957711,gurpreetchawla.in,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957712,hawramanat.ir,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957713,hinsonproductions.net,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957714,histobrand.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957715,homeschneider.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957716,hrcontabilidade.com.br,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957717,hrkonzultace.cz,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957720,iliaazar.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957721,ilidental.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957722,inspiredhomeliving.com.au,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957723,integral-group.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957724,jasai.co,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957725,joshkolay.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957726,jvpburgenland.at,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957727,kalmaras.lt,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957728,karog-alansasan.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957729,kasettumkin.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957730,kendo-mainz.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957731,khaniholding.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957732,khovai.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957734,kosmetik-schwetzingen.de,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:29,1957735,kreanatura.cz,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957678,cotesdethongue.fr,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957679,creativecollectionbyshon.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957680,dandori.co.jp,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957681,dehraduntimes.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957682,detaknegeri.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957683,diamlabio.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957684,diesicyprus.com.cy,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957685,digi.africa,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957687,dpsczarne.pl,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957688,drbehzadnejad.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957689,drfarshidarbabi.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957690,eckon.ro,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957691,elainecampbell.ie,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957693,elshotdiario.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957694,enlito.be,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957695,ethicroindustries.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957696,expressionsinspeech.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957698,felelossegbiztosito.hu,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957699,feltregas.it,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957700,feriafpelche.es,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957701,festivaloftech.nl,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957702,fibrefence.it,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957703,fideliaaddison.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:28,1957704,firedefender.pl,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:27,1957646,accessory-online.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:27,1957647,aircare-pro.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:27,1957649,alignedassetgroup.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:27,1957650,amirashrafi.ir,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:27,1957651,andrea-allievi.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:27,1957652,ankara-otomatikkapi.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:27,1957656,armandental.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:27,1957658,asal-koohgol.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:27,1957659,aspdarchitectss.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:27,1957660,baharmiss.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:27,1957661,beautifullbody.be,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:27,1957662,becva.cz,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:27,1957663,bisracommunications.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:27,1957665,bluewatchtower.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:27,1957666,brainworktherapy.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:27,1957667,brambaptist.nl,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:27,1957668,buildingonlinebusiness.net,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:27,1957670,cafegadget.ir,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:27,1957671,cardioex.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:27,1957673,cmjcfnonalahaine.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:27,1957674,coastalhospicesc.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:27,1957675,coffeetrainingcenteratbd.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:27,1957676,completetechnologyresources.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:26,1957644,abissnet.cloud,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 17:21:26,1957645,academiaidiomasgeranios.com,payload_delivery,Unknown Loader,"etherhiding,sepolia"
-2026-10-08 15:08:27,1957514,xorados.com,payload_delivery,IClickFix,ClickFix
+2026-10-08 14:06:18,1957111,lavendertome.co,payload_delivery,SmartApeSG,SmartApeSG
 2026-10-08 07:04:34,1957014,luck.blacklabelfremont.com,botnet_cc,ClearFake,"ClearFake,ClickFix,EtherHiding"
 2026-10-08 06:51:22,1957013,luck.blacklabelfremont.com,payload_delivery,IClickFix,ClickFix
+2026-10-08 06:32:01,1957011,office-fit.co.uk,payload_delivery,ClearFake,"compromised,EtherHide"
 2026-10-08 05:23:01,1956947,ridge-goalmduix.pro,payload_delivery,IClickFix,"ClickFix,Mac"
 2026-10-08 05:23:00,1956945,kraeldskiynlucid.pro,payload_delivery,IClickFix,"ClickFix,Mac"
-2026-10-08 00:39:54,1956901,andresjost.com,payload_delivery,ClearFake,"compromised,EtherHide"
+2026-10-08 01:14:58,1956908,prediksihk.forum,payload_delivery,ClearFake,"compromised,EtherHide"
+2026-10-08 00:09:52,1956888,robotretrofitters.com,payload_delivery,ClearFake,"compromised,EtherHide"
+2026-10-08 00:09:52,1956889,robotpopcornmachine.com,payload_delivery,ClearFake,"compromised,EtherHide"
+2026-10-07 20:34:00,1956791,www.crookedhousebooks.com,cc_skimming,Unknown Loader,"skimming,victim"
+2026-10-07 20:34:00,1956792,www.daveshootsbookseller.com,cc_skimming,Unknown Loader,"skimming,victim"
+2026-10-07 20:34:00,1956793,www.diversitybooks.com.au,cc_skimming,Unknown Loader,"skimming,victim"
+2026-10-07 20:34:00,1956794,www.mysticlink.com,cc_skimming,Unknown Loader,"skimming,victim"
+2026-10-07 20:34:00,1956795,www.rarebookshonolulu.com,cc_skimming,Unknown Loader,"skimming,victim"
 2026-10-07 17:34:23,1956630,birch-koix-7keeb.pro,payload_delivery,IClickFix,"ClickFix,Mac"
-2026-10-06 13:53:38,1955633,yilko.ir,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:53:38,1955634,yisan.cz,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:53:37,1955612,wios.warszawa.pl,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:53:37,1955617,wonpixel.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:53:37,1955620,worldbc.co,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:53:36,1955596,vissarion.org,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:53:06,1955583,viktoria06buchholz.de,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:53:05,1955573,vanifilms.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:53:05,1955576,venaas.beer,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:53:04,1955552,udrzba-sprava.cz,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:53:04,1955557,understorypictures.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:53:02,1955504,thematrixcore.net,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:53:02,1955508,thepiratefest.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:53:02,1955511,thetenthman.org,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:53:00,1955468,szcx.uk.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:53:00,1955469,t-rent24.de,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:53:00,1955476,taras-wisdom.de,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:53:00,1955484,tehranaquaria.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:52:59,1955458,sueddeutsche-iv.de,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:52:12,1955369,scanlanglass.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:52:11,1955340,roestereibedarf.de,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:52:11,1955346,rosman.biz,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:51:29,1955281,princess-gem.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:51:29,1955286,profiletank.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:51:28,1955272,powergas.uk,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:51:26,1955248,petap.art,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:51:25,1955219,omstudio.co.uk,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:51:25,1955229,overheadtricities.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:51:24,1955218,olmo-martin.org,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:50:44,1955200,newlifenutaralbd.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:50:43,1955187,mpgpainting.net,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:50:42,1955178,mondknoten.de,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:50:42,1955179,mondkompass.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:50:38,1955131,loumar.dk,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:50:38,1955132,lucchesipgh.org,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:50:37,1955121,literacytolegacymentors.net,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:49:55,1955080,kidssmile.pl,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:49:54,1955075,kenzax.ir,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:49:53,1955053,jacintamwendemaweu.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:49:53,1955062,jewelsbranch.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:49:13,1955010,handball-buechen.de,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:49:13,1955013,helium10.coupons,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:49:13,1955017,hotelpraiadoconde.com.br,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:49:12,1955005,guitar-forge.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:49:12,1955008,habarihealth.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:49:12,1955009,hacker-gmbh.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:49:11,1954989,futagobimvietnam.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:49:10,1954970,foccuseditora.com.br,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:49:10,1954979,frankrijkinfo.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:49:10,1954980,frazerrototillerparts.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:49:09,1954956,farnostcelakovice.net,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:49:09,1954964,fishing-panda.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:49:08,1954940,exoplanetarypoetry.space,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:48:21,1954916,e2eng.com.br,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:48:21,1954922,ecocleaningsolutions.ca,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:48:19,1954898,dipshikhapublication.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:48:18,1954882,csekokavehaz.hu,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:48:17,1954869,crazylifestyle.fr,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:48:17,1954877,creoantofagasta.cl,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:48:16,1954856,congreso-cimu.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:47:38,1954845,churchlightingsystems.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:47:38,1954848,clclinicesthetic.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:47:36,1954812,bridges.pt,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:47:36,1954813,brododigiuggiola.it,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:47:36,1954815,bryanmotor.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:47:35,1954795,biotecma.es,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:47:35,1954808,bratwurstdeluxe.de,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:47:34,1954777,bbscorp.ca,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:47:34,1954781,beautifullbody.nl,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:47:34,1954791,bimerland.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:47:34,1954792,binaryprofes.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:46:51,1954750,art-of-eternity.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:46:51,1954760,autobreak.co,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:46:50,1954729,allthingschew.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:46:50,1954742,apel-jean23.org,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:46:49,1954713,advokats-lv.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:46:49,1954714,aeroclublocarno.ch,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:46:49,1954718,against-all-doubt.com,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:46:49,1954723,akonis.fr,payload_delivery,Unknown Loader,etherhiding
-2026-10-06 13:46:49,1954726,alexander-wille.de,payload_delivery,Unknown Loader,etherhiding
+2026-10-07 11:56:18,1956283,cfcher.biz,botnet_cc,Remus,None
 2026-10-06 13:14:59,1954693,dusky-lark-piarnskaeum.ink,payload_delivery,IClickFix,"ClickFix,Mac"
 2026-10-06 13:14:59,1954694,indigocraelmtoaix.top,payload_delivery,IClickFix,"ClickFix,Mac"
 2026-10-06 12:29:21,1954669,ipcheck-vm.vercel.app,payload_delivery,ContagiousDrop,"ContagiousInterview,vscode,vscode-tasks-folderopen"
 2026-10-06 05:52:51,1954335,rovgruien.pro,payload_delivery,IClickFix,ClickFix
-2026-10-05 12:50:06,1952790,toutmonmateriel.fr,payload_delivery,ClearFake,"compromised,EtherHide"
 2026-10-04 13:14:29,1950260,slentnaearamisty.pro,payload_delivery,Unknown malware,ClickFix
-2026-10-04 06:54:49,1949063,checkmybtrobot.cc,payload_delivery,IClickFix,"ClickFix,Deno,EtherHiding,IClickFix,Polygon"
 2026-10-03 21:26:40,1949188,misty-ripple-lark-kraiara.top,payload_delivery,IClickFix,"ClickFix,Mac"
 2026-10-03 13:45:39,1948673,agent.cloudfiledisk.com,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-10-03 11:30:01,1948504,bladehostpi.life,payload_delivery,IClickFix,"ClickFix,Mac"
+2026-10-02 19:31:53,1945764,gastonrenard.com,cc_skimming,Unknown Loader,"skimming,victim"
+2026-10-02 19:31:53,1945765,www.brooklynbooks.us,cc_skimming,Unknown Loader,"skimming,victim"
 2026-10-02 18:55:38,1945671,velvetreoskslaon.pro,payload_delivery,IClickFix,"ClickFix,Mac"
+2026-10-02 16:56:39,1945531,hasgroothandel.nl,payload_delivery,ClearFake,"compromised,EtherHide"
 2026-10-01 23:21:26,1944797,amber-weave-otter-luor.pro,payload_delivery,IClickFix,ClickFix
+2026-10-01 18:27:18,1944059,www.barrycassidyrarebooks.com,cc_skimming,Unknown Webinject,"skimming,victim,vmkit"
+2026-10-01 18:27:18,1944060,www.bluestockingbooks.com,cc_skimming,Unknown Webinject,"skimming,victim,vmkit"
+2026-10-01 18:27:18,1944061,www.booksofparadise.net,cc_skimming,Unknown Webinject,"skimming,victim,vmkit"
+2026-10-01 18:27:18,1944062,www.compleatscholar.com,cc_skimming,Unknown Webinject,"skimming,victim,vmkit"
+2026-10-01 18:27:18,1944063,www.covertocoverbooks.ca,cc_skimming,Unknown Webinject,"skimming,victim,vmkit"
+2026-10-01 18:27:18,1944064,www.diasparbooks.com,cc_skimming,Unknown Webinject,"skimming,victim,vmkit"
+2026-10-01 18:27:18,1944065,www.elsefinebooksellers.com,cc_skimming,Unknown Webinject,"skimming,victim,vmkit"
+2026-10-01 18:27:18,1944066,www.gwenfoss.com,cc_skimming,Unknown Webinject,"skimming,victim,vmkit"
+2026-10-01 18:27:18,1944067,www.rarechristianbooks.com,cc_skimming,Unknown Webinject,"skimming,victim,vmkit"
+2026-10-01 18:27:18,1944068,www.shopbeautywoodbooks.com,cc_skimming,Unknown Webinject,"skimming,victim,vmkit"
+2026-10-01 18:27:18,1944069,www.thelibrarium.com,cc_skimming,Unknown Webinject,"skimming,victim,vmkit"
+2026-10-01 18:27:17,1944058,www.author-author.net,cc_skimming,Unknown Webinject,"skimming,victim,vmkit"
+2026-09-30 22:16:13,1943327,www.kellerbooks.com,cc_skimming,Unknown malware,"skimming,victim"
+2026-09-30 22:16:13,1943328,www.lamdhabooks.com.au,cc_skimming,Unknown malware,"skimming,victim"
+2026-09-30 22:16:13,1943329,www.needleworkbooks.com,cc_skimming,Unknown malware,"skimming,victim"
+2026-09-30 22:16:13,1943330,www.renaissancebooks.co.nz,cc_skimming,Unknown malware,"skimming,victim"
+2026-09-30 22:16:13,1943331,www.thebooksend.com,cc_skimming,Unknown malware,"skimming,victim"
 2026-09-30 13:18:40,1942904,amber-ridge-bruixsioi.pro,payload_delivery,IClickFix,clickfix
+2026-09-29 12:05:07,1941714,www.theridgebooks.com,cc_skimming,Unknown Webinject,"skimming,victim"
+2026-09-29 12:05:07,1941715,www.yeoldbookworm.com,cc_skimming,Unknown Webinject,"skimming,victim"
+2026-09-29 12:05:06,1941699,www.batsoverbooks.com,cc_skimming,Unknown Webinject,"skimming,victim"
+2026-09-29 12:05:06,1941700,www.bookbill.net,cc_skimming,Unknown Webinject,"skimming,victim"
+2026-09-29 12:05:06,1941701,www.bookhousestlouis.com,cc_skimming,Unknown Webinject,"skimming,victim"
+2026-09-29 12:05:06,1941702,www.confettibooks.com,cc_skimming,Unknown Webinject,"skimming,victim"
+2026-09-29 12:05:06,1941703,www.diatropebooks.com,cc_skimming,Unknown Webinject,"skimming,victim"
+2026-09-29 12:05:06,1941704,www.gloversbookery.com,cc_skimming,Unknown Webinject,"skimming,victim"
+2026-09-29 12:05:06,1941705,www.hoffmansbookshop.com,cc_skimming,Unknown Webinject,"skimming,victim"
+2026-09-29 12:05:06,1941706,www.ivyridgebooks.com,cc_skimming,Unknown Webinject,"skimming,victim"
+2026-09-29 12:05:06,1941707,www.kathmandubooks.com,cc_skimming,Unknown Webinject,"skimming,victim"
+2026-09-29 12:05:06,1941708,www.leurabooks.com.au,cc_skimming,Unknown Webinject,"skimming,victim"
+2026-09-29 12:05:06,1941709,www.oldwestbooks.com,cc_skimming,Unknown Webinject,"skimming,victim"
+2026-09-29 12:05:06,1941710,www.patbookman.net,cc_skimming,Unknown Webinject,"skimming,victim"
+2026-09-29 12:05:06,1941711,www.rudolfsteinerbookcentre.com.au,cc_skimming,Unknown Webinject,"skimming,victim"
+2026-09-29 12:05:06,1941712,www.schoonerbooks.com,cc_skimming,Unknown Webinject,"skimming,victim"
+2026-09-29 12:05:06,1941713,www.theavocadopit.com,cc_skimming,Unknown Webinject,"skimming,victim"
 2026-09-29 10:49:09,1941661,lustkliondruara.space,payload_delivery,IClickFix,"ClickFix,Mac,MacFinger"
-2026-09-28 21:45:30,1941277,retexio.com,payload_delivery,ClearFake,"compromised,EtherHide"
-2026-09-28 18:19:30,1941126,marxist.se,payload_delivery,ClearFake,"compromised,EtherHide"
+2026-09-28 15:32:48,1941060,ventuxe.biz,botnet_cc,Remus,RemusStealer
 2026-09-28 06:00:37,1940730,ochre-quill-buindbaio.icu,payload_delivery,IClickFix,"ClickFix,Mac,MacFinger"
 2026-09-28 03:46:01,1939738,bbb.0101011010010111001.com,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-09-27 13:46:14,1939013,ns1.kcsc.tf,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-09-27 13:46:14,1939014,ns2.kcsc.tf,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
-2026-09-27 12:42:27,1938978,internetandcableservicesatgadget.com,payload_delivery,IClickFix,"ClickFix,Mac"
-2026-09-27 12:42:27,1938990,www.somcaregt.com,payload_delivery,IClickFix,"ClickFix,Mac"
+2026-09-27 13:31:01,1939000,www.comoshops.com,cc_skimming,Unknown Loader,"skimming,victim"
+2026-09-27 13:31:01,1939001,www.ksbiblio.com,cc_skimming,Unknown Loader,"skimming,victim"
+2026-09-27 13:31:01,1939002,www.resourcebooks.net,cc_skimming,Unknown Loader,"skimming,victim"
+2026-09-27 13:31:01,1939003,www.sauconybookshop.com,cc_skimming,Unknown Loader,"skimming,victim"
+2026-09-27 13:31:01,1939004,www.shinyowlbooks.com.au,cc_skimming,Unknown Loader,"skimming,victim"
 2026-09-27 12:12:32,1938955,vivid-roam-cove-gleon.life,payload_delivery,IClickFix,"ClickFix,Mac,MacFinger"
 2026-09-27 12:12:31,1938953,glacial-bloom-wren-croaon.life,payload_delivery,IClickFix,"ClickFix,Mac,MacFinger"
-2026-09-26 22:56:59,1935454,rezus.team,payload_delivery,Unknown Loader,etherhiding
-2026-09-26 18:56:20,1935004,saintjal-nutrition.ch,payload_delivery,ClearFake,compromised
+2026-09-26 22:55:57,1935129,aspltextile.com,payload_delivery,Unknown Loader,etherhiding
 2026-09-25 16:28:18,1934009,saintpatricksanglicanchurch.org,payload_delivery,Unknown Loader,etherhiding
 2026-09-25 16:07:21,1933754,shrikrishnasaiclinic.com,payload_delivery,Unknown Loader,"etherhiding,victim"
 2026-09-25 13:58:30,1932831,indigo-finch-misgoaen.life,payload_delivery,IClickFix,"ClickFix,Mac,MacFinger"
@@ -1051,7 +711,6 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-09-17 09:22:34,1922638,studiokasa.com.br,payload_delivery,IClickFix,"ClickFix,Mac"
 2026-09-17 03:47:45,1921455,candxai.com,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-09-16 09:55:55,1920988,speedpi12321.xyz,payload_delivery,IClickFix,"attacker-infra,ClickFix,Mac,MacFinger"
-2026-09-16 07:28:26,1920924,occidentalconstruction.com,payload_delivery,ClearFake,"compromised,EtherHide"
 2026-09-16 06:24:35,1920900,tftp2.sh,botnet_cc,Mirai,None
 2026-09-14 16:53:24,1917889,moss-froggaee.space,payload_delivery,IClickFix,"ClickFix,inject-domain,Mac,MacFinger"
 2026-09-14 16:53:24,1917890,norkapi41.icu,payload_delivery,IClickFix,"ClickFix,inject-domain,Mac,MacFinger"
@@ -1072,15 +731,9 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-09-13 12:09:12,1916414,workworm1412.buzz,payload_delivery,IClickFix,"ClickFix,Mac,MacFinger,payload-infra"
 2026-09-13 12:09:11,1916408,longslimpi.life,payload_delivery,IClickFix,"ClickFix,Mac,MacFinger,payload-infra"
 2026-09-12 03:47:11,1915523,networkness.com,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
-2026-09-10 19:50:26,1910922,helsingoercarpenter.dk,payload_delivery,Unknown Loader,"etherhiding,Sepolia"
-2026-09-10 17:24:10,1910616,confeitariashow.com.br,payload_delivery,IClickFix,"ClickFix,Mac"
-2026-09-09 20:54:21,1906606,podnamiot.eu,payload_delivery,Unknown RAT,"etherhiding,pythonRAT,Sepolia"
-2026-09-09 20:54:16,1906535,hetadvieskantoor.nl,payload_delivery,Unknown RAT,"etherhiding,pythonRAT,Sepolia"
-2026-09-09 20:54:15,1906504,darkoobedu.ir,payload_delivery,Unknown RAT,"etherhiding,pythonRAT,Sepolia"
-2026-09-09 20:54:13,1906480,blancasepulveda.com,payload_delivery,Unknown RAT,"etherhiding,pythonRAT,Sepolia"
-2026-09-09 20:54:13,1906484,boombeautysalonandspa.ca,payload_delivery,Unknown RAT,"etherhiding,pythonRAT,Sepolia"
 2026-09-07 19:47:24,1903908,cs2.acsdomaindsadas.click,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-09-07 04:49:00,1903238,badger-kuis-vnex5.life,botnet_cc,IClickFix,"c2,ClickFix,Mac"
+2026-09-06 16:02:10,1902498,bricksstaging.wpenginepowered.com,payload_delivery,IClickFix,ClickFix
 2026-09-05 23:07:47,1901881,preokcriix.live,botnet_cc,IClickFix,"c2,ClickFix,Mac"
 2026-09-04 15:47:55,1894351,www.qkshhdjrbd.work,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-09-02 20:53:11,1893552,purebrookkitchens.com,payload_delivery,IClickFix,"ClickFix,ErrTraffic,LENAI"
@@ -1091,23 +744,20 @@ first_seen_utc,ioc_id,ioc_value,threat_type,malware_printable,tags
 2026-08-24 00:37:06,1885766,savoryit.com,payload_delivery,IClickFix,"ClearFake,ClickFix"
 2026-08-18 11:47:40,1880290,ossb6.oss-cn-beijing.aliyuncs.com,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-08-18 08:12:40,1880179,costum342183.life,payload_delivery,IClickFix,ClickFix
-2026-08-14 01:31:48,1874005,corrieredellaverita.it,payload_delivery,IClickFix,"ClickFix,Mac"
 2026-08-11 15:46:46,1872329,cf.lala1.lat,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-08-09 06:30:55,1871186,stoppingignpi.buzz,payload_delivery,Unknown malware,"ClickFix,injected-loader"
 2026-08-06 13:15:39,1869397,faircloud512421.buzz,payload_delivery,IClickFix,"ClickFix,EXT,macos,stealer"
 2026-08-06 05:45:55,1869251,nick-metry.icu,payload_delivery,Unknown malware,"ClickFix,injected-loader"
 2026-08-05 13:40:55,1868878,bloodhorn8123.icu,payload_delivery,Unknown malware,"ClickFix,injected-loader"
 2026-08-05 06:37:52,1868560,dollllar881122.icu,payload_delivery,Unknown malware,"ClickFix,injected-loader"
-2026-07-29 08:55:50,1862752,chogonfacilities.com,payload_delivery,IClickFix,"ClickFix,Mac,wordpress"
+2026-07-29 08:57:53,1863121,tesladiagnosticclinic.com,payload_delivery,IClickFix,"ClickFix,Mac,wordpress"
 2026-07-26 21:45:45,1859678,dns1.dreamls.com,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-07-26 21:45:45,1859679,dns2.dreamls.com,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-07-26 20:18:00,1859356,nhconsulting-group.com,payload_delivery,ClearFake,"ClearFake,ClickFix"
-2026-07-26 20:17:53,1859211,greencoalition.pl,payload_delivery,ClearFake,"ClearFake,ClickFix"
 2026-07-23 15:46:18,1856213,www.ai2.qzz.io,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-29 11:46:18,1839238,updatesrv.net,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-29 11:46:18,1839239,web-analyzer-serv32.com,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-27 15:46:01,1838628,test.officeplustool.top,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
-2026-06-24 11:04:25,1836901,thesoccerarena.com,payload_delivery,IClickFix,"ClickFix,etherhiding,injected,Polygon"
 2026-06-15 15:45:49,1832398,cs.tpedu2metricstw.dpdns.org,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
 2026-06-05 05:14:52,1822674,dev.useimage.sbs,botnet_cc,Cobalt Strike,CobaltStrike
 2026-06-04 23:45:07,1822599,updates.fisgloval.com,botnet_cc,Cobalt Strike,"CobaltStrike,drb-ra"
