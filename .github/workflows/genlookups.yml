@@ -35,9 +35,9 @@ jobs:
         run: |
           python sources/msft-azurecloud/azure_ips.py          
 
-      - name: Pull Threatfox Data
-        run: |
-          python sources/threatfox-iocs/threatfox-ioc.py
+#      - name: Pull Threatfox Data
+#        run: |
+#          python sources/threatfox-iocs/threatfox-ioc.py
           
       - name: Pull BinaryEdge Data
         run: |
